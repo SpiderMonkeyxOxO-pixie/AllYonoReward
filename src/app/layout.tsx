@@ -51,8 +51,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`scroll-smooth ${bodyFont.variable} ${displayFont.variable}`} data-scroll-behavior="smooth">
       <body className="flex min-h-screen flex-col overflow-x-hidden font-sans text-[15px] sm:text-base">
-        <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} strategy="afterInteractive" />
-        <Script id="google-analytics" strategy="afterInteractive">
+        {/* lazyOnload defers GA (the single heaviest third-party script on
+            the page) until the browser is idle, so it doesn't compete with
+            the critical rendering path for LCP/Performance metrics. */}
+        <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`} strategy="lazyOnload" />
+        <Script id="google-analytics" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}

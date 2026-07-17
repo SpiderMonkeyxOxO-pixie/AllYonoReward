@@ -10,7 +10,11 @@ interface BlogCardProps {
 export function BlogCard({ post }: BlogCardProps) {
   return (
     <article className="card-surface flex h-full flex-col overflow-hidden">
-      <Link href={`/blog/${post.slug}`} className="block aspect-video overflow-hidden bg-base-100">
+      <Link
+        href={`/blog/${post.slug}`}
+        aria-label={post.title}
+        className="block aspect-video overflow-hidden bg-base-100"
+      >
         <Image
           src={post.image}
           alt=""
