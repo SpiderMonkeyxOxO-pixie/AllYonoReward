@@ -214,9 +214,9 @@ verified data as it becomes available:
 - **Classification**: every game defaults to `"Not Yet Verified"` — no legal determination has
   been made. **Platform status** is set to `"Active"` per the site owner confirming all listed
   games are real, active applications; this is distinct from legal classification.
-- **Domain**: `src/lib/site-config.ts` uses the placeholder `https://www.allyonorewards.com`
-  and a placeholder contact email — update `siteConfig.siteUrl` and `contactEmail` before
-  going live (this one constant feeds canonical URLs, sitemaps, and Open Graph tags).
+- **Domain**: `siteConfig.siteUrl` is `https://www.allyonoreward.com` — confirmed live
+  (`www` canonical, non-www redirects to it). `contactEmail` and `twitterHandle` are still
+  placeholders — update those in `src/lib/site-config.ts` once real.
 - **Legal pages**: Privacy Policy / Terms / Legalities contain explicit "placeholder" callouts
   and need qualified review.
 

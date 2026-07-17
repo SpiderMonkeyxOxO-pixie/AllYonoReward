@@ -1,6 +1,5 @@
 // Single place to change brand name, domain and top-level nav.
-// PLACEHOLDER: swap `siteUrl` for the real production domain before launch —
-// it feeds canonical URLs, sitemap.xml, robots.txt and Open Graph tags.
+// siteUrl feeds canonical URLs, sitemap.xml, robots.txt and Open Graph tags.
 import { games } from "@/data/games";
 
 // Derived from the data file so copy never drifts out of sync with the
@@ -10,7 +9,7 @@ export const GAME_COUNT = games.length;
 export const siteConfig = {
   name: "AllYonoReward",
   tagline: `Yono Game Guide: Games, Promo Codes & Rewards`,
-  siteUrl: "https://www.allyonoreward.com", // PLACEHOLDER domain
+  siteUrl: "https://www.allyonoreward.com", // confirmed live domain (www canonical, non-www redirects)
   description: `Explore ${GAME_COUNT} Yono Game guides, individual promo-code pages, reward features, eligibility details and platform-specific terms in one organized directory.`,
   locale: "en_IN",
   country: "India",
