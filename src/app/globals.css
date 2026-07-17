@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  body {
+    @apply bg-base-50 text-brand-green-dark antialiased;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-brand-gold ring-offset-2 ring-offset-white;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display font-bold tracking-tight text-brand-green-dark [text-wrap:balance];
+  }
+
+  /* Prevents the browser from auto-inflating tap-target font sizes on iOS,
+     which otherwise causes layout jumps between portrait/landscape. */
+  input, select, textarea, button {
+    -webkit-text-size-adjust: 100%;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 xs:px-5 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-colors duration-150 focus-visible:outline-none disabled:pointer-events-none disabled:opacity-50;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-gold text-brand-green-dark shadow-gold hover:bg-brand-gold-light active:bg-brand-gold-dark active:text-white;
+  }
+
+  .btn-secondary {
+    @apply btn border border-brand-gold/60 bg-transparent text-white hover:bg-white/10 active:bg-white/20;
+  }
+
+  .btn-secondary-light {
+    @apply btn border border-brand-green/20 bg-white text-brand-green-dark hover:border-brand-gold hover:text-brand-gold-dark active:bg-base-50;
+  }
+
+  .card-surface {
+    @apply rounded-2xl border border-black/5 bg-white shadow-card;
+  }
+
+  .card-surface-dark {
+    @apply relative overflow-hidden rounded-2xl border border-brand-gold/20 bg-gradient-to-br from-brand-green to-brand-green-dark shadow-card-lg;
+    background-image:
+      radial-gradient(120% 100% at 0% 0%, rgba(212, 175, 55, 0.16), transparent 55%),
+      linear-gradient(to bottom right, var(--tw-gradient-from), var(--tw-gradient-to));
+  }
+
+  .eyebrow {
+    @apply text-xs font-bold uppercase tracking-wider text-brand-gold-dark;
+  }
+
+  /* Long-form article body styling for blog post content components — lets
+     those files write plain semantic HTML (h2/h3/p/ul/ol/a/strong) instead
+     of repeating utility classes on every element. */
+  .blog-prose {
+    @apply text-brand-green-dark/85;
+  }
+  .blog-prose > * + * {
+    @apply mt-4;
+  }
+  .blog-prose h2 {
+    @apply mt-10 text-xl font-semibold text-brand-green-dark sm:text-2xl;
+  }
+  .blog-prose h3 {
+    @apply mt-6 text-lg font-semibold text-brand-green-dark;
+  }
+  .blog-prose p {
+    @apply leading-relaxed;
+  }
+  .blog-prose ul,
+  .blog-prose ol {
+    @apply space-y-1.5 pl-5;
+  }
+  .blog-prose ul {
+    @apply list-disc;
+  }
+  .blog-prose ol {
+    @apply list-decimal;
+  }
+  .blog-prose a {
+    @apply font-medium text-brand-gold-dark underline decoration-brand-gold/40 underline-offset-2 hover:decoration-brand-gold-dark;
+  }
+  .blog-prose strong {
+    @apply font-semibold text-brand-green-dark;
+  }
+}

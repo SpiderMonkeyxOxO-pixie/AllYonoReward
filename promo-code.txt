@@ -1,0 +1,436 @@
+# AllYonoReward — Daily Promo Codes by Platform
+# =========================================================
+# HOW TO EDIT (no coding needed):
+#   Each game has its own block below: [slug]
+#   For each of the three daily slots (AM / PM / EVE), fill in:
+#     _CODE   -> the exact promo code text. Leave blank if none yet.
+#     _STATUS -> one of:  Verified  |  Expired  |  Not Released
+#                Only use "Verified" once you have genuinely checked the
+#                code works — never guess.
+#   Save this file, then redeploy/rebuild the site so the change goes live
+#   (same as any other content update — see README.md).
+# =========================================================
+
+[101z]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[567-slots]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[777-game]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[789-jackpot]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[abc-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[bet-213]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[bingo-101]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[boss-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[club-inr]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[game-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[gogo-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[hi-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[hindi-777]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[inr-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[ind-club]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[ind-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[ind-slots]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-777]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-arcade]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-slot]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-spin]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-win]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[jaiho-91]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[joy-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[love-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[max-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[mbm-bet]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[maha-games]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[neta-vip]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[ok-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[rumble-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[rummy-91]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[rummy-ludo]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[rummy-77]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[rummy-888]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[saga-slots]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[share-slots]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[slot-spin]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[slots-winner]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[spin-101]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[spin-777]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[spin-gold]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[spin-winner]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[top-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yes-spin]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yn-777]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yono-777]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yono-arcade]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yono-games]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yono-rummy]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yono-slots]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
+
+[yono-vip]
+AM_CODE:
+AM_STATUS: Not Released
+PM_CODE:
+PM_STATUS: Not Released
+EVE_CODE:
+EVE_STATUS: Not Released
