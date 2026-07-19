@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { SearchBox } from "@/components/layout/SearchBox";
 import { GameCard } from "@/components/ui/GameCard";
+import { UpcomingGameCard } from "@/components/ui/UpcomingGameCard";
 import { DailyCodeCard } from "@/components/ui/DailyCodeCard";
 import { RewardCard } from "@/components/ui/RewardCard";
 import { BlogCard } from "@/components/ui/BlogCard";
@@ -12,6 +13,7 @@ import {
   getAllRewardFeatures,
   getFeaturedGames,
   getRecentlyUpdatedGames,
+  getUpcomingGames,
 } from "@/lib/data";
 import { getAllBlogPosts } from "@/lib/blog";
 import { buildGameSearchEntries } from "@/lib/utils";
@@ -30,6 +32,7 @@ export default function HomePage() {
   const games = getAllGames();
   const featuredGames = getFeaturedGames(6);
   const recentGames = getRecentlyUpdatedGames(8);
+  const upcomingGames = getUpcomingGames(6);
   const rewardFeatures = getAllRewardFeatures().slice(0, 8);
   const latestPosts = getAllBlogPosts().slice(0, 3);
   const searchIndex = buildGameSearchEntries(games);
@@ -91,6 +94,21 @@ export default function HomePage() {
       </section>
 
       <div className="container-page flex flex-col gap-14 py-10 sm:gap-16 sm:py-14">
+        {/* Upcoming and New Games */}
+        {upcomingGames.length > 0 && (
+          <section aria-labelledby="upcoming-games-heading">
+            <p className="eyebrow">Coming Soon</p>
+            <h2 id="upcoming-games-heading" className="mb-6 text-2xl font-bold text-brand-green-dark">
+              Upcoming and New Games
+            </h2>
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">
+              {upcomingGames.map(({ game, upcoming }) => (
+                <UpcomingGameCard key={game.slug} game={game} upcoming={upcoming} />
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Popular Games */}
         <section aria-labelledby="popular-games-heading">
           <div className="mb-6 flex items-end justify-between gap-4">

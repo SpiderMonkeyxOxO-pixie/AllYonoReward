@@ -1,7 +1,7 @@
 import { cn } from "@/lib/utils";
 import type { PromoCodeStatus, PlatformStatus, Classification } from "@/lib/types";
 
-type BadgeTone = "green" | "amber" | "red" | "gray" | "blue";
+export type BadgeTone = "green" | "amber" | "red" | "gray" | "blue";
 
 const PROMO_STATUS_TONE: Record<PromoCodeStatus, BadgeTone> = {
   Verified: "green",
@@ -17,6 +17,7 @@ const PLATFORM_STATUS_TONE: Record<PlatformStatus, BadgeTone> = {
   Unverified: "amber",
   "Under Review": "blue",
   Unavailable: "red",
+  "Coming Soon": "amber",
 };
 
 const CLASSIFICATION_TONE: Record<Classification, BadgeTone> = {
@@ -35,7 +36,7 @@ const TONE_CLASSES: Record<BadgeTone, string> = {
   blue: "bg-blue-50 text-blue-800 ring-1 ring-inset ring-blue-600/20",
 };
 
-function Badge({ label, tone, className }: { label: string; tone: BadgeTone; className?: string }) {
+export function Badge({ label, tone, className }: { label: string; tone: BadgeTone; className?: string }) {
   return (
     <span
       className={cn(

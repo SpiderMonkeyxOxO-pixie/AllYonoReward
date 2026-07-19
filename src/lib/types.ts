@@ -13,7 +13,8 @@ export type PlatformStatus =
   | "Active"
   | "Unverified"
   | "Under Review"
-  | "Unavailable";
+  | "Unavailable"
+  | "Coming Soon";
 
 export type Classification =
   | "Social Game"
@@ -89,6 +90,15 @@ export interface Game {
   faqs: FAQItem[];
   featuredHome: boolean;
   recentlyUpdated: boolean;
+}
+
+export interface UpcomingGame {
+  slug: string; // matches a Game.slug in games.ts
+  releaseDateISO: string; // ISO 8601 timestamp (with UTC offset) the countdown targets
+  releaseWindowLabel: string; // human-readable release window, e.g. "8:00 - 9:00 AM IST"
+  welcomeBonusRange: string;
+  minWithdrawal: string;
+  highlightTags: string[]; // short marketing tags, e.g. ["Hot", "New"]
 }
 
 export const BLOG_CATEGORIES = ["Guides", "Promo Codes", "Rewards & Bonuses", "Safety & Trust"] as const;

@@ -1,6 +1,7 @@
 import { games } from "@/data/games";
 import { rewardFeatures } from "@/data/reward-features";
-import type { Game, RewardFeature } from "./types";
+import { upcomingGames } from "@/data/upcoming-games";
+import type { Game, RewardFeature, UpcomingGame } from "./types";
 import { promoSlugFor } from "./utils";
 
 export function getAllGames(): Game[] {
@@ -23,6 +24,26 @@ export function getRecentlyUpdatedGames(limit = 8): Game[] {
   return [...games]
     .filter((g) => g.recentlyUpdated)
     .sort((a, b) => (a.lastUpdated < b.lastUpdated ? 1 : -1))
+    .slice(0, limit);
+}
+
+export interface UpcomingGameEntry {
+  game: Game;
+  upcoming: UpcomingGame;
+}
+
+// Only surfaces entries still ahead of their release moment — once the
+// countdown target passes, the title drops off automatically on the next
+// rebuild rather than needing to be removed from upcoming-games.ts by hand.
+export function getUpcomingGames(limit = 6): UpcomingGameEntry[] {
+  return upcomingGames
+    .map((upcoming) => {
+      const game = getGameBySlug(upcoming.slug);
+      return game ? { game, upcoming } : null;
+    })
+    .filter((entry): entry is UpcomingGameEntry => entry !== null)
+    .filter((entry) => new Date(entry.upcoming.releaseDateISO).getTime() > Date.now())
+    .sort((a, b) => a.upcoming.releaseDateISO.localeCompare(b.upcoming.releaseDateISO))
     .slice(0, limit);
 }
 

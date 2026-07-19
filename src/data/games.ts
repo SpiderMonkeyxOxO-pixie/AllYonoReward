@@ -411,6 +411,55 @@ export const games: Game[] = [
     recentlyUpdated: false,
   },
   {
+    name: "Dhan Game",
+    slug: "dhan-game",
+    icon: "/images/games/dhan-game.webp",
+    shortDescription: "Dhan Game is a slots title announced for AllYonoReward's directory, launching July 23, 2026. This page will fill in with verified details once it goes live.",
+    longDescription: "Dhan Game has been announced with a confirmed launch window of July 23, 2026, 8:00 – 9:00 AM IST, and is listed here ahead of time under our slots category. Because the platform has not yet gone live, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what has been publicly announced rather than independent verification. Once Dhan Game launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch figures as provisional and check the official app directly once it becomes available.",
+    category: ["Slots"],
+    features: ["Promo Code","Welcome Bonus","First Deposit Bonus","Lucky Spin"],
+    downloadUrl: "",
+    promoCode: {
+      code: "",
+      status: "No Public Code Available",
+      lastChecked: "",
+      eligibility: "Promo-code eligibility for Dhan Game has not been announced yet. Once the platform launches on July 23, 2026, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
+      conditions: "Dhan Game has indicated a promo code will be guaranteed at launch, alongside an announced welcome bonus of ₹50 to ₹500 and deposit-match rewards on the first three deposits (up to +200% extra on the 2nd and 3rd). None of these figures can be confirmed until the platform officially goes live.",
+      expiration: "Not applicable — Dhan Game has not launched and no code has been listed yet.",
+      usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
+      whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Dhan Game is live.",
+      commonIssues: ["The platform has not launched yet, so no promo code exists to redeem.","Early listings may circulate before launch and should not be trusted without verification.","Codes shared before the official launch date are not confirmed by this directory."],
+      platformTerms: "All promo-code terms for Dhan Game will be set by the platform itself once it launches and are not guaranteed by this site.",
+    },
+    platformStatus: "Coming Soon",
+    classification: "Not Yet Verified",
+    officialWebsiteStatus: "Dhan Game has not launched yet. Its official website/app status will be reviewed and confirmed after the announced July 23, 2026 launch window.",
+    availabilityNotes: "Device compatibility, app store policy and regional availability for Dhan Game will be confirmed once the platform is live.",
+    lastReviewed: "2026-07-19",
+    lastUpdated: "2026-07-19",
+    relatedGames: ["567-slots","777-game","789-jackpot","hindi-777","ind-slots"],
+    faqs: [
+          {
+                "question": "When does Dhan Game launch?",
+                "answer": "Dhan Game is scheduled to launch on July 23, 2026, between 8:00 and 9:00 AM IST. This page will be updated with confirmed details after launch."
+          },
+          {
+                "question": "Is there a working Dhan Game promo code right now?",
+                "answer": "No — Dhan Game has not launched yet, so no promo code can be verified. Treat any code shared before the official launch date with caution."
+          },
+          {
+                "question": "Can I download Dhan Game before its launch date?",
+                "answer": "A download link is not available until Dhan Game officially launches. This page will add a verified link once one becomes available."
+          },
+          {
+                "question": "What welcome bonus and deposit rewards has Dhan Game announced?",
+                "answer": "Dhan Game has announced a welcome bonus range of ₹50 to ₹500, plus deposit-match rewards on the first three deposits with the 2nd and 3rd reportedly running up to +200% extra. See our Dhan Game welcome bonus guide on the blog for a full breakdown of what's been announced."
+          }
+    ],
+    featuredHome: false,
+    recentlyUpdated: false,
+  },
+  {
     name: "Game Rummy",
     slug: "game-rummy",
     icon: "/images/games/game-rummy.webp",

@@ -131,6 +131,28 @@ export function fitDescription(base: string, filler: string, min = 140, max = 15
   return `${base} ${trimmed}.`;
 }
 
+export interface CountdownParts {
+  days: number;
+  hours: number;
+  minutes: number;
+  seconds: number;
+  isPast: boolean;
+}
+
+export function getCountdownParts(targetIso: string, now: number = Date.now()): CountdownParts {
+  const diff = new Date(targetIso).getTime() - now;
+  if (diff <= 0) return { days: 0, hours: 0, minutes: 0, seconds: 0, isPast: true };
+
+  const totalSeconds = Math.floor(diff / 1000);
+  return {
+    days: Math.floor(totalSeconds / 86400),
+    hours: Math.floor((totalSeconds % 86400) / 3600),
+    minutes: Math.floor((totalSeconds % 3600) / 60),
+    seconds: totalSeconds % 60,
+    isPast: false,
+  };
+}
+
 export function pickN<T>(pool: T[], seed: string, salt: string, n: number): T[] {
   const indices = pool.map((_, i) => i);
   let s = hashString(`${seed}::${salt}`);
