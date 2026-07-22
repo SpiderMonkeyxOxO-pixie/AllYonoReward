@@ -90,6 +90,10 @@ export interface Game {
   faqs: FAQItem[];
   featuredHome: boolean;
   recentlyUpdated: boolean;
+  // Manually curated pin-to-top rank for the /games and /promo-codes hub
+  // pages (lower sorts first; omit for standard alphabetical placement).
+  // When a new platform takes #1, bump every existing value up by one.
+  priority?: number;
 }
 
 export interface UpcomingGame {

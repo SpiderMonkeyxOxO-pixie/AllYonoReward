@@ -458,6 +458,7 @@ export const games: Game[] = [
     ],
     featuredHome: false,
     recentlyUpdated: false,
+    priority: 1,
   },
   {
     name: "Game Rummy",
@@ -1268,6 +1269,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
+    priority: 2,
   },
   {
     name: "MBM Bet",
@@ -2213,6 +2215,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
+    priority: 5,
   },
   {
     name: "Yono Arcade",
@@ -2258,6 +2261,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
+    priority: 6,
   },
   {
     name: "Yono Games",
@@ -2303,6 +2307,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
+    priority: 4,
   },
   {
     name: "Yono Rummy",
@@ -2348,6 +2353,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: true,
+    priority: 3,
   },
   {
     name: "Yono Slots",

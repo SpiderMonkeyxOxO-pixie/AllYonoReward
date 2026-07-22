@@ -128,15 +128,20 @@ export function filterAndSortGames(options: GameFilterOptions): Game[] {
     result = result.filter((g) => g.promoCode.status === options.status);
   }
 
+  // Manually curated pins (Game.priority) take precedence over the default
+  // and A–Z sorts so a newly announced platform can be pinned to #1 without
+  // relying on name or featuredHome — see the Game.priority doc comment.
+  const byPriority = (a: Game, b: Game) => (a.priority ?? Infinity) - (b.priority ?? Infinity);
+
   const sorted = [...result];
   if (options.sort === "az") {
-    sorted.sort((a, b) => a.name.localeCompare(b.name));
+    sorted.sort((a, b) => byPriority(a, b) || a.name.localeCompare(b.name));
   } else if (options.sort === "recent") {
     sorted.sort((a, b) => (a.lastUpdated < b.lastUpdated ? 1 : -1));
   } else if (options.sort === "checked") {
     sorted.sort((a, b) => (a.promoCode.lastChecked < b.promoCode.lastChecked ? 1 : -1));
   } else {
-    sorted.sort((a, b) => Number(b.featuredHome) - Number(a.featuredHome));
+    sorted.sort((a, b) => byPriority(a, b) || Number(b.featuredHome) - Number(a.featuredHome));
   }
   return sorted;
 }
