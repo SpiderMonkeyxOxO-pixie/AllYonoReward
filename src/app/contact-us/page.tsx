@@ -23,7 +23,6 @@ export default function ContactUsPage() {
       <section>
         <h2>Email</h2>
         <p>
-          {/* PLACEHOLDER contact address — replace with a monitored inbox before launch */}
           General inquiries: <a className="font-semibold text-brand-gold-dark hover:underline" href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a>
         </p>
       </section>

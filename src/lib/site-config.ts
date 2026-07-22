@@ -14,7 +14,7 @@ export const siteConfig = {
   locale: "en_IN",
   country: "India",
   language: "English",
-  contactEmail: "hello@allyonoreward.com", // PLACEHOLDER
+  contactEmail: "Allyonorewardnewsupport@gmail.com",
   logo: "/images/logo.png",
   twitterHandle: "@allyonoreward", // PLACEHOLDER
 } as const;
