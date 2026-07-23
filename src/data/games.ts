@@ -414,50 +414,50 @@ export const games: Game[] = [
     name: "Dhan Game",
     slug: "dhan-game",
     icon: "/images/games/dhan-game.webp",
-    shortDescription: "Dhan Game is a slots title announced for AllYonoReward's directory, launching July 23, 2026. This page will fill in with verified details once it goes live.",
-    longDescription: "Dhan Game has been announced with a confirmed launch window of July 23, 2026, 8:00 – 9:00 AM IST, and is listed here ahead of time under our slots category. Because the platform has not yet gone live, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what has been publicly announced rather than independent verification. Once Dhan Game launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch figures as provisional and check the official app directly once it becomes available.",
+    shortDescription: "Dhan Game has officially launched as of July 23, 2026 — a crown-and-coins slots title with a live download link, a ₹50–₹500 welcome bonus and deposit-match rewards on the first three deposits.",
+    longDescription: "Dhan Game went live on July 23, 2026, 8:00–9:00 AM IST, and is now listed here as an active platform under our slots category with a working download link. Its pre-launch announcements pointed to a ₹50 to ₹500 welcome bonus and deposit-match rewards on the first three deposits, reportedly running up to +200% extra on the second and third — see our Dhan Game welcome bonus guide on the blog for that breakdown. Now that the platform is live, those figures can be checked directly inside the app rather than taken on faith from pre-launch marketing. As with every listing in this directory, we don't reproduce Dhan Game's own claims as fact; this page will be revisited as verifiable, in-app details come in.",
     category: ["Slots"],
     features: ["Promo Code","Welcome Bonus","First Deposit Bonus","Lucky Spin"],
-    downloadUrl: "",
+    downloadUrl: "https://dhanwinplay.com/?code=L2VRQRRF2UK&t=1784778249",
     promoCode: {
       code: "",
       status: "No Public Code Available",
       lastChecked: "",
-      eligibility: "Promo-code eligibility for Dhan Game has not been announced yet. Once the platform launches on July 23, 2026, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
-      conditions: "Dhan Game has indicated a promo code will be guaranteed at launch, alongside an announced welcome bonus of ₹50 to ₹500 and deposit-match rewards on the first three deposits (up to +200% extra on the 2nd and 3rd). None of these figures can be confirmed until the platform officially goes live.",
-      expiration: "Not applicable — Dhan Game has not launched and no code has been listed yet.",
-      usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
-      whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Dhan Game is live.",
-      commonIssues: ["The platform has not launched yet, so no promo code exists to redeem.","Early listings may circulate before launch and should not be trusted without verification.","Codes shared before the official launch date are not confirmed by this directory."],
-      platformTerms: "All promo-code terms for Dhan Game will be set by the platform itself once it launches and are not guaranteed by this site.",
+      eligibility: "Dhan Game's promo-code eligibility criteria (account status, app version, region, etc.) are managed by the platform and not published independently here. Check the in-app terms before assuming you qualify.",
+      conditions: "Specific redemption conditions have not been independently published for Dhan Game at this time. Pre-launch material pointed to a guaranteed code at release alongside the ₹50–₹500 welcome bonus and up to +200% deposit-match rewards, but none of that has been independently verified against the live app yet.",
+      expiration: "Not applicable — no public code is currently listed for this game.",
+      usageLimit: "No usage limit to report until a code is publicly listed.",
+      whereToEnter: "Dhan Game would typically host code redemption under an in-app rewards or wallet menu, though we recommend checking the latest app version for the current location.",
+      commonIssues: ["The code was platform-specific and doesn't apply to every account type.","The code was restricted to specific new users or regions.","The code had already reached its maximum number of uses.","Codes circulating from before the official launch may not carry over to the live app."],
+      platformTerms: "Promo-code terms, minimum requirements and reward values are set solely by the Dhan Game platform and may change without notice.",
     },
-    platformStatus: "Coming Soon",
+    platformStatus: "Active",
     classification: "Not Yet Verified",
-    officialWebsiteStatus: "Dhan Game has not launched yet. Its official website/app status will be reviewed and confirmed after the announced July 23, 2026 launch window.",
-    availabilityNotes: "Device compatibility, app store policy and regional availability for Dhan Game will be confirmed once the platform is live.",
-    lastReviewed: "2026-07-19",
-    lastUpdated: "2026-07-19",
+    officialWebsiteStatus: "Dhan Game is confirmed as newly launched and listed by our team as of July 23, 2026. Legal/regulatory classification is handled independently and not yet confirmed — see Legalities.",
+    availabilityNotes: "Dhan Game's availability may depend on device, app store policies and user location.",
+    lastReviewed: "2026-07-23",
+    lastUpdated: "2026-07-23",
     relatedGames: ["567-slots","777-game","789-jackpot","hindi-777","ind-slots"],
     faqs: [
           {
-                "question": "When does Dhan Game launch?",
-                "answer": "Dhan Game is scheduled to launch on July 23, 2026, between 8:00 and 9:00 AM IST. This page will be updated with confirmed details after launch."
+                "question": "Has Dhan Game officially launched?",
+                "answer": "Yes — Dhan Game launched on July 23, 2026, between 8:00 and 9:00 AM IST, and a working download link is now live on this page."
           },
           {
                 "question": "Is there a working Dhan Game promo code right now?",
-                "answer": "No — Dhan Game has not launched yet, so no promo code can be verified. Treat any code shared before the official launch date with caution."
+                "answer": "No publicly verified promo code is listed for Dhan Game at this time, despite pre-launch material pointing to one being guaranteed at release. See the Dhan Game promo-code page for current status and how that may change."
           },
           {
-                "question": "Can I download Dhan Game before its launch date?",
-                "answer": "A download link is not available until Dhan Game officially launches. This page will add a verified link once one becomes available."
+                "question": "How do I download Dhan Game?",
+                "answer": "A download link for Dhan Game is provided on this page. Always confirm you're using an official source, and review the app's own permissions and terms before installing."
           },
           {
                 "question": "What welcome bonus and deposit rewards has Dhan Game announced?",
-                "answer": "Dhan Game has announced a welcome bonus range of ₹50 to ₹500, plus deposit-match rewards on the first three deposits with the 2nd and 3rd reportedly running up to +200% extra. See our Dhan Game welcome bonus guide on the blog for a full breakdown of what's been announced."
+                "answer": "Pre-launch material pointed to a welcome bonus range of ₹50 to ₹500, plus deposit-match rewards on the first three deposits with the 2nd and 3rd reportedly running up to +200% extra. These figures haven't been independently confirmed against the live app — see our Dhan Game welcome bonus guide on the blog for the full breakdown of what was announced."
           }
     ],
     featuredHome: false,
-    recentlyUpdated: false,
+    recentlyUpdated: true,
     priority: 1,
   },
   {
