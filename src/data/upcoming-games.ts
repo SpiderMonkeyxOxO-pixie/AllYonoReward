@@ -3,5 +3,12 @@
 import type { UpcomingGame } from "@/lib/types";
 
 // Dhan Game launched July 23, 2026 and has moved to a regular listing
-// (see games.ts) — this list is empty until the next pre-launch title.
-export const upcomingGames: UpcomingGame[] = [];
+// (see games.ts).
+export const upcomingGames: UpcomingGame[] = [
+  {
+    slug: "win-rummy",
+    releaseDateISO: "2026-07-29T08:00:00+05:30",
+    releaseWindowLabel: "Around 8:00 AM IST",
+    highlightTags: ["New"],
+  },
+];

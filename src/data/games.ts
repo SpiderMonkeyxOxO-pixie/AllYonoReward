@@ -458,7 +458,7 @@ export const games: Game[] = [
     ],
     featuredHome: false,
     recentlyUpdated: true,
-    priority: 1,
+    priority: 2,
   },
   {
     name: "Game Rummy",
@@ -1269,7 +1269,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 2,
+    priority: 3,
   },
   {
     name: "MBM Bet",
@@ -2082,6 +2082,52 @@ export const games: Game[] = [
     recentlyUpdated: false,
   },
   {
+    name: "Win Rummy",
+    slug: "win-rummy",
+    icon: "/images/games/win-rummy.png",
+    shortDescription: "Win Rummy is a rummy title announced for AllYonoReward's directory, launching in the coming days. This page will fill in with verified details once it goes live.",
+    longDescription: "Win Rummy has been announced ahead of its upcoming launch and is listed here under our rummy category before the app goes live. Because the platform has not yet launched, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly known rather than independent verification. Once Win Rummy launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch details as provisional and check the official app directly once it becomes available.",
+    category: ["Rummy","Card Game"],
+    features: ["Promo Code","Welcome Bonus","Cards","Refer and Earn"],
+    downloadUrl: "",
+    promoCode: {
+      code: "",
+      status: "No Public Code Available",
+      lastChecked: "",
+      eligibility: "Promo-code eligibility for Win Rummy has not been announced yet. Once the platform launches, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
+      conditions: "Win Rummy has not made detailed redemption conditions publicly available ahead of launch.",
+      expiration: "Not applicable — Win Rummy has not launched and no code has been listed yet.",
+      usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
+      whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Win Rummy is live.",
+      commonIssues: ["The platform has not launched yet, so no promo code exists to redeem.","Early listings may circulate before launch and should not be trusted without verification.","Codes shared before the official launch date are not confirmed by this directory."],
+      platformTerms: "All promo-code terms for Win Rummy will be set by the platform itself once it launches and are not guaranteed by this site.",
+    },
+    platformStatus: "Coming Soon",
+    classification: "Not Yet Verified",
+    officialWebsiteStatus: "Win Rummy has not launched yet. Its official website/app status will be reviewed and confirmed after launch.",
+    availabilityNotes: "Device compatibility, app store policy and regional availability for Win Rummy will be confirmed once the platform is live.",
+    lastReviewed: "2026-07-25",
+    lastUpdated: "2026-07-25",
+    relatedGames: ["ok-rummy","rummy-91","boss-rummy","ind-rummy","top-rummy"],
+    faqs: [
+          {
+                "question": "When does Win Rummy launch?",
+                "answer": "Win Rummy is expected to launch within the next few days. This page will be updated with a confirmed date and verified details once that happens."
+          },
+          {
+                "question": "Is there a working Win Rummy promo code right now?",
+                "answer": "No — Win Rummy has not launched yet, so no promo code can be verified. Treat any code shared before the official launch date with caution."
+          },
+          {
+                "question": "Can I download Win Rummy before its launch date?",
+                "answer": "A download link is not available until Win Rummy officially launches. This page will add a verified link once one becomes available."
+          }
+    ],
+    featuredHome: false,
+    recentlyUpdated: false,
+    priority: 1,
+  },
+  {
     name: "Yes Spin",
     slug: "yes-spin",
     icon: "/images/games/yes-spin.webp",
@@ -2215,7 +2261,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 5,
+    priority: 6,
   },
   {
     name: "Yono Arcade",
@@ -2261,7 +2307,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 6,
+    priority: 7,
   },
   {
     name: "Yono Games",
@@ -2307,7 +2353,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 4,
+    priority: 5,
   },
   {
     name: "Yono Rummy",
@@ -2353,7 +2399,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: true,
-    priority: 3,
+    priority: 4,
   },
   {
     name: "Yono Slots",

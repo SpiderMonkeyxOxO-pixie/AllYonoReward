@@ -68,20 +68,26 @@ export function UpcomingGameCard({ game, upcoming }: UpcomingGameCardProps) {
         </div>
       </div>
 
-      <div className="space-y-2 rounded-xl2 border border-white/10 bg-white/5 p-3 text-xs text-white/85 sm:text-sm">
-        <p className="flex items-center gap-2">
-          <GiftIcon />
-          <span>
-            <strong className="font-semibold text-white">Welcome bonus:</strong> {upcoming.welcomeBonusRange}
-          </span>
-        </p>
-        <p className="flex items-center gap-2">
-          <WalletIcon />
-          <span>
-            <strong className="font-semibold text-white">Minimum withdrawal:</strong> {upcoming.minWithdrawal}
-          </span>
-        </p>
-      </div>
+      {(upcoming.welcomeBonusRange || upcoming.minWithdrawal) && (
+        <div className="space-y-2 rounded-xl2 border border-white/10 bg-white/5 p-3 text-xs text-white/85 sm:text-sm">
+          {upcoming.welcomeBonusRange && (
+            <p className="flex items-center gap-2">
+              <GiftIcon />
+              <span>
+                <strong className="font-semibold text-white">Welcome bonus:</strong> {upcoming.welcomeBonusRange}
+              </span>
+            </p>
+          )}
+          {upcoming.minWithdrawal && (
+            <p className="flex items-center gap-2">
+              <WalletIcon />
+              <span>
+                <strong className="font-semibold text-white">Minimum withdrawal:</strong> {upcoming.minWithdrawal}
+              </span>
+            </p>
+          )}
+        </div>
+      )}
 
       <div className="mt-auto">
         <p className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-brand-gold-light">

@@ -100,8 +100,10 @@ export interface UpcomingGame {
   slug: string; // matches a Game.slug in games.ts
   releaseDateISO: string; // ISO 8601 timestamp (with UTC offset) the countdown targets
   releaseWindowLabel: string; // human-readable release window, e.g. "8:00 - 9:00 AM IST"
-  welcomeBonusRange: string;
-  minWithdrawal: string;
+  // Omit until the platform has actually announced these — a card with no
+  // figures yet should show fewer rows, never a guessed or invented amount.
+  welcomeBonusRange?: string;
+  minWithdrawal?: string;
   highlightTags: string[]; // short marketing tags, e.g. ["Hot", "New"]
 }
 
