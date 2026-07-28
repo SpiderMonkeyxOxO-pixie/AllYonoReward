@@ -6,6 +6,7 @@ import PromoCodeNotWorking from "./promo-code-not-working";
 import IsItSafeToPlayYonoGames from "./is-it-safe-to-play-yono-games";
 import TypesOfYonoGamesCompared from "./types-of-yono-games-compared";
 import DhanGameWelcomeBonusGuide from "./dhan-game-welcome-bonus-guide";
+import WinRummyBonusExplained from "./win-rummy-bonus-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -17,4 +18,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "is-it-safe-to-play-yono-games": IsItSafeToPlayYonoGames,
   "types-of-yono-games-compared": TypesOfYonoGamesCompared,
   "dhan-game-welcome-bonus-guide": DhanGameWelcomeBonusGuide,
+  "win-rummy-bonus-explained": WinRummyBonusExplained,
 };

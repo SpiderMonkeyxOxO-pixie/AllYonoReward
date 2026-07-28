@@ -8,10 +8,12 @@ import { FAQAccordion } from "@/components/ui/FAQAccordion";
 import { RelatedGames } from "@/components/ui/RelatedGames";
 import { LastUpdated } from "@/components/ui/LastUpdated";
 import { DisclaimerBox } from "@/components/ui/DisclaimerBox";
+import { BlogCard } from "@/components/ui/BlogCard";
 import { PlatformStatusBadge, ClassificationBadge, PromoStatusBadge } from "@/components/ui/StatusBadge";
 import { DownloadButton } from "@/components/ui/DownloadButton";
 import { getAllGames, getGameBySlug, getRelatedGames } from "@/lib/data";
 import { getAllRewardFeatures } from "@/lib/data";
+import { getBlogPostsForGame } from "@/lib/blog";
 import { buildMetadata, faqPageJsonLd, gameArticleJsonLd, webPageJsonLd } from "@/lib/seo";
 import { formatDate, promoSlugFor } from "@/lib/utils";
 
@@ -49,6 +51,7 @@ export default async function GamePage({ params }: GamePageProps) {
   if (!game) notFound();
 
   const relatedGames = getRelatedGames(game, 5);
+  const relatedPosts = getBlogPostsForGame(game.slug);
   const rewardFeatures = getAllRewardFeatures().filter((r) => game.features.includes(r.key));
   const promoSlug = promoSlugFor(game.slug);
 
@@ -258,6 +261,20 @@ export default async function GamePage({ params }: GamePageProps) {
               </p>
             </DisclaimerBox>
           </section>
+
+          {/* From the Blog */}
+          {relatedPosts.length > 0 && (
+            <section aria-labelledby="game-blog-heading">
+              <h2 id="game-blog-heading" className="mb-3 text-xl font-semibold text-brand-green-dark">
+                From the Blog
+              </h2>
+              <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                {relatedPosts.map((post) => (
+                  <BlogCard key={post.slug} post={post} />
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* FAQ */}
           <section aria-labelledby="game-faq-heading">

@@ -9,6 +9,7 @@ export const upcomingGames: UpcomingGame[] = [
     slug: "win-rummy",
     releaseDateISO: "2026-07-29T08:00:00+05:30",
     releaseWindowLabel: "Around 8:00 AM IST",
+    welcomeBonusRange: "₹100 - ₹500",
     highlightTags: ["New"],
   },
 ];

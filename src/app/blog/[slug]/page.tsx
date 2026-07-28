@@ -39,6 +39,10 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
     description: post.metaDescription,
     path: `/blog/${post.slug}`,
     ogImage: post.image,
+    ogTitle: post.ogTitle,
+    ogDescription: post.ogDescription,
+    twitterTitle: post.twitterTitle,
+    twitterDescription: post.twitterDescription,
   });
 }
 

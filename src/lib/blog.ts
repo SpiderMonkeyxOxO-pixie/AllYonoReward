@@ -25,6 +25,10 @@ export function getBlogPostsByCategory(category: string): BlogPost[] {
   return getAllBlogPosts().filter((p) => p.category === category);
 }
 
+export function getBlogPostsForGame(gameSlug: string): BlogPost[] {
+  return getAllBlogPosts().filter((p) => p.relatedGameSlugs.includes(gameSlug));
+}
+
 export function getRelatedBlogPosts(post: BlogPost, limit = 3): BlogPost[] {
   const sameCategory = getAllBlogPosts().filter(
     (p) => p.slug !== post.slug && p.category === post.category

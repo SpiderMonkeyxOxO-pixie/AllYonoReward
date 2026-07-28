@@ -8,9 +8,26 @@ interface PageMetaInput {
   path: string; // e.g. "/games/example-game"
   noindex?: boolean;
   ogImage?: string;
+  // Most pages want identical copy everywhere and can omit these; set them
+  // only when the social-share card genuinely needs different wording than
+  // the <title>/meta description (e.g. a shorter Twitter-specific line).
+  ogTitle?: string;
+  ogDescription?: string;
+  twitterTitle?: string;
+  twitterDescription?: string;
 }
 
-export function buildMetadata({ title, description, path, noindex, ogImage }: PageMetaInput): Metadata {
+export function buildMetadata({
+  title,
+  description,
+  path,
+  noindex,
+  ogImage,
+  ogTitle,
+  ogDescription,
+  twitterTitle,
+  twitterDescription,
+}: PageMetaInput): Metadata {
   const url = `${siteConfig.siteUrl}${path}`;
   // Next.js replaces the parent layout's `openGraph`/`twitter` objects
   // wholesale rather than deep-merging them, so every page needs its own
@@ -25,8 +42,8 @@ export function buildMetadata({ title, description, path, noindex, ogImage }: Pa
       ? { index: false, follow: true }
       : { index: true, follow: true },
     openGraph: {
-      title,
-      description,
+      title: ogTitle ?? title,
+      description: ogDescription ?? description,
       url,
       siteName: siteConfig.name,
       locale: siteConfig.locale,
@@ -35,8 +52,8 @@ export function buildMetadata({ title, description, path, noindex, ogImage }: Pa
     },
     twitter: {
       card: "summary_large_image",
-      title,
-      description,
+      title: twitterTitle ?? ogTitle ?? title,
+      description: twitterDescription ?? ogDescription ?? description,
       site: siteConfig.twitterHandle,
       images: [image],
     },

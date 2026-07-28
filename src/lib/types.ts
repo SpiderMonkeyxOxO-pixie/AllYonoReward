@@ -125,6 +125,12 @@ export interface BlogPost {
   readingTimeMinutes: number;
   relatedGameSlugs: string[];
   faqs: FAQItem[];
+  // Optional social-share overrides — fall back to metaTitle/metaDescription
+  // when omitted, so most posts never need to set these.
+  ogTitle?: string;
+  ogDescription?: string;
+  twitterTitle?: string;
+  twitterDescription?: string;
 }
 
 export interface RewardFeature {

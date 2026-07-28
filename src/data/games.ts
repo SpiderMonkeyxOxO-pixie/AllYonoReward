@@ -2085,17 +2085,17 @@ export const games: Game[] = [
     name: "Win Rummy",
     slug: "win-rummy",
     icon: "/images/games/win-rummy.png",
-    shortDescription: "Win Rummy is a rummy title announced for AllYonoReward's directory, launching in the coming days. This page will fill in with verified details once it goes live.",
-    longDescription: "Win Rummy has been announced ahead of its upcoming launch and is listed here under our rummy category before the app goes live. Because the platform has not yet launched, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly known rather than independent verification. Once Win Rummy launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch details as provisional and check the official app directly once it becomes available.",
+    shortDescription: "Win Rummy is a rummy title announced for AllYonoReward's directory, with a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200% ahead of its coming-days launch.",
+    longDescription: "Win Rummy has been announced ahead of its upcoming launch and is listed here under our rummy category before the app goes live. Pre-launch material points to a randomly assigned welcome reward of ₹100 to ₹500 and an add-cash bonus of up to 200% on top-ups, though the qualifying payment tiers haven't been published yet — see our Win Rummy bonus guide on the blog for a full breakdown. Because the platform has not yet launched, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly known rather than independent verification. Once Win Rummy launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch details as provisional and check the official app directly once it becomes available.",
     category: ["Rummy","Card Game"],
-    features: ["Promo Code","Welcome Bonus","Cards","Refer and Earn"],
+    features: ["Promo Code","Welcome Bonus","First Deposit Bonus","Cards"],
     downloadUrl: "",
     promoCode: {
       code: "",
       status: "No Public Code Available",
       lastChecked: "",
       eligibility: "Promo-code eligibility for Win Rummy has not been announced yet. Once the platform launches, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
-      conditions: "Win Rummy has not made detailed redemption conditions publicly available ahead of launch.",
+      conditions: "Win Rummy has not made detailed redemption conditions publicly available ahead of launch. Pre-launch material points to a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200%, but no promo-code requirement has been confirmed for either.",
       expiration: "Not applicable — Win Rummy has not launched and no code has been listed yet.",
       usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
       whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Win Rummy is live.",
@@ -2106,8 +2106,8 @@ export const games: Game[] = [
     classification: "Not Yet Verified",
     officialWebsiteStatus: "Win Rummy has not launched yet. Its official website/app status will be reviewed and confirmed after launch.",
     availabilityNotes: "Device compatibility, app store policy and regional availability for Win Rummy will be confirmed once the platform is live.",
-    lastReviewed: "2026-07-25",
-    lastUpdated: "2026-07-25",
+    lastReviewed: "2026-07-28",
+    lastUpdated: "2026-07-28",
     relatedGames: ["ok-rummy","rummy-91","boss-rummy","ind-rummy","top-rummy"],
     faqs: [
           {
@@ -2121,10 +2121,14 @@ export const games: Game[] = [
           {
                 "question": "Can I download Win Rummy before its launch date?",
                 "answer": "A download link is not available until Win Rummy officially launches. This page will add a verified link once one becomes available."
+          },
+          {
+                "question": "What welcome reward and add-cash bonus has Win Rummy announced?",
+                "answer": "Pre-launch material points to a randomly assigned welcome reward of ₹100 to ₹500, plus an add-cash bonus of up to 200% on top-ups. These figures haven't been independently confirmed against the live app — see our Win Rummy bonus guide on the blog for the full breakdown of what's been announced."
           }
     ],
     featuredHome: false,
-    recentlyUpdated: false,
+    recentlyUpdated: true,
     priority: 1,
   },
   {

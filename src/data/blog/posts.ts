@@ -248,4 +248,78 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "win-rummy-bonus-explained",
+
+    image: "/images/blog/win-rummy-bonus-eligibility-conditions.webp",
+    title: "Win Rummy Bonus Explained: Eligibility, Conditions and Restrictions",
+    metaTitle: "Win Rummy Bonus: Eligibility, Terms & Restrictions",
+    metaDescription:
+      "Learn how the ₹100–₹500 Win Rummy welcome reward works, what the upcoming 200% add-cash bonus may require and which restrictions to check.",
+    excerpt:
+      "Win Rummy offers new users a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200%. Review the eligibility, pending conditions and possible restrictions.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "win rummy bonus",
+    datePublished: "2026-07-28",
+    dateUpdated: "2026-07-28",
+    readingTimeMinutes: 7,
+    relatedGameSlugs: ["win-rummy", "ok-rummy", "boss-rummy"],
+    ogTitle: "Win Rummy Bonus: Welcome Reward and Add-Cash Terms",
+    ogDescription:
+      "Review the random ₹100–₹500 Win Rummy welcome reward, the upcoming add-cash bonus of up to 200% and the conditions users should verify.",
+    twitterTitle: "Win Rummy Bonus Eligibility and Conditions",
+    twitterDescription:
+      "Understand the ₹100–₹500 welcome reward and the upcoming Win Rummy add-cash bonus of up to 200%.",
+    faqs: [
+      {
+        question: "What is the Win Rummy welcome reward?",
+        answer:
+          "Each eligible new user is expected to receive a randomly assigned welcome reward ranging from ₹100 to ₹500, based on pre-launch announcements. This hasn't been independently verified against the live app yet.",
+      },
+      {
+        question: "Is the ₹500 Win Rummy welcome reward guaranteed?",
+        answer:
+          "No. ₹500 is the highest possible amount in an announced range — a user may receive any reward between ₹100 and ₹500. Treat the top figure as a ceiling, not a typical outcome.",
+      },
+      {
+        question: "Can users choose their welcome reward?",
+        answer: "No. Based on what's been announced, the platform assigns the amount randomly rather than letting users pick it.",
+      },
+      {
+        question: "Does Win Rummy offer a 200% add-cash bonus?",
+        answer:
+          "Win Rummy has been announced as planning to offer an add-cash bonus of up to 200%. The actual percentage a user receives may depend on the qualifying amount added, which hasn't been published yet.",
+      },
+      {
+        question: "How much must users add to receive 200%?",
+        answer:
+          "The required amount has not been published. The full payment and bonus-percentage breakdown is expected once the app fully launches — this page will be updated when that happens.",
+      },
+      {
+        question: "Will every add-cash transaction receive 200%?",
+        answer:
+          "That hasn't been confirmed. The phrase \"up to 200%\" means lower percentages may apply to some payment tiers, with 200% likely reserved for a specific tier rather than every transaction.",
+      },
+      {
+        question: "Is the Win Rummy welcome reward withdrawable?",
+        answer:
+          "The withdrawal conditions aren't yet confirmed. Rewards like this commonly land in a separate bonus or promotional wallet rather than the withdrawable cash balance — check the in-app terms once available.",
+      },
+      {
+        question: "Does the Win Rummy bonus expire?",
+        answer:
+          "The expiry period hasn't yet been published. Users should check the final reward terms in-app once they're available rather than assume a bonus stays valid indefinitely.",
+      },
+      {
+        question: "Is a Win Rummy promo code required?",
+        answer:
+          "No promo-code requirement has been confirmed. Some rewards may be applied automatically or through a registration link rather than a manually entered code — see the Win Rummy promo-code page for current status.",
+      },
+      {
+        question: "Does AllYonoReward issue Win Rummy rewards?",
+        answer:
+          "No. AllYonoReward is an independent informational website and does not issue bonuses, process payments, or manage Win Rummy accounts. All rewards are issued solely by the Win Rummy platform.",
+      },
+    ],
+  },
 ];
