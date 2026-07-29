@@ -2085,46 +2085,46 @@ export const games: Game[] = [
     name: "Win Rummy",
     slug: "win-rummy",
     icon: "/images/games/win-rummy.png",
-    shortDescription: "Win Rummy is a rummy title announced for AllYonoReward's directory, with a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200% ahead of its coming-days launch.",
-    longDescription: "Win Rummy has been announced ahead of its upcoming launch and is listed here under our rummy category before the app goes live. Pre-launch material points to a randomly assigned welcome reward of ₹100 to ₹500 and an add-cash bonus of up to 200% on top-ups, though the qualifying payment tiers haven't been published yet — see our Win Rummy bonus guide on the blog for a full breakdown. Because the platform has not yet launched, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly known rather than independent verification. Once Win Rummy launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch details as provisional and check the official app directly once it becomes available.",
+    shortDescription: "Win Rummy has officially launched — a rummy title with a live download link, a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200% on top-ups.",
+    longDescription: "Win Rummy has gone live and is now listed here as an active platform under our rummy category with a working download link. Its pre-launch announcements pointed to a randomly assigned ₹100 to ₹500 welcome reward and an add-cash bonus of up to 200% on top-ups — see our Win Rummy bonus guide on the blog for that breakdown. Now that the platform is live, those figures can be checked directly inside the app rather than taken on faith from pre-launch marketing. As with every listing in this directory, we don't reproduce Win Rummy's own claims as fact; this page will be revisited as verifiable, in-app details come in.",
     category: ["Rummy","Card Game"],
     features: ["Promo Code","Welcome Bonus","First Deposit Bonus","Cards"],
-    downloadUrl: "",
+    downloadUrl: "https://www.winrummy10.com/?code=8JT9D83WCC3&t=1785293043",
     promoCode: {
       code: "",
       status: "No Public Code Available",
       lastChecked: "",
-      eligibility: "Promo-code eligibility for Win Rummy has not been announced yet. Once the platform launches, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
-      conditions: "Win Rummy has not made detailed redemption conditions publicly available ahead of launch. Pre-launch material points to a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200%, but no promo-code requirement has been confirmed for either.",
-      expiration: "Not applicable — Win Rummy has not launched and no code has been listed yet.",
-      usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
-      whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Win Rummy is live.",
-      commonIssues: ["The platform has not launched yet, so no promo code exists to redeem.","Early listings may circulate before launch and should not be trusted without verification.","Codes shared before the official launch date are not confirmed by this directory."],
-      platformTerms: "All promo-code terms for Win Rummy will be set by the platform itself once it launches and are not guaranteed by this site.",
+      eligibility: "Win Rummy's promo-code eligibility criteria (account status, app version, region, etc.) are managed by the platform and not published independently here. Check the in-app terms before assuming you qualify.",
+      conditions: "Specific redemption conditions have not been independently published for Win Rummy at this time. Pre-launch material pointed to a random ₹100–₹500 welcome reward and an add-cash bonus of up to 200%, but none of that has been independently verified against the live app yet.",
+      expiration: "Not applicable — no public code is currently listed for this game.",
+      usageLimit: "No usage limit to report until a code is publicly listed.",
+      whereToEnter: "Win Rummy would typically host code redemption under an in-app rewards or wallet menu, though we recommend checking the latest app version for the current location.",
+      commonIssues: ["The code was platform-specific and doesn't apply to every account type.","The code was restricted to specific new users or regions.","The code had already reached its maximum number of uses.","Codes circulating from before the official launch may not carry over to the live app."],
+      platformTerms: "Promo-code terms, minimum requirements and reward values are set solely by the Win Rummy platform and may change without notice.",
     },
-    platformStatus: "Coming Soon",
+    platformStatus: "Active",
     classification: "Not Yet Verified",
-    officialWebsiteStatus: "Win Rummy has not launched yet. Its official website/app status will be reviewed and confirmed after launch.",
-    availabilityNotes: "Device compatibility, app store policy and regional availability for Win Rummy will be confirmed once the platform is live.",
-    lastReviewed: "2026-07-28",
-    lastUpdated: "2026-07-28",
+    officialWebsiteStatus: "Win Rummy is confirmed as newly launched and listed by our team as of July 29, 2026. Legal/regulatory classification is handled independently and not yet confirmed — see Legalities.",
+    availabilityNotes: "Win Rummy's availability may depend on device, app store policies and user location.",
+    lastReviewed: "2026-07-29",
+    lastUpdated: "2026-07-29",
     relatedGames: ["ok-rummy","rummy-91","boss-rummy","ind-rummy","top-rummy"],
     faqs: [
           {
-                "question": "When does Win Rummy launch?",
-                "answer": "Win Rummy is expected to launch within the next few days. This page will be updated with a confirmed date and verified details once that happens."
+                "question": "Has Win Rummy officially launched?",
+                "answer": "Yes — Win Rummy has launched, and a working download link is now live on this page."
           },
           {
                 "question": "Is there a working Win Rummy promo code right now?",
-                "answer": "No — Win Rummy has not launched yet, so no promo code can be verified. Treat any code shared before the official launch date with caution."
+                "answer": "No publicly verified promo code is listed for Win Rummy at this time, despite pre-launch material pointing to reward figures being ready at release. See the Win Rummy promo-code page for current status and how that may change."
           },
           {
-                "question": "Can I download Win Rummy before its launch date?",
-                "answer": "A download link is not available until Win Rummy officially launches. This page will add a verified link once one becomes available."
+                "question": "How do I download Win Rummy?",
+                "answer": "A download link for Win Rummy is provided on this page. Always confirm you're using an official source, and review the app's own permissions and terms before installing."
           },
           {
                 "question": "What welcome reward and add-cash bonus has Win Rummy announced?",
-                "answer": "Pre-launch material points to a randomly assigned welcome reward of ₹100 to ₹500, plus an add-cash bonus of up to 200% on top-ups. These figures haven't been independently confirmed against the live app — see our Win Rummy bonus guide on the blog for the full breakdown of what's been announced."
+                "answer": "Pre-launch material pointed to a randomly assigned welcome reward of ₹100 to ₹500, plus an add-cash bonus of up to 200% on top-ups. These figures haven't been independently confirmed against the live app yet — see our Win Rummy bonus guide on the blog for the full breakdown of what was announced."
           }
     ],
     featuredHome: false,
