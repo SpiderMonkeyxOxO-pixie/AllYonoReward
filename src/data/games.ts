@@ -2127,7 +2127,7 @@ export const games: Game[] = [
                 "answer": "Pre-launch material pointed to a randomly assigned welcome reward of ₹100 to ₹500, plus an add-cash bonus of up to 200% on top-ups. These figures haven't been independently confirmed against the live app yet — see our Win Rummy bonus guide on the blog for the full breakdown of what was announced."
           }
     ],
-    featuredHome: false,
+    featuredHome: true,
     recentlyUpdated: true,
     priority: 1,
   },

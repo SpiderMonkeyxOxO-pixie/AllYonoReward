@@ -17,7 +17,13 @@ export function getGameByPromoSlug(promoSlug: string): Game | undefined {
 }
 
 export function getFeaturedGames(limit = 6): Game[] {
-  return games.filter((g) => g.featuredHome).slice(0, limit);
+  // Same manual priority pin used on /games and /promo-codes (see
+  // Game.priority) — keeps a newly launched #1 platform at the front of
+  // the homepage carousel too, not just the hub pages.
+  return games
+    .filter((g) => g.featuredHome)
+    .sort((a, b) => (a.priority ?? Infinity) - (b.priority ?? Infinity))
+    .slice(0, limit);
 }
 
 export function getRecentlyUpdatedGames(limit = 8): Game[] {
