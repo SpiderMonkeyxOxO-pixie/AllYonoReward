@@ -458,7 +458,7 @@ export const games: Game[] = [
     ],
     featuredHome: false,
     recentlyUpdated: true,
-    priority: 2,
+    priority: 3,
   },
   {
     name: "Game Rummy",
@@ -1269,7 +1269,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 3,
+    priority: 4,
   },
   {
     name: "MBM Bet",
@@ -2229,7 +2229,7 @@ export const games: Game[] = [
     longDescription: "Within this directory, Yono 777 is tracked alongside its reward structure and promo-code activity. Because platform terms are controlled entirely by Yono 777 itself, figures such as bonus values, wagering conditions and account requirements are not something this page can independently guarantee — they are subject to change without notice. Anyone researching Yono 777 should treat the summary here as a jumping-off point and verify specifics directly with the app or its official channels before relying on them. Updates are made periodically as fresh, checkable details surface.",
     category: ["Slots"],
     features: ["Promo Code","Welcome Bonus","First Deposit Bonus","Login Gift"],
-    downloadUrl: "https://yonomain777.one/?code=ZMRZ6SUQQZ2&t=1782213370",
+    downloadUrl: "https://yononewgames.vip/?code=SCHFQRY8DAS",
     promoCode: {
       code: "",
       status: "No Public Code Available",
@@ -2265,7 +2265,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 6,
+    priority: 2,
   },
   {
     name: "Yono Arcade",
@@ -2357,7 +2357,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 5,
+    priority: 6,
   },
   {
     name: "Yono Rummy",
@@ -2403,7 +2403,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: true,
-    priority: 4,
+    priority: 5,
   },
   {
     name: "Yono Slots",
