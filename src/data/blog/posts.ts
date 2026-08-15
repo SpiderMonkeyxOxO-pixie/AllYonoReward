@@ -213,12 +213,12 @@ export const blogPosts: BlogPost[] = [
     slug: "dhan-game-welcome-bonus-guide",
 
     image: "/images/blog/dhan-game-welcome-bonus-guide.jpg",
-    title: "Dhan Game Welcome Bonus and Deposit Rewards: What's Announced Before Launch",
+    title: "Dhan Game Welcome Bonus and Deposit Rewards: What Was Announced Before Launch",
     metaTitle: "Dhan Game Welcome Bonus & Deposit Rewards",
     metaDescription:
-      "Dhan Game's announced welcome bonus (₹50-₹500), deposit-match rewards up to +200% extra, and promo-code plans ahead of its July 23, 2026 launch.",
+      "Dhan Game's announced welcome bonus (₹50-₹500), deposit-match rewards up to +200% extra, and promo-code plans from before its July 23, 2026 launch.",
     excerpt:
-      "Dhan Game hasn't launched yet, but its welcome bonus, deposit-match rewards and promo-code plans are already public. Here's what's been announced so far.",
+      "Dhan Game has now launched, but its welcome bonus, deposit-match rewards and promo-code plans were announced beforehand. Here's what was announced, and what still isn't independently confirmed.",
     category: "Rewards & Bonuses",
     targetKeyword: "dhan game welcome bonus",
     datePublished: "2026-07-19",
@@ -229,7 +229,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: "What welcome bonus has Dhan Game announced?",
         answer:
-          "Dhan Game has announced a welcome bonus range of ₹50 to ₹500 for new accounts once it launches on July 23, 2026. As with most Yono-style platforms, a range like this typically means the exact amount depends on factors the platform controls internally, not every user receiving the top figure by default.",
+          "Dhan Game announced a welcome bonus range of ₹50 to ₹500 for new accounts ahead of its July 23, 2026 launch. As with most Yono-style platforms, a range like this typically means the exact amount depends on factors the platform controls internally, not every user receiving the top figure by default.",
       },
       {
         question: "How much extra can the 2nd and 3rd deposits get?",
@@ -239,12 +239,12 @@ export const blogPosts: BlogPost[] = [
       {
         question: "Are vouchers guaranteed on Dhan Game?",
         answer:
-          "Vouchers have been mentioned as part of Dhan Game's reward plans, but their value, frequency and redemption rules depend entirely on the platform's own terms rather than anything fixed industry-wide. Treat voucher details as unconfirmed until the platform is live.",
+          "Vouchers have been mentioned as part of Dhan Game's reward plans, but their value, frequency and redemption rules depend entirely on the platform's own terms rather than anything fixed industry-wide. Treat voucher details as unconfirmed until they're checked directly in the live app.",
       },
       {
-        question: "Will there be a working promo code at launch?",
+        question: "Will the welcome bonus and deposit-match rewards be credited automatically?",
         answer:
-          "A promo code has been indicated as guaranteed once Dhan Game officially releases. Until that happens, treat any code claiming to be a working Dhan Game promo code with caution — this directory only marks a code as verified after checking it directly, not based on pre-launch announcements alone.",
+          "That hasn't been published yet. Some platforms credit new-user rewards automatically on registration or first deposit, while others require an opt-in step. Check the in-app terms directly rather than assuming either behavior.",
       },
     ],
   },

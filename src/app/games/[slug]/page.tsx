@@ -294,6 +294,11 @@ export default async function GamePage({ params }: GamePageProps) {
             <DownloadButton url={game.downloadUrl} gameName={game.name} className="mb-3 w-full" />
             <ul className="space-y-2 text-sm">
               <li>
+                <Link href="/rewards" className="text-brand-gold-dark hover:underline">
+                  Understand {game.name}&rsquo;s Reward Mechanics
+                </Link>
+              </li>
+              <li>
                 <Link href={`/promo-codes/${promoSlug}`} className="text-brand-gold-dark hover:underline">
                   Check {game.name} Promo-Code Status
                 </Link>
@@ -301,11 +306,6 @@ export default async function GamePage({ params }: GamePageProps) {
               <li>
                 <Link href="/games" className="text-brand-gold-dark hover:underline">
                   Back to All Games
-                </Link>
-              </li>
-              <li>
-                <Link href="/rewards" className="text-brand-gold-dark hover:underline">
-                  Explore Rewards &amp; Incentives
                 </Link>
               </li>
               <li>

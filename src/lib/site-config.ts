@@ -8,7 +8,7 @@ export const GAME_COUNT = games.length;
 
 export const siteConfig = {
   name: "AllYonoReward",
-  tagline: `Yono Game Guide: Games, Promo Codes & Rewards`,
+  tagline: `Yono Game Rewards Explained: Bonuses, Eligibility & How They Work`,
   siteUrl: "https://www.allyonoreward.com", // confirmed live domain (www canonical, non-www redirects)
   description: `Explore ${GAME_COUNT} Yono Game guides, individual promo-code pages, reward features, eligibility details and platform-specific terms in one organized directory.`,
   locale: "en_IN",
@@ -55,6 +55,25 @@ export interface NavItem {
 export const primaryNav: NavItem[] = [
   { label: "Home", href: "/" },
   {
+    label: "Rewards & Incentives",
+    href: "/rewards",
+    megaMenu: {
+      columns: [
+        {
+          links: [
+            { label: "Welcome Rewards", href: "/rewards/welcome-bonus" },
+            { label: "Daily Rewards", href: "/rewards/rewards-today" },
+            { label: "Referral Rewards", href: "/rewards/refer-and-earn" },
+            { label: "Leaderboards", href: "/rewards/leaderboard" },
+            { label: "Events and Spins", href: "/rewards/events" },
+            { label: "View All Rewards", href: "/rewards" },
+          ],
+        },
+      ],
+    },
+  },
+  { label: "Blog", href: "/blog" },
+  {
     label: "All Games",
     href: "/games",
     megaMenu: {
@@ -89,25 +108,6 @@ export const primaryNav: NavItem[] = [
       ],
     },
   },
-  {
-    label: "Rewards & Incentives",
-    href: "/rewards",
-    megaMenu: {
-      columns: [
-        {
-          links: [
-            { label: "Daily Rewards", href: "/rewards/rewards-today" },
-            { label: "Events and Spins", href: "/rewards/events" },
-            { label: "Welcome Rewards", href: "/rewards/welcome-bonus" },
-            { label: "Referral Rewards", href: "/rewards/refer-and-earn" },
-            { label: "Leaderboards", href: "/rewards/leaderboard" },
-            { label: "View All Rewards", href: "/rewards" },
-          ],
-        },
-      ],
-    },
-  },
-  { label: "Blog", href: "/blog" },
 ];
 
 export const footerColumns: NavColumn[] = [

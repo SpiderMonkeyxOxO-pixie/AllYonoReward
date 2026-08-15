@@ -223,6 +223,11 @@ export default async function PromoCodePage({ params }: PromoCodePageProps) {
             <p className="mb-3 text-sm font-semibold text-brand-green-dark">Quick Links</p>
             <ul className="space-y-2 text-sm">
               <li>
+                <Link href="/rewards" className="text-brand-gold-dark hover:underline">
+                  Understand {game.name}&rsquo;s Reward Mechanics
+                </Link>
+              </li>
+              <li>
                 <Link href={`/games/${game.slug}`} className="text-brand-gold-dark hover:underline">
                   View Full {game.name} Game Guide
                 </Link>
@@ -230,11 +235,6 @@ export default async function PromoCodePage({ params }: PromoCodePageProps) {
               <li>
                 <Link href="/promo-codes" className="text-brand-gold-dark hover:underline">
                   Back to All Promo Codes
-                </Link>
-              </li>
-              <li>
-                <Link href="/rewards" className="text-brand-gold-dark hover:underline">
-                  Explore Rewards &amp; Incentives
                 </Link>
               </li>
             </ul>

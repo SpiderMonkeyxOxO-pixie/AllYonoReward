@@ -4,7 +4,7 @@ import { siteConfig } from "@/lib/site-config";
 export const homepageFaqs: FAQItem[] = [
   {
     question: `What is ${siteConfig.name}?`,
-    answer: `${siteConfig.name} is an independent informational directory covering Yono-style games, their reward features and their promo-code status. We do not operate any game, process deposits, or guarantee rewards.`,
+    answer: `${siteConfig.name} explains how rewards and bonuses generally work across Yono-style games — welcome bonuses, daily rewards, referral programs, leaderboards and more — in neutral, platform-agnostic terms. It also maintains a supporting game directory and promo-code status pages. We do not operate any game, process deposits, or guarantee rewards.`,
   },
   {
     question: "Is this website affiliated with SBI or YONO SBI?",

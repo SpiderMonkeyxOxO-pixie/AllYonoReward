@@ -44,29 +44,35 @@ export default async function sitemap({ id }: { id: Promise<number> }): Promise<
   }
 
   if (resolvedId === 1) {
+    // Supporting directory reference, not the domain's primary mission — see
+    // /rewards below, which now carries the higher priority.
     return getAllGames().map((game) => ({
       url: `${base}/games/${game.slug}`,
       lastModified: game.lastUpdated || undefined,
       changeFrequency: "weekly",
-      priority: 0.8,
+      priority: 0.6,
     }));
   }
 
   if (resolvedId === 2) {
+    // Explanatory/status-tracking support only — generic Yono promo-code
+    // lookup ownership is portfolio-unresolved (master spec §8.3); this
+    // domain's mission is reward mechanics, not code lookup.
     return getAllGames().map((game) => ({
       url: `${base}/promo-codes/${promoSlugFor(game.slug)}`,
       lastModified: game.lastUpdated || undefined,
       changeFrequency: "weekly",
-      priority: 0.8,
+      priority: 0.5,
     }));
   }
 
   if (resolvedId === 3) {
+    // Core mission content — highest priority on the domain.
     return getAllRewardFeatures().map((reward) => ({
       url: `${base}/rewards/${reward.slug}`,
       lastModified: reward.lastUpdated || undefined,
       changeFrequency: "monthly",
-      priority: 0.6,
+      priority: 0.8,
     }));
   }
 
