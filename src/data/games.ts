@@ -458,7 +458,7 @@ export const games: Game[] = [
     ],
     featuredHome: false,
     recentlyUpdated: true,
-    priority: 3,
+    priority: 4,
   },
   {
     name: "Game Rummy",
@@ -1269,7 +1269,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 4,
+    priority: 5,
   },
   {
     name: "MBM Bet",
@@ -2129,6 +2129,52 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: true,
+    priority: 2,
+  },
+  {
+    name: "Gold Rummy",
+    slug: "gold-rummy",
+    icon: "/images/games/gold-rummy.png",
+    shortDescription: "Gold Rummy is a rummy title announced for AllYonoReward's directory, launching in the coming days. This page will fill in with verified details once it goes live.",
+    longDescription: "Gold Rummy has been announced ahead of its upcoming launch and is listed here under our rummy category before the app goes live. Because the platform has not yet launched, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly known rather than independent verification. Once Gold Rummy launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch details as provisional and check the official app directly once it becomes available.",
+    category: ["Rummy","Card Game"],
+    features: ["Promo Code","Welcome Bonus","Cards","Refer and Earn"],
+    downloadUrl: "",
+    promoCode: {
+      code: "",
+      status: "No Public Code Available",
+      lastChecked: "",
+      eligibility: "Promo-code eligibility for Gold Rummy has not been announced yet. Once the platform launches, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
+      conditions: "Gold Rummy has not made detailed redemption conditions publicly available ahead of launch.",
+      expiration: "Not applicable — Gold Rummy has not launched and no code has been listed yet.",
+      usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
+      whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Gold Rummy is live.",
+      commonIssues: ["The platform has not launched yet, so no promo code exists to redeem.","Early listings may circulate before launch and should not be trusted without verification.","Codes shared before the official launch date are not confirmed by this directory."],
+      platformTerms: "All promo-code terms for Gold Rummy will be set by the platform itself once it launches and are not guaranteed by this site.",
+    },
+    platformStatus: "Coming Soon",
+    classification: "Not Yet Verified",
+    officialWebsiteStatus: "Gold Rummy has not launched yet. Its official website/app status will be reviewed and confirmed after launch.",
+    availabilityNotes: "Device compatibility, app store policy and regional availability for Gold Rummy will be confirmed once the platform is live.",
+    lastReviewed: "2026-08-18",
+    lastUpdated: "2026-08-18",
+    relatedGames: ["ok-rummy","rummy-91","boss-rummy","ind-rummy","top-rummy"],
+    faqs: [
+          {
+                "question": "When does Gold Rummy launch?",
+                "answer": "Gold Rummy is expected to launch at 8:00 AM IST on August 19, 2026. This page will be updated with verified details once that happens."
+          },
+          {
+                "question": "Is there a working Gold Rummy promo code right now?",
+                "answer": "No — Gold Rummy has not launched yet, so no promo code can be verified. Treat any code shared before the official launch date with caution."
+          },
+          {
+                "question": "Can I download Gold Rummy before its launch date?",
+                "answer": "A download link is not available until Gold Rummy officially launches. This page will add a verified link once one becomes available."
+          }
+    ],
+    featuredHome: false,
+    recentlyUpdated: false,
     priority: 1,
   },
   {
@@ -2265,7 +2311,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 2,
+    priority: 3,
   },
   {
     name: "Yono Arcade",
@@ -2311,7 +2357,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 7,
+    priority: 8,
   },
   {
     name: "Yono Games",
@@ -2357,7 +2403,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: false,
-    priority: 6,
+    priority: 7,
   },
   {
     name: "Yono Rummy",
@@ -2403,7 +2449,7 @@ export const games: Game[] = [
     ],
     featuredHome: true,
     recentlyUpdated: true,
-    priority: 5,
+    priority: 6,
   },
   {
     name: "Yono Slots",
