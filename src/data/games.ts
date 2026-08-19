@@ -2135,42 +2135,46 @@ export const games: Game[] = [
     name: "Gold Rummy",
     slug: "gold-rummy",
     icon: "/images/games/gold-rummy.png",
-    shortDescription: "Gold Rummy is a rummy title announced for AllYonoReward's directory, launching in the coming days. This page will fill in with verified details once it goes live.",
-    longDescription: "Gold Rummy has been announced ahead of its upcoming launch and is listed here under our rummy category before the app goes live. Because the platform has not yet launched, we don't have first-hand access to its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly known rather than independent verification. Once Gold Rummy launches, this page will be reviewed and updated with confirmed features, eligibility rules and download information. Readers should treat pre-launch details as provisional and check the official app directly once it becomes available.",
+    shortDescription: "Gold Rummy has officially launched — a rummy title with a live download link. No welcome bonus or promo code has been announced yet.",
+    longDescription: "Gold Rummy has gone live and is now listed here as an active platform under our rummy category with a working download link. As a newly launched app, we don't yet have independent verification of its reward mechanics, deposit terms or promo-code behavior — anything shown here reflects what's publicly visible rather than independent verification. This page will be reviewed and updated with confirmed features, eligibility rules and bonus details as they can be verified.",
     category: ["Rummy","Card Game"],
-    features: ["Promo Code","Welcome Bonus","Cards","Refer and Earn"],
-    downloadUrl: "",
+    features: ["Promo Code","Cards","Refer and Earn"],
+    downloadUrl: "https://goldrummy20.com/?code=JLX7LRP2YTG&t=1787111858",
     promoCode: {
       code: "",
       status: "No Public Code Available",
       lastChecked: "",
-      eligibility: "Promo-code eligibility for Gold Rummy has not been announced yet. Once the platform launches, eligibility will likely follow common patterns such as account verification or new-user status, but this should be confirmed in-app.",
-      conditions: "Gold Rummy has not made detailed redemption conditions publicly available ahead of launch.",
-      expiration: "Not applicable — Gold Rummy has not launched and no code has been listed yet.",
-      usageLimit: "Not applicable until the platform launches and a code is publicly listed.",
-      whereToEnter: "A code-redemption location (typically a rewards, wallet or redeem-code menu) will be confirmed once Gold Rummy is live.",
-      commonIssues: ["The platform has not launched yet, so no promo code exists to redeem.","Early listings may circulate before launch and should not be trusted without verification.","Codes shared before the official launch date are not confirmed by this directory."],
-      platformTerms: "All promo-code terms for Gold Rummy will be set by the platform itself once it launches and are not guaranteed by this site.",
+      eligibility: "Gold Rummy's promo-code eligibility criteria (account status, app version, region, etc.) are managed by the platform and not published independently here. Check the in-app terms before assuming you qualify.",
+      conditions: "Specific redemption conditions have not been independently published for Gold Rummy at this time.",
+      expiration: "Not applicable — no public code is currently listed for this game.",
+      usageLimit: "No usage limit to report until a code is publicly listed.",
+      whereToEnter: "Gold Rummy would typically host code redemption under an in-app rewards or wallet menu, though we recommend checking the latest app version for the current location.",
+      commonIssues: ["The platform has just launched, so no verified promo code exists yet.","Early codes circulating before launch may not carry over to the live app.","Codes may be platform-specific and not apply to every account type."],
+      platformTerms: "Promo-code terms, minimum requirements and reward values are set solely by the Gold Rummy platform and may change without notice.",
     },
-    platformStatus: "Coming Soon",
+    platformStatus: "Active",
     classification: "Not Yet Verified",
-    officialWebsiteStatus: "Gold Rummy has not launched yet. Its official website/app status will be reviewed and confirmed after launch.",
-    availabilityNotes: "Device compatibility, app store policy and regional availability for Gold Rummy will be confirmed once the platform is live.",
-    lastReviewed: "2026-08-18",
-    lastUpdated: "2026-08-18",
+    officialWebsiteStatus: "Gold Rummy is confirmed as newly launched and listed by our team as of August 19, 2026. Legal/regulatory classification is handled independently and not yet confirmed — see Legalities.",
+    availabilityNotes: "Gold Rummy's availability may depend on device, app store policies and user location.",
+    lastReviewed: "2026-08-19",
+    lastUpdated: "2026-08-19",
     relatedGames: ["ok-rummy","rummy-91","boss-rummy","ind-rummy","top-rummy"],
     faqs: [
           {
-                "question": "When does Gold Rummy launch?",
-                "answer": "Gold Rummy is expected to launch at 8:00 AM IST on August 19, 2026. This page will be updated with verified details once that happens."
+                "question": "Has Gold Rummy officially launched?",
+                "answer": "Yes — Gold Rummy has launched, and a working download link is now live on this page."
           },
           {
                 "question": "Is there a working Gold Rummy promo code right now?",
-                "answer": "No — Gold Rummy has not launched yet, so no promo code can be verified. Treat any code shared before the official launch date with caution."
+                "answer": "No publicly verified promo code is listed for Gold Rummy at this time. See the Gold Rummy promo-code page for current status and how that may change."
           },
           {
-                "question": "Can I download Gold Rummy before its launch date?",
-                "answer": "A download link is not available until Gold Rummy officially launches. This page will add a verified link once one becomes available."
+                "question": "How do I download Gold Rummy?",
+                "answer": "A download link for Gold Rummy is provided on this page. Always confirm you're using an official source, and review the app's own permissions and terms before installing."
+          },
+          {
+                "question": "What welcome bonus has Gold Rummy announced?",
+                "answer": "No welcome bonus or promo code has been announced for Gold Rummy at this time. This page will be updated once bonus details are confirmed."
           }
     ],
     featuredHome: false,
