@@ -322,4 +322,208 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "yono-rummy-51-bonus-explained",
+
+    image: "/images/blog/yono-rummy-51-bonus-explained.jpg",
+    title: "Yono Rummy 51 Bonus: What the ₹51 Bonus Claim Actually Means",
+    metaTitle: "Yono Rummy 51 Bonus Explained | AllYonoReward",
+    metaDescription:
+      "\"Yono Rummy 51 bonus\" is a widely searched claim across the Yono-style rummy category. Here's what the figure typically means, why it repeats across apps, and how to verify it.",
+    excerpt:
+      "₹51 shows up as a welcome-bonus figure across a huge number of rummy apps, not just one. Here's why the number repeats, what conditions usually apply, and how to check before you trust it.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono rummy 51 bonus",
+    datePublished: "2026-08-20",
+    dateUpdated: "2026-08-20",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["yono-rummy", "dhan-game", "boss-rummy"],
+    faqs: [
+      {
+        question: "Is the ₹51 Yono Rummy bonus real?",
+        answer:
+          "As of our last review, Yono Rummy has no publicly listed promo code and no independently confirmed bonus figure. ₹51 is a commonly used welcome-bonus figure across many Yono-style rummy apps, not a confirmed guarantee for this specific platform — check the app's own registration or rewards screen for the current live offer.",
+      },
+      {
+        question: "Why do so many different rummy apps advertise the same ₹51 figure?",
+        answer:
+          "It's a pattern common to white-label and template-based real-money gaming apps, where marketing copy and even specific bonus figures get reused across many differently-branded platforms built from similar underlying templates — not evidence of a shared industry-wide payout.",
+      },
+      {
+        question: "Is a ₹51 welcome bonus withdrawable immediately?",
+        answer:
+          "Usually not without conditions. Small welcome figures like this commonly require a minimum deposit, a wagering or minimum-games-played threshold, or an expiration window before the amount becomes withdrawable. Check the specific app's terms rather than assuming.",
+      },
+      {
+        question: "How can I check if a 51 bonus claim is legitimate?",
+        answer:
+          "Confirm the figure appears inside the app's own registration or wallet flow, look for visible terms (deposit minimum, wagering, expiration) in the app itself, and check whether the platform is listed with a current review status on a directory like this one.",
+      },
+      {
+        question: "Does AllYonoReward guarantee the ₹51 bonus works?",
+        answer:
+          "No. AllYonoReward is an independent informational website and does not issue bonuses or guarantee any figure advertised by a third-party app. All rewards are issued solely by the platform itself.",
+      },
+    ],
+  },
+  {
+    slug: "rummy-gold-vs-gold-rummy",
+
+    image: "/images/blog/rummy-gold-vs-gold-rummy.jpg",
+    title: "Rummy Gold vs Gold Rummy: Two Different Apps, Same Confusing Name",
+    metaTitle: "Rummy Gold vs Gold Rummy: Not the Same App",
+    metaDescription:
+      "\"Rummy Gold\" and \"Gold Rummy\" are two separate, unrelated real-money rummy apps that search almost identically. Here's how to tell them apart before you trust a bonus claim or download link.",
+    excerpt:
+      "Two similarly-named apps, easy to mix up, with no connection to each other. Here's how to tell them apart.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "rummy gold bonus",
+    datePublished: "2026-08-20",
+    dateUpdated: "2026-08-20",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["gold-rummy"],
+    faqs: [
+      {
+        question: "Is Rummy Gold the same app as Gold Rummy?",
+        answer:
+          "No. They are two separate real-money rummy apps from different publishers, despite the near-identical name. Bonus terms, download sources and promo codes for one do not apply to the other.",
+      },
+      {
+        question: "Which one does AllYonoReward track?",
+        answer:
+          "Gold Rummy — see its game guide for what's currently confirmed. Rummy Gold is not part of this portfolio and this site does not track its bonus terms or download sources.",
+      },
+      {
+        question: "Why do these two names get confused so often?",
+        answer:
+          "Reversed-word-order naming (Rummy Gold vs Gold Rummy) is common across the real-money rummy app category in India, where the same handful of words get recombined across many unrelated apps.",
+      },
+    ],
+  },
+  {
+    slug: "yono-all-games-1000-bonus-explained",
+
+    image: "/images/blog/yono-all-games-1000-bonus-explained.jpg",
+    title: "Yono All Games \"1000 Bonus\": What the Figure Really Means",
+    metaTitle: "Yono \"1000 Bonus\" Claim Explained | AllYonoReward",
+    metaDescription:
+      "\"Yono all games 1000 bonus\" is a widely searched claim. Here's what that figure typically means, why no single platform-wide offer actually exists, and how to verify it per app.",
+    excerpt:
+      "There's no single ₹1,000 bonus across every Yono app — here's what the claim actually refers to.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono all games 1000 bonus",
+    datePublished: "2026-08-21",
+    dateUpdated: "2026-08-21",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["win-rummy", "dhan-game", "yono-rummy"],
+    faqs: [
+      {
+        question: "Is there really a ₹1,000 bonus across all Yono games?",
+        answer:
+          "No single platform-wide offer applies across every Yono-branded app. Each platform sets its own welcome bonus independently — check the specific app's own confirmed terms rather than a generic \"all games\" claim.",
+      },
+      {
+        question: "Why do marketing pages use a bigger figure like ₹1,000?",
+        answer:
+          "Larger round numbers read as more generous in a headline without necessarily reflecting what a typical new user receives — the same pattern that produces widely-repeated smaller figures like ₹51 also produces repeated larger ones.",
+      },
+    ],
+  },
+  {
+    slug: "why-bonuses-cap-around-500",
+
+    image: "/images/blog/why-bonuses-cap-around-500.jpg",
+    title: "Why So Many Portfolio Apps Cap Welcome Bonuses Around ₹500",
+    metaTitle: "Why Welcome Bonuses Cap Around ₹500 | AllYonoReward",
+    metaDescription:
+      "Win Rummy and Dhan Game both cap their confirmed welcome-bonus range at ₹500. Here's why that ceiling figure keeps showing up, and what \"up to ₹500\" actually tells you.",
+    excerpt:
+      "Two different apps, the same ₹500 ceiling. Here's the structural reason why.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono games 500 bonus",
+    datePublished: "2026-08-22",
+    dateUpdated: "2026-08-22",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["win-rummy", "dhan-game"],
+    faqs: [
+      {
+        question: "Does every platform in this portfolio offer up to ₹500?",
+        answer:
+          "No — only Win Rummy and Dhan Game have confirmed a range topping out at ₹500 as of this writing. Other platforms set their own figures independently; check each one's own confirmed terms.",
+      },
+      {
+        question: "Does \"up to ₹500\" mean most users get ₹500?",
+        answer:
+          "Not necessarily. A ceiling figure describes the maximum possible outcome, not the typical one — the actual distribution across users isn't published by either platform.",
+      },
+    ],
+  },
+  {
+    slug: "gold-rummy-bonus-what-we-know",
+
+    image: "/images/blog/gold-rummy-bonus-what-we-know.jpg",
+    title: "Gold Rummy's Welcome Bonus: What's Confirmed So Far",
+    metaTitle: "Gold Rummy Bonus: What's Confirmed So Far",
+    metaDescription:
+      "Gold Rummy launched August 19, 2026 with no welcome bonus or promo code announced yet. Here's what's actually confirmed, and why a \"51 bonus\" figure shows up in searches anyway.",
+    excerpt:
+      "No bonus has actually been announced for Gold Rummy yet — here's what's really confirmed.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "gold rummy 51 bonus",
+    datePublished: "2026-08-23",
+    dateUpdated: "2026-08-23",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["gold-rummy"],
+    faqs: [
+      {
+        question: "Has Gold Rummy announced a welcome bonus?",
+        answer:
+          "No. As of this writing, no welcome bonus, deposit bonus, or promo code has been publicly announced or independently confirmed for Gold Rummy.",
+      },
+      {
+        question: "Why does \"Gold Rummy 51 bonus\" get searched if nothing's confirmed?",
+        answer:
+          "That search demand almost certainly reflects the much wider ₹51 marketing pattern used across many unrelated rummy apps, not a confirmed fact specific to Gold Rummy.",
+      },
+      {
+        question: "Will this page be updated once a bonus is confirmed?",
+        answer:
+          "Yes — this page and the Gold Rummy game guide will both be updated as soon as a real bonus is independently confirmed.",
+      },
+    ],
+  },
+  {
+    slug: "bonus-hack-claims-are-fake",
+
+    image: "/images/blog/bonus-hack-claims-are-fake.jpg",
+    title: "Why \"Bonus Hack\" Claims Are Almost Always Fake",
+    metaTitle: "\"Bonus Hack\" Claims: Why They're Almost Always Fake",
+    metaDescription:
+      "Claims of a \"bonus hack\" that unlocks extra reward money are effectively never real — bonuses are calculated server-side. Here's what these claims usually actually are, and the real red flags.",
+    excerpt:
+      "A real bonus hack isn't possible — here's what these claims are actually doing instead.",
+    category: "Safety & Trust",
+    targetKeyword: "yono rummy 51 bonus hack",
+    datePublished: "2026-08-24",
+    dateUpdated: "2026-08-24",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["yono-rummy", "win-rummy", "dhan-game"],
+    faqs: [
+      {
+        question: "Is there a real way to unlock extra bonus money on these apps?",
+        answer:
+          "No. Bonuses are calculated and credited server-side by the platform itself — there is no client-side trick, setting, or \"glitch\" that changes what gets credited.",
+      },
+      {
+        question: "What is a \"bonus hack\" page usually actually doing?",
+        answer:
+          "Most commonly generating ad revenue from clicks, redirecting to an unrelated download, or attempting to collect personal or payment details under the pretense of \"verifying eligibility.\"",
+      },
+      {
+        question: "What should I do if a bonus looks smaller than advertised?",
+        answer:
+          "Check the platform's own in-app terms rather than searching for a workaround — advertised ceiling figures are maximums, not guarantees, across this entire app category.",
+      },
+    ],
+  },
 ];
