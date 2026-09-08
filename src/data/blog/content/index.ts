@@ -13,6 +13,7 @@ import YonoAllGames1000BonusExplained from "./yono-all-games-1000-bonus-explaine
 import WhyBonusesCapAround500 from "./why-bonuses-cap-around-500";
 import GoldRummyBonusWhatWeKnow from "./gold-rummy-bonus-what-we-know";
 import BonusHackClaimsAreFake from "./bonus-hack-claims-are-fake";
+import MoneyRummyBonusWhatWeKnow from "./money-rummy-bonus-what-we-know";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -30,5 +31,6 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "yono-all-games-1000-bonus-explained": YonoAllGames1000BonusExplained,
   "why-bonuses-cap-around-500": WhyBonusesCapAround500,
   "gold-rummy-bonus-what-we-know": GoldRummyBonusWhatWeKnow,
+  "money-rummy-bonus-what-we-know": MoneyRummyBonusWhatWeKnow,
   "bonus-hack-claims-are-fake": BonusHackClaimsAreFake,
 };
