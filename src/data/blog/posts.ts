@@ -533,30 +533,30 @@ export const blogPosts: BlogPost[] = [
     title: "Money Rummy's Welcome Bonus: What's Confirmed So Far",
     metaTitle: "Money Rummy Bonus: What's Confirmed So Far",
     metaDescription:
-      "Money Rummy is reported to launch September 9, 2026, with no welcome bonus or promo code announced yet. Here's what's actually confirmed, and why bonus figures show up in searches anyway.",
+      "Money Rummy launched September 9, 2026, with no welcome bonus or promo code announced yet. Here's what's actually confirmed, and why bonus figures show up in searches anyway.",
     excerpt:
-      "No bonus has actually been announced for Money Rummy yet — here's what's really confirmed ahead of its reported launch.",
+      "No bonus has actually been announced for Money Rummy yet — here's what's really confirmed now that it has launched.",
     category: "Rewards & Bonuses",
     targetKeyword: "money rummy welcome bonus",
     datePublished: "2026-09-08",
-    dateUpdated: "2026-09-08",
+    dateUpdated: "2026-09-09",
     readingTimeMinutes: 4,
     relatedGameSlugs: ["money-rummy"],
     faqs: [
       {
         question: "Has Money Rummy announced a welcome bonus?",
         answer:
-          "No. As of this writing, no welcome bonus, deposit bonus, or promo code has been publicly announced or independently confirmed for Money Rummy, which is reported to launch September 9, 2026.",
+          "No. As of this writing, no welcome bonus, deposit bonus, or promo code has been publicly announced or independently confirmed for Money Rummy, which launched September 9, 2026.",
       },
       {
-        question: "Why does a bonus figure show up in searches for a brand-new app?",
+        question: "Why does a bonus figure show up in searches for a newly launched app?",
         answer:
-          "Search demand for a bonus figure tied to a newly launching app's name often reflects a much wider marketing pattern reused across many unrelated apps in this category, not a confirmed fact specific to any one platform.",
+          "Search demand for a bonus figure tied to a newly launched app's name often reflects a much wider marketing pattern reused across many unrelated apps in this category, not a confirmed fact specific to any one platform.",
       },
       {
         question: "Will this page be updated once a bonus is confirmed?",
         answer:
-          "Yes — the moment a real bonus figure is confirmed inside the app itself after launch, this page and the game guide will both be updated.",
+          "Yes — the moment a real bonus figure is confirmed inside the app itself, this page and the game guide will both be updated.",
       },
     ],
   },

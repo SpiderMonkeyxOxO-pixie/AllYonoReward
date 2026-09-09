@@ -4,17 +4,15 @@ export default function Content() {
   return (
     <>
       <p>
-        Money Rummy is reported to launch on September 9, 2026, reported to be the 57th platform
-        on the Yono network — and searches for a welcome bonus figure are already common, but as
-        of this writing, no welcome bonus, deposit match, or promo code has actually been
-        announced for this specific platform. Here&apos;s exactly what that does and doesn&apos;t
-        mean.
+        Money Rummy launched on September 9, 2026, reported to be the 57th platform on the Yono
+        network — and searches for a welcome bonus figure are already common, but as of this
+        writing, no welcome bonus, deposit match, or promo code has actually been announced for
+        this specific platform. Here&apos;s exactly what that does and doesn&apos;t mean.
       </p>
 
       <h2>What&apos;s confirmed right now</h2>
       <p>
-        Money Rummy has not launched yet, so there is no working download link and no listing
-        detail beyond its name, category, and reported launch date on our{" "}
+        Money Rummy has a working download link and is listed as active on our{" "}
         <Link href="/games/money-rummy">Money Rummy game guide</Link>. No welcome bonus, deposit
         bonus, or promo code has been publicly announced or independently verified for this
         platform. If you&apos;ve seen a specific figure attached to Money Rummy elsewhere, it has
@@ -23,12 +21,12 @@ export default function Content() {
 
       <h2>Why a bonus figure might show up in searches anyway</h2>
       <p>
-        Search demand for a bonus figure tied to a newly launching app&apos;s name often reflects
-        the much wider pattern we cover in our{" "}
+        Search demand for a bonus figure tied to Money Rummy&apos;s name almost certainly
+        reflects the much wider pattern we cover in our{" "}
         <Link href="/blog/yono-rummy-51-bonus-explained">51 bonus explainer</Link> — a common,
         reused marketing figure across many unrelated rummy apps in this category, not a confirmed
-        fact specific to this platform. A newly launching app being searched alongside a familiar
-        bonus figure is not evidence that the figure applies here.
+        fact specific to this platform. A newly launched app being searched alongside a
+        widely-used bonus figure is not evidence that the figure applies here.
       </p>
 
       <h2>What to check once Money Rummy does announce a bonus</h2>
@@ -44,15 +42,15 @@ export default function Content() {
         </li>
         <li>
           Check the <Link href="/games/money-rummy">Money Rummy game guide</Link> directly, since
-          it will be updated as soon as the app launches and a real bonus is confirmed.
+          it will be updated as soon as a real bonus is confirmed.
         </li>
       </ul>
 
       <p>
         This page will be updated the moment a welcome bonus is actually confirmed for Money
-        Rummy, after its reported launch. In the meantime, see the{" "}
-        <Link href="/games/money-rummy">game guide</Link> for its current status, or browse{" "}
-        <Link href="/rewards">rewards and incentives</Link> across the rest of the directory.
+        Rummy. In the meantime, see the <Link href="/games/money-rummy">game guide</Link> for its
+        current status, or browse <Link href="/rewards">rewards and incentives</Link> across the
+        rest of the directory.
       </p>
     </>
   );
