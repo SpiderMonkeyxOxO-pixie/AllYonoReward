@@ -1136,6 +1136,51 @@ export const games: Game[] = [
     recentlyUpdated: false,
   },
   {
+    name: "Jeet Spin",
+    slug: "jeet-spin",
+    icon: "/images/games/jeet-spin.webp",
+    shortDescription: "Jeet Spin is an upcoming spin games platform launching 30 September 2026. This page will track its reward features and promo-code status once the app goes live.",
+    longDescription: "Jeet Spin is a spin games title scheduled to launch on 30 September 2026. Because the platform has not yet gone live, details such as reward structures, promo-code availability and download links are not yet confirmed. This page has been created ahead of launch so readers can bookmark it and return once the app is available. Once Jeet Spin launches, we will review its features, update the listing with verified information and add a download link if an official one becomes publicly available. Until then, treat any pre-launch marketing claims with appropriate caution and check back after the launch date for a full review.",
+    category: ["Spin Games"],
+    features: ["Lucky Spin"],
+    downloadUrl: "",
+    promoCode: {
+      code: "",
+      status: "No Public Code Available",
+      lastChecked: "",
+      eligibility: "Jeet Spin has not yet launched. Promo-code eligibility criteria will be documented here once the platform goes live and any codes are publicly announced.",
+      conditions: "No redemption conditions are available yet — Jeet Spin has not launched as of this listing.",
+      expiration: "Not applicable — no public code is currently listed for this game.",
+      usageLimit: "Not yet applicable — a usage limit will be noted once a code is listed.",
+      whereToEnter: "Promotional codes, when available, are typically entered from an in-app rewards, wallet or redeem-code section. Exact navigation varies by platform version.",
+      commonIssues: ["A typo or extra space was entered when redeeming the code.","The code was restricted to specific new users or regions.","The code had already expired or was time-limited.","The code had already reached its maximum number of uses."],
+      platformTerms: "Terms governing Jeet Spin promo codes — value, minimums, restrictions — are the platform's own and are not guaranteed or set by this site.",
+    },
+    platformStatus: "Coming Soon",
+    classification: "Not Yet Verified",
+    officialWebsiteStatus: "Jeet Spin has not yet launched. This listing has been created ahead of the expected 30 September 2026 launch date. Classification and verification will follow once the platform is live.",
+    availabilityNotes: "Jeet Spin is expected to launch on 30 September 2026. Availability after launch may depend on device, app store policies and user location.",
+    lastReviewed: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    relatedGames: ["jaiho-spin","slot-spin","spin-101","spin-777","spin-gold"],
+    faqs: [
+          {
+                "question": "When does Jeet Spin launch?",
+                "answer": "Jeet Spin is expected to launch on 30 September 2026. Check back after that date for a download link and a full review of the platform's features."
+          },
+          {
+                "question": "Is there a Jeet Spin promo code available?",
+                "answer": "No promo code has been announced yet. Once Jeet Spin launches, any publicly available codes will be tracked on this page."
+          },
+          {
+                "question": "Is Jeet Spin classified as a money game or a social game?",
+                "answer": "Jeet Spin has not yet been independently classified. Users should review the platform's own terms and applicable local regulations before participating."
+          }
+    ],
+    featuredHome: false,
+    recentlyUpdated: false,
+  },
+  {
     name: "Joy Rummy",
     slug: "joy-rummy",
     icon: "/images/games/joy-rummy.webp",
