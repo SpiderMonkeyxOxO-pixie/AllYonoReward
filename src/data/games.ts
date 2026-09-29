@@ -1177,8 +1177,9 @@ export const games: Game[] = [
                 "answer": "Jeet Spin has not yet been independently classified. Users should review the platform's own terms and applicable local regulations before participating."
           }
     ],
-    featuredHome: false,
-    recentlyUpdated: false,
+    featuredHome: true,
+    recentlyUpdated: true,
+    priority: 0,
   },
   {
     name: "Joy Rummy",
