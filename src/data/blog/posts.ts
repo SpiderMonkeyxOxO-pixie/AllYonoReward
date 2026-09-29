@@ -6,6 +6,50 @@ import type { BlogPost } from "@/lib/types";
 // here, and a matching content component.
 export const blogPosts: BlogPost[] = [
   {
+    slug: "jeet-spin-bonus",
+
+    image: "/images/blog/jeet-spin-bonus.jpg",
+    title: "Jeet Spin Bonus: Welcome Reward, Deposit Match & What to Expect",
+    metaTitle: "Jeet Spin Bonus — Welcome Reward & Deposit Match Details",
+    metaDescription:
+      "What to expect from Jeet Spin's bonus structure — welcome reward, deposit match, and referral program. Updated for the 30 Sep 2026 launch.",
+    excerpt:
+      "Jeet Spin launches 30 Sep 2026. No bonus has been confirmed yet — here's what patterns across similar apps suggest and what to verify once the app goes live.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "jeet spin bonus",
+    datePublished: "2026-09-29",
+    dateUpdated: "2026-09-30",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["jeet-spin"],
+    faqs: [
+      {
+        question: "What is Jeet Spin's welcome bonus?",
+        answer:
+          "No welcome bonus has been officially confirmed. Based on patterns across similar apps, a sign-up reward in the ₹50–₹500 range is typical, but nothing is verified for Jeet Spin specifically.",
+      },
+      {
+        question: "Does Jeet Spin offer a deposit match bonus?",
+        answer:
+          "Not confirmed. Similar apps in this network commonly offer a first-deposit match of 100–200%, but the exact terms for Jeet Spin will only be known after launch.",
+      },
+      {
+        question: "Is there a Jeet Spin referral bonus?",
+        answer:
+          "Referral programs with per-invite rewards are standard across this network, but no Jeet Spin referral program has been confirmed yet.",
+      },
+      {
+        question: "When will Jeet Spin bonuses be available?",
+        answer:
+          "Jeet Spin launches on 30 September 2026. Bonus details will be reviewed and updated on this page once the app is live.",
+      },
+      {
+        question: "Are Jeet Spin bonuses the same as other spin app bonuses?",
+        answer:
+          "No. Each app in the Yono network has its own bonus structure, amounts and terms. Bonuses from other spin apps do not transfer to Jeet Spin.",
+      },
+    ],
+  },
+  {
     slug: "how-promo-codes-work",
 
     image: "/images/blog/how-promo-codes-work.jpg",
