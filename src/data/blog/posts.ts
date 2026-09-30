@@ -14,7 +14,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription:
       "What to expect from Jeet Spin's bonus structure — welcome reward, deposit match, and referral program. Updated for the 30 Sep 2026 launch.",
     excerpt:
-      "Jeet Spin launches 30 Sep 2026. No bonus has been confirmed yet — here's what patterns across similar apps suggest and what to verify once the app goes live.",
+      "Jeet Spin is now live at jeetspin12.com. Here's what patterns across similar apps suggest about its bonus structure and what to verify in the app.",
     category: "Rewards & Bonuses",
     targetKeyword: "jeet spin bonus",
     datePublished: "2026-09-29",

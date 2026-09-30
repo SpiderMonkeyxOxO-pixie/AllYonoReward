@@ -4,14 +4,14 @@ export default function Content() {
   return (
     <>
       <p>
-        Jeet Spin is a spin-and-win gaming app launching on 30 September 2026 as the newest entry in the Yono network.
-        No bonus amounts, deposit-match terms or referral rewards have been officially confirmed yet. This page covers
-        what patterns across similar apps suggest and what to verify once the app goes live.
+        Jeet Spin is a spin-and-win gaming app that launched on 30 September 2026 as the newest entry in the Yono network.
+        <Link href="https://www.jeetspin12.com/?code=SYHPBD5M972&t=1790735445">Download it from jeetspin12.com</Link>.
+        This page covers what patterns across similar apps suggest about its bonus structure and what to verify in the app.
       </p>
 
       <h2>When does Jeet Spin launch?</h2>
       <p>
-        Jeet Spin launches on 30 September 2026. Once the app is live, its bonus structure will be reviewed and this
+        Jeet Spin launched on 30 September 2026 and is now live. Its bonus structure will be reviewed and this
         page will be updated with confirmed details. You can check the{" "}
         <Link href="/games">games directory</Link> for the latest listing status.
       </p>
@@ -55,7 +55,7 @@ export default function Content() {
           </tr>
         </thead>
         <tbody>
-          <tr><td>Jeet Spin</td><td>Spin / Arcade</td><td>Launching 30 Sep 2026</td><td>Not yet confirmed</td></tr>
+          <tr><td>Jeet Spin</td><td>Spin / Arcade</td><td>Live — jeetspin12.com</td><td>Check in-app</td></tr>
           <tr><td>Jaiho Spin</td><td>Arcade</td><td>Live</td><td>Check game page</td></tr>
           <tr><td>Spin Gold</td><td>Arcade</td><td>Live</td><td>Check game page</td></tr>
           <tr><td>Spin 101</td><td>Arcade</td><td>Live</td><td>Check game page</td></tr>
