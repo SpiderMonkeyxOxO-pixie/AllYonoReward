@@ -1158,7 +1158,7 @@ export const games: Game[] = [
     },
     platformStatus: "Active",
     classification: "Online Money Game",
-    officialWebsiteStatus: "Jeet Spin launched on 30 September 2026 and is now live at jeetspin12.com. Classification and full verification are in progress.",
+    officialWebsiteStatus: "Jeet Spin launched on 30 September 2026 and is now live at jeetspin12.com. Classified as an Online Money Game.",
     availabilityNotes: "Jeet Spin launched on 30 September 2026 and is available for download at jeetspin12.com. Availability may depend on device, app store policies and user location.",
     lastReviewed: "2026-09-30",
     lastUpdated: "2026-09-30",
@@ -1174,7 +1174,7 @@ export const games: Game[] = [
           },
           {
                 "question": "Is Jeet Spin classified as a money game or a social game?",
-                "answer": "Jeet Spin has not yet been independently classified. Users should review the platform's own terms and applicable local regulations before participating."
+                "answer": "Jeet Spin is classified as an Online Money Game. Users should review the platform's own terms and applicable local regulations before participating."
           }
     ],
     featuredHome: true,
