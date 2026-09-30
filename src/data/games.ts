@@ -1157,7 +1157,7 @@ export const games: Game[] = [
       platformTerms: "Terms governing Jeet Spin promo codes — value, minimums, restrictions — are the platform's own and are not guaranteed or set by this site.",
     },
     platformStatus: "Active",
-    classification: "Not Yet Verified",
+    classification: "Online Money Game",
     officialWebsiteStatus: "Jeet Spin launched on 30 September 2026 and is now live at jeetspin12.com. Classification and full verification are in progress.",
     availabilityNotes: "Jeet Spin launched on 30 September 2026 and is available for download at jeetspin12.com. Availability may depend on device, app store policies and user location.",
     lastReviewed: "2026-09-30",
