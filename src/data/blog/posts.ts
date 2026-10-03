@@ -604,4 +604,536 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "what-is-yono-vip",
+    image: "/images/blog/what-is-yono-vip.webp",
+    title: "What Is Yono VIP? Meaning, Status and What to Check",
+    metaTitle: "What Is Yono VIP? Meaning, Status & What to Check",
+    metaDescription:
+      "What is Yono VIP? See what the VIP label means, how Yono VIP is listed here, why no promo code is on record and how to check any claim. 18+.",
+    excerpt:
+      "What the Yono VIP name means, how it is listed here, why no promo code is on record and how to check any claim about it.",
+    category: "Guides",
+    targetKeyword: "yono vip",
+    datePublished: "2026-10-03",
+    dateUpdated: "2026-10-03",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["yono-vip"],
+    faqs: [
+      {
+        question: "What is Yono VIP?",
+        answer:
+          "It is a name used for a card game app listed in the AllYonoReward directory. \"VIP\" is a common label for premium tiers, not proof of any official status.",
+      },
+      {
+        question: "Is Yono VIP official?",
+        answer:
+          "AllYonoReward cannot confirm that and does not claim it. This site is independent of every platform it lists.",
+      },
+      {
+        question: "Does Yono VIP have a promo code?",
+        answer:
+          "No publicly verified code is on record at this time.",
+      },
+      {
+        question: "Are Yono VIP and Yono 777 the same app?",
+        answer:
+          "Not necessarily. They are separate catalogue entries, and similar names do not show a shared operator.",
+      },
+    ],
+  },
+  {
+    slug: "yono-vip-games-what-the-label-means",
+    image: "/images/blog/yono-vip-games-what-the-label-means.webp",
+    title: "Yono VIP Games: What the VIP Label Really Means",
+    metaTitle: "Yono VIP Games: What the VIP Label Really Means",
+    metaDescription:
+      "Yono VIP game explained: what a VIP label can mean, how VIP levels and rewards are usually described and which claims to verify first. 18+ only.",
+    excerpt:
+      "What a VIP label in a game name can mean, how VIP levels and rewards are usually described and which claims to verify first.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono vip game",
+    datePublished: "2026-10-04",
+    dateUpdated: "2026-10-04",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["yono-vip"],
+    faqs: [
+      {
+        question: "What does VIP mean in a Yono game?",
+        answer:
+          "Usually a tier, status or branding label. The exact meaning is set by each app.",
+      },
+      {
+        question: "Do VIP levels always give better rewards?",
+        answer:
+          "Not necessarily. Benefits depend on the platform's terms, and none are guaranteed.",
+      },
+      {
+        question: "Is there a VIP-only promo code for Yono VIP?",
+        answer:
+          "No publicly verified code is on record.",
+      },
+      {
+        question: "Should I spend more to reach a VIP level?",
+        answer:
+          "That is your decision, but a status is not a reason to exceed your limits.",
+      },
+    ],
+  },
+  {
+    slug: "yono-spin-explained",
+    image: "/images/blog/yono-spin-explained.webp",
+    title: "Yono Spin Explained: Spin Games, Rewards and What to Check",
+    metaTitle: "Yono Spin Explained: Spin Games, Rewards & What to Check",
+    metaDescription:
+      "Yono spin and Yes Spin explained: how spin games differ from spin rewards, what the listings here confirm and what to verify first. 18+ info only.",
+    excerpt:
+      "Yono spin can mean a spin-style app or a spin reward feature. Learn the difference, what the listings confirm and what to verify.",
+    category: "Guides",
+    targetKeyword: "yono spin",
+    datePublished: "2026-10-05",
+    dateUpdated: "2026-10-05",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["yes-spin", "spin-777"],
+    faqs: [
+      {
+        question: "What is Yono spin?",
+        answer:
+          "The phrase can mean a spin-style app or a spin reward feature inside an app. They are different things.",
+      },
+      {
+        question: "Is Yes Spin listed here?",
+        answer:
+          "Yes. It appears in the Spin Games category, with no public promo code on record and a classification of Not Yet Verified.",
+      },
+      {
+        question: "Can I improve my chances on a spin?",
+        answer:
+          "No. A spin result is selected from outcomes the platform defines, and no tip changes it.",
+      },
+      {
+        question: "Are free spins safe to claim?",
+        answer:
+          "Only if the offer comes from a traceable source and has readable terms. Never share an OTP or payment details to get them.",
+      },
+    ],
+  },
+  {
+    slug: "spin-777-yono-explained",
+    image: "/images/blog/spin-777-yono-explained.webp",
+    title: "Spin 777 Yono Explained: What the Name and Rewards Mean",
+    metaTitle: "Spin 777 Yono Explained: What the Name and Rewards Mean",
+    metaDescription:
+      "Spin 777 Yono explained: why 777 appears in many app names, what the Spin 777 listing shows and how to check reward claims. Informational, 18+ only.",
+    excerpt:
+      "Why 777 appears in many app names, what the Spin 777 listing shows and how to check reward claims around it.",
+    category: "Guides",
+    targetKeyword: "spin 777 yono",
+    datePublished: "2026-10-06",
+    dateUpdated: "2026-10-06",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["spin-777", "yono-777"],
+    faqs: [
+      {
+        question: "What is Spin 777?",
+        answer:
+          "A spin-style app listed in the Spin Games category here, with no public promo code on record.",
+      },
+      {
+        question: "Is Spin 777 the same as Yono 777?",
+        answer:
+          "The catalogue lists them as separate entries, and shared numbers do not show a shared operator.",
+      },
+      {
+        question: "Does Spin 777 have a promo code?",
+        answer:
+          "No publicly verified code is on record.",
+      },
+      {
+        question: "Does 777 mean a bigger reward?",
+        answer:
+          "No. It is branding, not a reward level.",
+      },
+    ],
+  },
+  {
+    slug: "spin-crush-spin-winner-explained",
+    image: "/images/blog/spin-crush-spin-winner-explained.webp",
+    title: "Spin Crush and Spin Winner: What to Know About Both Names",
+    metaTitle: "Spin Crush & Spin Winner: What to Know About Both Names",
+    metaDescription:
+      "Spin Crush and Spin Winner explained: which name has a listing here, what is confirmed, and how to check reward claims before trusting them. 18+ only.",
+    excerpt:
+      "Spin Winner has a listing here and Spin Crush does not. See what is confirmed about each name and how to check reward claims.",
+    category: "Guides",
+    targetKeyword: "spin crush yono",
+    datePublished: "2026-10-07",
+    dateUpdated: "2026-10-07",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["spin-winner"],
+    faqs: [
+      {
+        question: "Is Spin Winner listed on AllYonoReward?",
+        answer:
+          "Yes, in the Spin Games category, with no public promo code and a classification of Not Yet Verified.",
+      },
+      {
+        question: "Is Spin Crush listed on AllYonoReward?",
+        answer:
+          "No. There is no catalogue entry under that name.",
+      },
+      {
+        question: "Are Spin Crush and Spin Winner connected?",
+        answer:
+          "This site has no evidence of a connection. Similar names do not show a shared operator.",
+      },
+      {
+        question: "Is there a promo code for either?",
+        answer:
+          "No publicly verified code is on record.",
+      },
+    ],
+  },
+  {
+    slug: "what-does-yono-101-mean",
+    image: "/images/blog/what-does-yono-101-mean.webp",
+    title: "What Does \"Yono 101\" Mean? Names, Listings and What to Check",
+    metaTitle: "What Does Yono 101 Mean? Names, Listings & What to Check",
+    metaDescription:
+      "Yono 101 explained: why 101 appears in several app names, which listings exist here and how to check reward claims before trusting them. 18+ info only.",
+    excerpt:
+      "Why 101 appears in several app names, which listings carry it here and how to check reward claims around \"Yono 101\".",
+    category: "Guides",
+    targetKeyword: "yono 101",
+    datePublished: "2026-10-08",
+    dateUpdated: "2026-10-08",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["101z", "bingo-101", "spin-101"],
+    faqs: [
+      {
+        question: "What is Yono 101?",
+        answer:
+          "It is a search phrase. There is no catalogue entry under that exact name.",
+      },
+      {
+        question: "Which 101 apps are listed here?",
+        answer:
+          "101Z, Bingo 101 and Spin 101, each as a separate entry.",
+      },
+      {
+        question: "Are the 101 apps connected?",
+        answer:
+          "This site has no evidence of that. A shared number does not show a shared operator.",
+      },
+      {
+        question: "Do any of them have a promo code?",
+        answer:
+          "No publicly verified code is on record for any of the three.",
+      },
+    ],
+  },
+  {
+    slug: "spin-and-win-offers-explained",
+    image: "/images/blog/spin-and-win-offers-explained.webp",
+    title: "Spin and Win Offers Explained: How They Work and What to Check",
+    metaTitle: "Spin and Win Offers Explained: How They Work & What to Check",
+    metaDescription:
+      "Spin and win explained: how spin wheel offers pick a result, why no trick can change it and how to spot misleading spin-to-win claims. 18+ info only.",
+    excerpt:
+      "How spin-and-win wheels pick a result, why no trick can change it and how to spot misleading spin-to-win claims.",
+    category: "Guides",
+    targetKeyword: "spin and win",
+    datePublished: "2026-10-09",
+    dateUpdated: "2026-10-09",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: ["yes-spin", "spin-gold"],
+    faqs: [
+      {
+        question: "What does spin and win mean?",
+        answer:
+          "A format where a spin produces a randomly selected result from outcomes the platform defines. It does not guarantee a prize.",
+      },
+      {
+        question: "Can I improve my chances on a spin wheel?",
+        answer:
+          "No. The result is selected by the platform, and no tap, timing or trick changes it.",
+      },
+      {
+        question: "Is \"spin to withdraw\" real?",
+        answer:
+          "Treat it as a warning sign. A genuine reward does not require you to spin to release your own balance.",
+      },
+      {
+        question: "Is a spin and win offer free?",
+        answer:
+          "It may be, but check the terms. A spin that asks for a fee, OTP or payment details is a red flag.",
+      },
+    ],
+  },
+  {
+    slug: "lucky-draw-online-games-explained",
+    image: "/images/blog/lucky-draw-online-games-explained.webp",
+    title: "Lucky Draw Online Games Explained: How They Work and Risks",
+    metaTitle: "Lucky Draw Online Games Explained: How They Work & Risks",
+    metaDescription:
+      "Lucky draw online games explained: how winners are chosen, why no entry guarantees a prize and how to spot fake draws before you take part. 18+ only.",
+    excerpt:
+      "How online lucky draws pick winners, why nobody can predict or influence the result and how to spot fake draws.",
+    category: "Safety & Trust",
+    targetKeyword: "lucky draw online game",
+    datePublished: "2026-10-10",
+    dateUpdated: "2026-10-10",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "What is a lucky draw?",
+        answer:
+          "A selection of winners by chance, usually from entries or a random draw run by an organiser.",
+      },
+      {
+        question: "Can I improve my chances in a lucky draw?",
+        answer:
+          "No. A genuine random draw cannot be predicted or influenced.",
+      },
+      {
+        question: "What if I won a draw I never entered?",
+        answer:
+          "Treat it as a scam, especially if it asks for a fee, OTP or personal details.",
+      },
+      {
+        question: "Is a lucky draw online game safe?",
+        answer:
+          "It depends on the organiser. Check who runs it, read the terms and never share private details.",
+      },
+    ],
+  },
+  {
+    slug: "is-lucky-draw-legal-in-india",
+    image: "/images/blog/is-lucky-draw-legal-in-india.webp",
+    title: "Is a Lucky Draw Legal in India? General Information",
+    metaTitle: "Is a Lucky Draw Legal in India? General Information",
+    metaDescription:
+      "Is a lucky draw legal in India? A general, non-legal-advice guide to what the answer depends on, what to check and when to ask a professional. 18+ only.",
+    excerpt:
+      "A general, non-legal-advice guide to what decides whether a lucky draw is lawful in India and what to check before taking part.",
+    category: "Safety & Trust",
+    targetKeyword: "is lucky draw legal in india",
+    datePublished: "2026-10-11",
+    dateUpdated: "2026-10-11",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "Is a lucky draw legal in India?",
+        answer:
+          "It depends on the type of draw, whether it charges entry and the State. This page is general information, not legal advice.",
+      },
+      {
+        question: "Is a free lucky draw safer than a paid one?",
+        answer:
+          "A free draw carries less financial risk, but you should still check who runs it and what they ask of you.",
+      },
+      {
+        question: "Does being listed online mean a draw is legal?",
+        answer:
+          "No. Appearing in a directory or an app does not show that a draw or platform is lawful.",
+      },
+      {
+        question: "Who should I ask for a definite answer?",
+        answer:
+          "A qualified legal professional, or the relevant official sources for your State.",
+      },
+    ],
+  },
+  {
+    slug: "rummy-bonus-types-explained",
+    image: "/images/blog/rummy-bonus-types-explained.webp",
+    title: "Rummy Bonus Explained: Types, Terms and What to Check",
+    metaTitle: "Rummy Bonus Explained: Types, Terms & What to Check",
+    metaDescription:
+      "Rummy bonus explained: welcome, deposit and referral bonuses, why amounts are ranges, which terms matter and how to avoid misleading claims. 18+ only.",
+    excerpt:
+      "The common types of rummy bonus, why advertised amounts are usually ranges and which terms matter before you act on an offer.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "rummy bonus",
+    datePublished: "2026-10-12",
+    dateUpdated: "2026-10-12",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["win-rummy", "money-rummy", "gold-rummy"],
+    faqs: [
+      {
+        question: "What is a rummy bonus?",
+        answer:
+          "An offer from a rummy platform, such as a welcome, deposit or referral reward, given under stated conditions.",
+      },
+      {
+        question: "Is the advertised bonus amount what I will get?",
+        answer:
+          "Not necessarily. Many offers are ranges, and the top figure is the maximum, not the typical result.",
+      },
+      {
+        question: "Do I need a code to get a rummy bonus?",
+        answer:
+          "Not always. Some bonuses apply automatically or through an invite link.",
+      },
+      {
+        question: "Can a bonus be guaranteed?",
+        answer:
+          "No. Treat any \"guaranteed bonus\" claim as a warning sign.",
+      },
+    ],
+  },
+  {
+    slug: "new-yono-games-check-rewards-first",
+    image: "/images/blog/new-yono-games-check-rewards-first.webp",
+    title: "New Yono Games: Check the Rewards Before You Trust Them",
+    metaTitle: "New Yono Games: Check the Rewards Before You Trust Them",
+    metaDescription:
+      "New Yono games launch often. See how to check a new app's reward claims, what pre-launch figures mean and which red flags to watch. 18+ info only.",
+    excerpt:
+      "A method for judging a new Yono app's reward claims, with examples from launches this site has already covered.",
+    category: "Safety & Trust",
+    targetKeyword: "new yono games",
+    datePublished: "2026-10-13",
+    dateUpdated: "2026-10-13",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["jeet-spin", "money-rummy", "dhan-game"],
+    faqs: [
+      {
+        question: "Are new Yono games safe?",
+        answer:
+          "Safety cannot be assumed from a name or a launch. Check the source, permissions and terms before installing.",
+      },
+      {
+        question: "Can I trust a bonus figure announced before launch?",
+        answer:
+          "Treat it as unconfirmed until the platform's own terms show it.",
+      },
+      {
+        question: "Does a new listing here mean the app is official?",
+        answer:
+          "No. A listing means the app is catalogued. This site cannot confirm that any app is official or licensed.",
+      },
+      {
+        question: "Why do new apps attract so many \"code\" claims?",
+        answer:
+          "Launches create demand, and unverified claims spread faster than checks. A code for an unlaunched app cannot be verified.",
+      },
+    ],
+  },
+  {
+    slug: "real-cash-games-what-the-claim-means",
+    image: "/images/blog/real-cash-games-what-the-claim-means.webp",
+    title: "Real Cash Withdrawal Games: What the Claim Means and the Risks",
+    metaTitle: "Real Cash Withdrawal Games: What the Claim Means & Risks",
+    metaDescription:
+      "Real cash withdrawal games explained: what the claim covers, what can limit withdrawals, why no earnings are guaranteed and how to check first. 18+ only.",
+    excerpt:
+      "What a \"real cash withdrawal\" claim covers, what can stand in the way of it and how to check a claim. No earnings are promised.",
+    category: "Safety & Trust",
+    targetKeyword: "real cash withdrawal games",
+    datePublished: "2026-10-14",
+    dateUpdated: "2026-10-14",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "Do real cash withdrawal games really pay out?",
+        answer:
+          "A withdrawal feature may exist, but nobody can guarantee a payout. It depends on the platform's terms, verification and the account.",
+      },
+      {
+        question: "Why was my withdrawal delayed or refused?",
+        answer:
+          "Common reasons include verification, minimum limits, conditions on bonus funds or processing times. Check the platform's own terms.",
+      },
+      {
+        question: "Should I pay a fee to release a withdrawal?",
+        answer:
+          "No. A request for a fee to unlock your own balance is a common scam pattern.",
+      },
+      {
+        question: "Does AllYonoReward promise earnings?",
+        answer:
+          "No. It records information about platforms and does not promise or imply earnings.",
+      },
+    ],
+  },
+  {
+    slug: "leaderboard-rewards-explained",
+    image: "/images/blog/leaderboard-rewards-explained.webp",
+    title: "Leaderboard Meaning: How Game Leaderboards and Rewards Work",
+    metaTitle: "Leaderboard Meaning: How Game Leaderboards and Rewards Work",
+    metaDescription:
+      "Leaderboard meaning explained: how rankings are built, why only top positions may earn rewards, when they reset and what to check. 18+ info only.",
+    excerpt:
+      "What a leaderboard is, how rankings and resets work and why placement does not guarantee a reward.",
+    category: "Guides",
+    targetKeyword: "leaderboard meaning",
+    datePublished: "2026-10-15",
+    dateUpdated: "2026-10-15",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "What does leaderboard mean?",
+        answer:
+          "A ranked list of players or participants, ordered by points, activity, results or event performance.",
+      },
+      {
+        question: "Do leaderboards always give rewards?",
+        answer:
+          "No. Many reward only top positions, and some give none.",
+      },
+      {
+        question: "How often does a leaderboard reset?",
+        answer:
+          "It varies: some reset daily, others weekly or at the end of an event, as the platform decides.",
+      },
+      {
+        question: "Can I be sure of my final rank?",
+        answer:
+          "No. Rankings can change until the cycle ends, and other players' results are outside your control.",
+      },
+    ],
+  },
+  {
+    slug: "how-refer-and-earn-rewards-work",
+    image: "/images/blog/how-refer-and-earn-rewards-work.webp",
+    title: "How to Refer and Earn: How Referral Rewards Really Work",
+    metaTitle: "How to Refer and Earn: How Referral Rewards Really Work",
+    metaDescription:
+      "How refer and earn works: sharing a link or code, conditions before rewards release, caps, self-referral rules and how to share safely. 18+ info only.",
+    excerpt:
+      "How refer-and-earn programs work, the conditions that usually apply and how to share a referral link or code responsibly.",
+    category: "Guides",
+    targetKeyword: "how to refer and earn",
+    datePublished: "2026-10-16",
+    dateUpdated: "2026-10-16",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "What is refer and earn?",
+        answer:
+          "A program where an existing user invites a new user through a link or code, and a reward may be released once conditions are met.",
+      },
+      {
+        question: "Do I get a reward as soon as someone signs up?",
+        answer:
+          "Usually not. Most programs require the invited user to complete further steps first.",
+      },
+      {
+        question: "Is there a limit to how many people I can refer?",
+        answer:
+          "Some programs cap rewards per user or per period. Check the specific terms.",
+      },
+      {
+        question: "Can I refer myself with another account?",
+        answer:
+          "Self-referrals are generally excluded and can breach platform policy.",
+      },
+    ],
+  },
 ];

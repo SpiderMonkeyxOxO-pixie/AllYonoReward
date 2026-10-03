@@ -16,6 +16,21 @@ import GoldRummyBonusWhatWeKnow from "./gold-rummy-bonus-what-we-know";
 import BonusHackClaimsAreFake from "./bonus-hack-claims-are-fake";
 import MoneyRummyBonusWhatWeKnow from "./money-rummy-bonus-what-we-know";
 
+import WhatIsYonoVip from "./what-is-yono-vip";
+import YonoVipGamesWhatTheLabelMeans from "./yono-vip-games-what-the-label-means";
+import YonoSpinExplained from "./yono-spin-explained";
+import Spin777YonoExplained from "./spin-777-yono-explained";
+import SpinCrushSpinWinnerExplained from "./spin-crush-spin-winner-explained";
+import WhatDoesYono101Mean from "./what-does-yono-101-mean";
+import SpinAndWinOffersExplained from "./spin-and-win-offers-explained";
+import LuckyDrawOnlineGamesExplained from "./lucky-draw-online-games-explained";
+import IsLuckyDrawLegalInIndia from "./is-lucky-draw-legal-in-india";
+import RummyBonusTypesExplained from "./rummy-bonus-types-explained";
+import NewYonoGamesCheckRewardsFirst from "./new-yono-games-check-rewards-first";
+import RealCashGamesWhatTheClaimMeans from "./real-cash-games-what-the-claim-means";
+import LeaderboardRewardsExplained from "./leaderboard-rewards-explained";
+import HowReferAndEarnRewardsWork from "./how-refer-and-earn-rewards-work";
+
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
 export const BLOG_CONTENT: Record<string, ComponentType> = {
@@ -35,4 +50,18 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "gold-rummy-bonus-what-we-know": GoldRummyBonusWhatWeKnow,
   "money-rummy-bonus-what-we-know": MoneyRummyBonusWhatWeKnow,
   "bonus-hack-claims-are-fake": BonusHackClaimsAreFake,
+  "what-is-yono-vip": WhatIsYonoVip,
+  "yono-vip-games-what-the-label-means": YonoVipGamesWhatTheLabelMeans,
+  "yono-spin-explained": YonoSpinExplained,
+  "spin-777-yono-explained": Spin777YonoExplained,
+  "spin-crush-spin-winner-explained": SpinCrushSpinWinnerExplained,
+  "what-does-yono-101-mean": WhatDoesYono101Mean,
+  "spin-and-win-offers-explained": SpinAndWinOffersExplained,
+  "lucky-draw-online-games-explained": LuckyDrawOnlineGamesExplained,
+  "is-lucky-draw-legal-in-india": IsLuckyDrawLegalInIndia,
+  "rummy-bonus-types-explained": RummyBonusTypesExplained,
+  "new-yono-games-check-rewards-first": NewYonoGamesCheckRewardsFirst,
+  "real-cash-games-what-the-claim-means": RealCashGamesWhatTheClaimMeans,
+  "leaderboard-rewards-explained": LeaderboardRewardsExplained,
+  "how-refer-and-earn-rewards-work": HowReferAndEarnRewardsWork,
 };

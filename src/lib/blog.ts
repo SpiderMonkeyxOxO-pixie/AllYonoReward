@@ -2,13 +2,19 @@ import type { ComponentType } from "react";
 import { blogPosts } from "@/data/blog/posts";
 import { BLOG_CONTENT } from "@/data/blog/content";
 import type { BlogPost } from "./types";
+import { isPublished } from "./publish";
+
+// Scheduled posts stay hidden until 07:00 IST on their datePublished date.
+function publishedPosts(): BlogPost[] {
+  return blogPosts.filter((p) => isPublished(p.datePublished));
+}
 
 export function getAllBlogPosts(): BlogPost[] {
-  return [...blogPosts].sort((a, b) => (a.datePublished < b.datePublished ? 1 : -1));
+  return [...publishedPosts()].sort((a, b) => (a.datePublished < b.datePublished ? 1 : -1));
 }
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
-  return blogPosts.find((p) => p.slug === slug);
+  return publishedPosts().find((p) => p.slug === slug);
 }
 
 export function getBlogContentBySlug(slug: string): ComponentType | undefined {
@@ -17,7 +23,7 @@ export function getBlogContentBySlug(slug: string): ComponentType | undefined {
 
 export function getBlogCategories(): string[] {
   const set = new Set<string>();
-  blogPosts.forEach((p) => set.add(p.category));
+  publishedPosts().forEach((p) => set.add(p.category));
   return Array.from(set).sort();
 }
 
