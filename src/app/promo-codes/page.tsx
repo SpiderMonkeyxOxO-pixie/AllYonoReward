@@ -36,6 +36,10 @@ export async function generateMetadata({ searchParams }: PromoCodesPageProps): P
   });
 }
 
+// Daily promo codes live in a plain-text file edited from code.allyonoreward.com, so this
+// page must read it on every request instead of serving a build-time snapshot.
+export const dynamic = "force-dynamic";
+
 export default async function PromoCodesHubPage({ searchParams }: PromoCodesPageProps) {
   const sp = await searchParams;
   const sort = (sp.sort as "az" | "checked" | "recent") ?? "az";

@@ -1,9 +1,22 @@
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { emptyGameCodes, type DailyCodeStatus, type GameDailyCodes } from "./dailyCodeTypes";
 
 export type { DailyCodeStatus, DailySlotKey, DailyCodeSlot, GameDailyCodes } from "./dailyCodeTypes";
 export { DAILY_SLOT_META, emptyGameCodes } from "./dailyCodeTypes";
+
+/**
+ * Where the live promo sheet is read from. The admin panel (code.allyonoreward.com)
+ * keeps it OUTSIDE the git checkout so a deploy can never overwrite today's codes:
+ * PROMO_FILE if set, else ../allyonoreward-admin-data/promo-code.txt when it exists,
+ * else the repo copy.
+ */
+export function getPromoFilePath(): string {
+  const configured = process.env.PROMO_FILE?.trim();
+  if (configured) return configured;
+  const external = path.join(process.cwd(), "..", "allyonoreward-admin-data", "promo-code.txt");
+  return existsSync(external) ? external : path.join(process.cwd(), "promo-code.txt");
+}
 
 const VALID_STATUSES: DailyCodeStatus[] = ["Verified", "Expired", "Not Released"];
 
@@ -19,7 +32,7 @@ const VALID_STATUSES: DailyCodeStatus[] = ["Verified", "Expired", "Not Released"
 export function getAllDailyCodes(): Record<string, GameDailyCodes> {
   let raw: string;
   try {
-    raw = readFileSync(path.join(process.cwd(), "promo-code.txt"), "utf-8");
+    raw = readFileSync(getPromoFilePath(), "utf-8");
   } catch {
     return {};
   }

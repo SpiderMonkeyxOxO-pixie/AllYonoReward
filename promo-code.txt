@@ -1,14 +1,10 @@
-# AllYonoReward — Daily Promo Codes by Platform
+# AllYonoReward — Daily Promo Codes by Platform (repo seed copy)
 # =========================================================
-# HOW TO EDIT (no coding needed):
-#   Each game has its own block below: [slug]
-#   For each of the three daily slots (AM / PM / EVE), fill in:
-#     _CODE   -> the exact promo code text. Leave blank if none yet.
-#     _STATUS -> one of:  Verified  |  Expired  |  Not Released
-#                Only use "Verified" once you have genuinely checked the
-#                code works — never guess.
-#   Save this file, then redeploy/rebuild the site so the change goes live
-#   (same as any other content update — see README.md).
+# Live codes are managed from the admin panel at code.allyonoreward.com and stored at
+# ../allyonoreward-admin-data/promo-code.txt (outside git). The site reads that file on
+# every request, so edits go live instantly with no rebuild. This repo copy is only the seed.
+#   Each game has a [slug] block with AM/PM/EVE _CODE and _STATUS lines.
+#   _STATUS is Verified (a code is present), Expired or Not Released.
 # =========================================================
 
 [101z]

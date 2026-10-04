@@ -22,6 +22,10 @@ import { homepageFaqs } from "@/data/faqs";
 import { siteConfig, GAME_COUNT } from "@/lib/site-config";
 import { getAllDailyCodes, getDailyCodesForSlug } from "@/lib/dailyCode";
 
+// Daily promo codes live in a plain-text file edited from code.allyonoreward.com, so this
+// page must read it on every request instead of serving a build-time snapshot.
+export const dynamic = "force-dynamic";
+
 const HOMEPAGE_DESCRIPTION =
   "How Yono-style game rewards actually work: welcome bonuses, daily rewards, referral programs and leaderboard mechanics, with eligibility, conditions and expiration explained in neutral, platform-agnostic terms.";
 

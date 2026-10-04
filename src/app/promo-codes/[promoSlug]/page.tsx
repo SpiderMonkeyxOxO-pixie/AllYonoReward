@@ -21,6 +21,10 @@ interface PromoCodePageProps {
   params: Promise<{ promoSlug: string }>;
 }
 
+// Daily promo codes live in a plain-text file edited from code.allyonoreward.com, so this
+// page must read it on every request instead of serving a build-time snapshot.
+export const dynamic = "force-dynamic";
+
 export function generateStaticParams() {
   return getAllGames().map((game) => ({ promoSlug: promoSlugFor(game.slug) }));
 }
