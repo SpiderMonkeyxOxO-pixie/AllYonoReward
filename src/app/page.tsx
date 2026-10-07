@@ -111,6 +111,21 @@ export default function HomePage() {
       </section>
 
       <div className="container-page flex flex-col gap-14 py-10 sm:gap-16 sm:py-14">
+        {/* Upcoming and New Games — first thing under the hero so a launch countdown is seen immediately */}
+        {upcomingGames.length > 0 && (
+          <section aria-labelledby="upcoming-games-heading">
+            <p className="eyebrow">Coming Soon</p>
+            <h2 id="upcoming-games-heading" className="mb-6 text-2xl font-bold text-brand-green-dark">
+              Upcoming and New Games
+            </h2>
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">
+              {upcomingGames.map(({ game, upcoming }) => (
+                <UpcomingGameCard key={game.slug} game={game} upcoming={upcoming} />
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Rewards & Incentives — the domain's core mission, first below the fold */}
         <section aria-labelledby="rewards-heading">
           <div className="mb-6 flex items-end justify-between gap-4">
@@ -193,21 +208,6 @@ export default function HomePage() {
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {rewardExamplePosts.map((post) => (
                 <BlogCard key={post.slug} post={post} />
-              ))}
-            </div>
-          </section>
-        )}
-
-        {/* Upcoming and New Games */}
-        {upcomingGames.length > 0 && (
-          <section aria-labelledby="upcoming-games-heading">
-            <p className="eyebrow">Coming Soon</p>
-            <h2 id="upcoming-games-heading" className="mb-6 text-2xl font-bold text-brand-green-dark">
-              Upcoming and New Games
-            </h2>
-            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">
-              {upcomingGames.map(({ game, upcoming }) => (
-                <UpcomingGameCard key={game.slug} game={game} upcoming={upcoming} />
               ))}
             </div>
           </section>
