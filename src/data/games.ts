@@ -2672,7 +2672,7 @@ export const games: Game[] = [
     faqs: [
       {
         question: "When does Jaiho Play launch?",
-        answer: "Jaiho Play is scheduled to launch on October 15, 2026, at around 12:00 PM IST, according to the countdown on this site. The date is the one currently tracked here and may change if the platform announces otherwise.",
+        answer: "Jaiho Play is scheduled to launch on October 15, 2026, at around 8:00 AM IST, according to the countdown on this site. The date is the one currently tracked here and may change if the platform announces otherwise.",
       },
       {
         question: "Is there a Jaiho Play promo code right now?",

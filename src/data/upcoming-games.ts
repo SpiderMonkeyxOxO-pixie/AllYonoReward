@@ -8,8 +8,8 @@ import type { UpcomingGame } from "@/lib/types";
 export const upcomingGames: UpcomingGame[] = [
   {
     slug: "jaiho-play",
-    releaseDateISO: "2026-10-15T12:00:00+05:30",
-    releaseWindowLabel: "12:00 PM IST",
+    releaseDateISO: "2026-10-15T08:00:00+05:30",
+    releaseWindowLabel: "8:00 AM IST",
     highlightTags: ["New"],
   },
 ];
