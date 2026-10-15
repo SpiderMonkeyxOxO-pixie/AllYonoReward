@@ -50,6 +50,50 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
+    slug: "jaiho-play-welcome-bonus-explained",
+
+    image: "/images/games/jaiho-play.webp",
+    title: "Jaiho Play Welcome Bonus: ₹50–₹500, What We Found",
+    metaTitle: "Jaiho Play Welcome Bonus — ₹50–₹500, What We Found",
+    metaDescription:
+      "Jaiho Play opened 15 Oct 2026 with a welcome bonus shown in a ₹50–₹500 range. See what is and isn't confirmed and how to verify any offer.",
+    excerpt:
+      "Jaiho Play is now live. Its welcome bonus showed as a ₹50–₹500 range at launch — here's what's confirmed, what's not recorded, and how to check any claim yourself.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "jaiho play welcome bonus",
+    datePublished: "2026-10-15",
+    dateUpdated: "2026-10-15",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["jaiho-play"],
+    faqs: [
+      {
+        question: "Does Jaiho Play have a welcome bonus?",
+        answer:
+          "Yes, a welcome bonus in the range of ₹50 to ₹500 was shown at launch. We did not record the exact amount or conditions, so check the terms inside the app.",
+      },
+      {
+        question: "How much is the Jaiho Play welcome bonus?",
+        answer:
+          "Between ₹50 and ₹500, as shown at launch. What you receive may differ, and codes change daily.",
+      },
+      {
+        question: "What is the minimum deposit and withdrawal?",
+        answer:
+          "About ₹50–₹100 to deposit and ₹100 to withdraw at launch. Check the app for current figures.",
+      },
+      {
+        question: "Will the bonus be withdrawable straight away?",
+        answer:
+          "Unknown. Offers in this category commonly carry play requirements, expiry dates and caps, so read the terms inside the app.",
+      },
+      {
+        question: "Does AllYonoReward give out bonuses?",
+        answer:
+          "No. AllYonoReward is an independent information site. All rewards are issued only by the platform itself.",
+      },
+    ],
+  },
+  {
     slug: "how-promo-codes-work",
 
     image: "/images/blog/how-promo-codes-work.jpg",

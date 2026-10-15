@@ -1,5 +1,6 @@
 import type { ComponentType } from "react";
 import JeetSpinBonus from "./jeet-spin-bonus";
+import JaihoPlayWelcomeBonusExplained from "./jaiho-play-welcome-bonus-explained";
 import HowPromoCodesWork from "./how-promo-codes-work";
 import HowToRedeemPromoCode from "./how-to-redeem-promo-code";
 import YonoGameRewardsExplained from "./yono-game-rewards-explained";
@@ -35,6 +36,7 @@ import HowReferAndEarnRewardsWork from "./how-refer-and-earn-rewards-work";
 // component. Add a new entry here whenever a new post is added.
 export const BLOG_CONTENT: Record<string, ComponentType> = {
   "jeet-spin-bonus": JeetSpinBonus,
+  "jaiho-play-welcome-bonus-explained": JaihoPlayWelcomeBonusExplained,
   "how-promo-codes-work": HowPromoCodesWork,
   "how-to-redeem-promo-code": HowToRedeemPromoCode,
   "yono-game-rewards-explained": YonoGameRewardsExplained,
