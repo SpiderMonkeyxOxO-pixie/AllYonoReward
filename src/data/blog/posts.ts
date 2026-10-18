@@ -1180,4 +1180,536 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "rummy-91-welcome-bonus-explained",
+    image: "/images/blog/rummy-91-welcome-bonus-explained.webp",
+    title: "Rummy 91 Welcome Bonus Explained",
+    metaTitle: "Rummy 91 Welcome Bonus Explained",
+    metaDescription:
+      "What Rummy 91's welcome bonus claims, what's actually disclosed in-app, and what to check before you count on any figure.",
+    excerpt:
+      "Rummy 91's welcome bonus hasn't been independently verified by this site. What the claim typically means, and what to check in-app before counting on any figure.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "rummy 91 bonus",
+    datePublished: "2026-10-18",
+    dateUpdated: "2026-10-18",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["rummy-91"],
+    faqs: [
+      {
+        question: "What is the Rummy 91 welcome bonus actually worth?",
+        answer:
+          "We don't know, and we won't guess. AllYonoReward has not independently verified Rummy 91's bonus terms. Check the app's own Terms & Conditions page for the confirmed figure and its conditions.",
+      },
+      {
+        question: "Is the number shown at sign-up the amount I can withdraw?",
+        answer:
+          "Almost never, across this app category. Welcome bonuses are typically bonus-wallet credits with wagering requirements attached, not instantly withdrawable cash. Rummy 91's specific rules should be read directly in-app.",
+      },
+      {
+        question: "Does AllYonoReward give out the Rummy 91 bonus or any other bonus?",
+        answer:
+          "No. AllYonoReward is an independent explainer site. We do not issue, process, or guarantee any reward — only Rummy 91 (the app itself) can credit a bonus to your account.",
+      },
+      {
+        question: "Is Rummy 91 legal to play for real money in my state?",
+        answer:
+          "Rummy's legal status varies by Indian state. Confirm your local rules before depositing, and only play if you are 18 or older.",
+      },
+    ],
+  },
+  {
+    slug: "rummy-vip-500-bonus-explained",
+    image: "/images/blog/rummy-vip-500-bonus-explained.webp",
+    title: "Rummy VIP 500 Bonus: What It Actually Means",
+    metaTitle: "Rummy VIP 500 Bonus: What It Actually Means",
+    metaDescription:
+      "Rummy VIP's \"500 bonus\" claim explained — what's disclosed, what's not verified, and how it differs from generic yono vip content.",
+    excerpt:
+      "What \"500\" actually means for Rummy VIP's own welcome-bonus claim — a different question from AllYonoReward's general yono vip content — and why headline numbers and usable value often differ.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "rummy vip 500 bonus",
+    datePublished: "2026-10-19",
+    dateUpdated: "2026-10-19",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["rummy-vip-500"],
+    faqs: [
+      {
+        question: "Is Rummy VIP's \"500 bonus\" guaranteed cash?",
+        answer:
+          "Not based on anything AllYonoReward has verified. Treat it as an unconfirmed headline figure until you've read Rummy VIP's own Bonus Terms page for the actual conditions.",
+      },
+      {
+        question: "How is this different from AllYonoReward's existing \"yono vip\" posts?",
+        answer:
+          "Those cover the general VIP-tier mechanic across multiple apps. This post is specifically about the \"500\" number tied to Rummy VIP's own branding and sign-up claims.",
+      },
+      {
+        question: "Why might the usable bonus be less than 500?",
+        answer:
+          "Wagering requirements, expiry windows, minimum-deposit gates, and bonus-cash-vs-real-cash splits are standard across this app category and typically reduce what actually becomes withdrawable.",
+      },
+      {
+        question: "Does AllYonoReward issue or top up the Rummy VIP bonus?",
+        answer:
+          "No. We're an independent information site. Only Rummy VIP, the app itself, can credit any bonus to your account.",
+      },
+    ],
+  },
+  {
+    slug: "ind-club-welcome-bonus-explained",
+    image: "/images/blog/ind-club-welcome-bonus-explained.webp",
+    title: "Ind Club Welcome Bonus Explained",
+    metaTitle: "Ind Club Welcome Bonus Explained",
+    metaDescription:
+      "Ind Club's bonus terms have not yet been independently reviewed. Here's what to check in-app before trusting any figure.",
+    excerpt:
+      "Ind Club's bonus terms haven't been independently reviewed. The standard welcome-bonus template for apps like this, and exactly what to check before trusting any number.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "ind club bonus",
+    datePublished: "2026-10-20",
+    dateUpdated: "2026-10-20",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["ind-club"],
+    faqs: [
+      {
+        question: "What is Ind Club's actual welcome bonus amount?",
+        answer:
+          "We don't know and haven't verified it. This post deliberately avoids stating a figure because AllYonoReward has not independently reviewed Ind Club's terms.",
+      },
+      {
+        question: "Is Ind Club a well-known app?",
+        answer:
+          "It appears to be a smaller or newer entrant in the Yono-adjacent card-game space, based on the lack of confirmed search volume for its bonus terms. That's a reason for extra caution, not automatic distrust.",
+      },
+      {
+        question: "What should I check before trusting any bonus number I see for Ind Club?",
+        answer:
+          "Open the app's own Bonus or Terms page and confirm the amount, wagering requirement, expiry window, and whether a deposit is required to unlock it.",
+      },
+      {
+        question: "Does AllYonoReward provide or guarantee the Ind Club bonus?",
+        answer:
+          "No. We're an independent, informational site only. Any bonus can only come from Ind Club itself.",
+      },
+    ],
+  },
+  {
+    slug: "club-inr-welcome-bonus-explained",
+    image: "/images/blog/club-inr-welcome-bonus-explained.webp",
+    title: "Club INR Welcome Bonus Explained",
+    metaTitle: "Club INR Welcome Bonus Explained",
+    metaDescription:
+      "Club INR's bonus terms aren't yet independently verified. What a typical club-app welcome bonus includes, and what to confirm first.",
+    excerpt:
+      "Club INR's bonus terms aren't yet verified. What a typical \"club\"-branded welcome bonus includes in this app category, and why the name alone tells you nothing about the terms.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "club inr bonus",
+    datePublished: "2026-10-21",
+    dateUpdated: "2026-10-21",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["club-inr"],
+    faqs: [
+      {
+        question: "What is Club INR's confirmed welcome bonus amount?",
+        answer:
+          "Unconfirmed. AllYonoReward has not independently reviewed Club INR's terms, so we don't state a specific figure here.",
+      },
+      {
+        question: "Does the \"club\" name mean better bonus terms?",
+        answer:
+          "Not necessarily. \"Club\" branding is a marketing choice, not evidence of more favorable or more transparent terms. Check the app's own Terms page.",
+      },
+      {
+        question: "What should I look for in Club INR's wallet screen?",
+        answer:
+          "A clear split between bonus-cash and real cash, the wagering requirement attached to any bonus, and the expiry window.",
+      },
+      {
+        question: "Does AllYonoReward issue the Club INR bonus?",
+        answer:
+          "No. This site is informational only. Club INR, the app itself, is the only source of any bonus credit.",
+      },
+    ],
+  },
+  {
+    slug: "bingo-101-welcome-bonus-explained",
+    image: "/images/blog/bingo-101-welcome-bonus-explained.webp",
+    title: "Bingo 101 Welcome Bonus Explained",
+    metaTitle: "Bingo 101 Welcome Bonus Explained",
+    metaDescription:
+      "Bingo 101's bonus terms haven't been independently verified yet. What to check before assuming any welcome-bonus figure is real.",
+    excerpt:
+      "Bingo 101's bonus terms haven't been independently reviewed. How bingo-style welcome bonuses typically differ from rummy ones, and what to check before trusting any figure.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "bingo 101 bonus",
+    datePublished: "2026-10-22",
+    dateUpdated: "2026-10-22",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["bingo-101"],
+    faqs: [
+      {
+        question: "What is Bingo 101's welcome bonus worth?",
+        answer:
+          "Unverified. AllYonoReward hasn't independently reviewed Bingo 101's terms, so no specific figure is stated here.",
+      },
+      {
+        question: "Does \"101\" in the app name refer to the bonus amount?",
+        answer:
+          "Not based on what we've seen across similarly-named apps in this network — \"101\" typically refers to a game-mode convention, not a bonus figure.",
+      },
+      {
+        question: "Are bingo bonus terms different from rummy bonus terms?",
+        answer:
+          "Often yes — bingo-style apps tend to use ticket credits and sometimes shorter expiry windows rather than cash-table stake matches. Confirm Bingo 101's specific terms in-app.",
+      },
+      {
+        question: "Does AllYonoReward issue the Bingo 101 bonus?",
+        answer:
+          "No. We provide information only. Bingo 101, the app itself, is the sole source of any bonus credited to your account.",
+      },
+    ],
+  },
+  {
+    slug: "101z-welcome-bonus-explained",
+    image: "/images/blog/101z-welcome-bonus-explained.webp",
+    title: "101z Welcome Bonus Explained",
+    metaTitle: "101z Welcome Bonus Explained",
+    metaDescription:
+      "101z's bonus terms haven't been independently verified. What a typical Yono-network welcome bonus includes, and what to check first.",
+    excerpt:
+      "101z's bonus terms haven't been independently verified. What a typical numbered-rummy welcome bonus includes, and why the number in the app's name isn't the bonus amount.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "101z bonus",
+    datePublished: "2026-10-23",
+    dateUpdated: "2026-10-23",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["101z"],
+    faqs: [
+      {
+        question: "What is 101z's actual welcome bonus amount?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed 101z's terms, so this post does not state a specific figure.",
+      },
+      {
+        question: "Is 101z part of the same family as other \"101\" apps this site covers?",
+        answer:
+          "It shares the naming convention common to 101-point card variants in the Yono-adjacent network, but its specific bonus terms are separate and unverified.",
+      },
+      {
+        question: "What should I check in-app before trusting a 101z bonus claim?",
+        answer:
+          "The exact amount, wagering multiplier, expiry window, and KYC requirement — all inside 101z's own Terms or Bonus Rules section.",
+      },
+      {
+        question: "Does AllYonoReward give out the 101z bonus?",
+        answer:
+          "No. This site is informational only; any bonus can only be issued by 101z itself.",
+      },
+    ],
+  },
+  {
+    slug: "spin-gold-welcome-bonus-explained",
+    image: "/images/blog/spin-gold-welcome-bonus-explained.webp",
+    title: "Spin Gold Welcome Bonus Explained",
+    metaTitle: "Spin Gold Welcome Bonus Explained",
+    metaDescription:
+      "Spin Gold's bonus terms aren't yet independently verified. What spin-style welcome bonuses usually include, and what to confirm first.",
+    excerpt:
+      "Spin Gold's bonus terms aren't yet verified. How spin-mechanic welcome bonuses typically work across this network, and what free spins actually mean before you deposit.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "spin gold bonus",
+    datePublished: "2026-10-24",
+    dateUpdated: "2026-10-24",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["spin-gold"],
+    faqs: [
+      {
+        question: "What is Spin Gold's actual welcome bonus?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed Spin Gold's terms, so no specific figure is stated here.",
+      },
+      {
+        question: "Are free spins the same as cash?",
+        answer:
+          "Generally no. Free spins are an entry mechanic; whatever they land on is often bonus-wallet credit subject to wagering requirements, not direct cash. Confirm this specifically for Spin Gold in-app.",
+      },
+      {
+        question: "Why does this post describe spin mechanics generally instead of giving Spin Gold's actual numbers?",
+        answer:
+          "Because we haven't verified Spin Gold's specific numbers. Stating them without verification would be fabricating data, which this site doesn't do.",
+      },
+      {
+        question: "Does AllYonoReward issue the Spin Gold bonus or run its spins?",
+        answer:
+          "No. AllYonoReward is purely informational. Only Spin Gold, the app itself, can credit any bonus or run any spin mechanic.",
+      },
+    ],
+  },
+  {
+    slug: "yes-spin-welcome-bonus-explained",
+    image: "/images/blog/yes-spin-welcome-bonus-explained.webp",
+    title: "Yes Spin Welcome Bonus Explained",
+    metaTitle: "Yes Spin Welcome Bonus Explained",
+    metaDescription:
+      "Yes Spin's bonus terms haven't been independently verified. What a typical spin-app welcome bonus includes, and what to check first.",
+    excerpt:
+      "Yes Spin's bonus terms haven't been independently reviewed. What spin-app welcome bonuses typically include, and why a reassuring name says nothing about the actual terms.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yes spin bonus",
+    datePublished: "2026-10-25",
+    dateUpdated: "2026-10-25",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["yes-spin"],
+    faqs: [
+      {
+        question: "What is Yes Spin's confirmed welcome bonus?",
+        answer:
+          "Unconfirmed. AllYonoReward hasn't independently reviewed Yes Spin's terms, so this post deliberately avoids stating a specific figure.",
+      },
+      {
+        question: "Do free spins in Yes Spin convert directly to cash?",
+        answer:
+          "Typically not, across this app category — spin outcomes are usually bonus-wallet credit with wagering requirements attached. Confirm Yes Spin's specific rule in-app.",
+      },
+      {
+        question: "Is Yes Spin more trustworthy because of its name?",
+        answer:
+          "No. A reassuring name says nothing about the actual terms. Check the app's own Bonus Rules page.",
+      },
+      {
+        question: "Does AllYonoReward provide the Yes Spin bonus?",
+        answer:
+          "No. This site is informational only. Yes Spin, the app itself, is the only source of any bonus or spin outcome.",
+      },
+    ],
+  },
+  {
+    slug: "boss-rummy-welcome-bonus-explained",
+    image: "/images/blog/boss-rummy-welcome-bonus-explained.webp",
+    title: "Boss Rummy Welcome Bonus Explained",
+    metaTitle: "Boss Rummy Welcome Bonus Explained",
+    metaDescription:
+      "Boss Rummy's bonus terms haven't been independently verified yet. What a typical rummy-app welcome bonus includes, and what to check.",
+    excerpt:
+      "Boss Rummy's bonus terms aren't yet verified. The standard rummy-app welcome-bonus template, and what to check inside the app before trusting any figure.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "boss rummy bonus",
+    datePublished: "2026-10-26",
+    dateUpdated: "2026-10-26",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["boss-rummy"],
+    faqs: [
+      {
+        question: "What is Boss Rummy's actual welcome bonus amount?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed Boss Rummy's terms, so no specific figure is given here.",
+      },
+      {
+        question: "Is Boss Rummy's bonus better than other rummy apps because of its name?",
+        answer:
+          "No reason to assume so. \"Boss\" branding is a marketing choice unrelated to actual bonus terms. Check the app's own Terms page.",
+      },
+      {
+        question: "What should I check before trusting a Boss Rummy bonus claim I saw elsewhere?",
+        answer:
+          "Confirm the amount, wagering requirement, expiry window, and KYC condition directly inside Boss Rummy's own Bonus Rules section.",
+      },
+      {
+        question: "Does AllYonoReward issue the Boss Rummy bonus?",
+        answer:
+          "No. We're informational only. Any bonus can only be credited by Boss Rummy itself.",
+      },
+    ],
+  },
+  {
+    slug: "567-slots-welcome-bonus-explained",
+    image: "/images/blog/567-slots-welcome-bonus-explained.webp",
+    title: "567 Slots Welcome Bonus Explained",
+    metaTitle: "567 Slots Welcome Bonus Explained",
+    metaDescription:
+      "567 Slots' bonus terms aren't yet independently verified. What slot-style welcome bonuses typically include, and what to check first.",
+    excerpt:
+      "567 Slots' bonus terms aren't yet verified. How slot-reel welcome bonuses typically work, and what payout-rate transparency to look for before you deposit.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "567 slots bonus",
+    datePublished: "2026-10-27",
+    dateUpdated: "2026-10-27",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["567-slots"],
+    faqs: [
+      {
+        question: "What is 567 Slots' actual welcome bonus?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed 567 Slots' terms, so no figure is stated here.",
+      },
+      {
+        question: "Does \"567\" refer to the bonus amount?",
+        answer:
+          "No reason to assume so — numbered app names in this network typically refer to a game-mode or thematic convention, not a bonus figure.",
+      },
+      {
+        question: "Does 567 Slots disclose a payout or return-to-player rate?",
+        answer:
+          "Unknown to this site. Check the app's own Terms or Promotions section directly; its absence is worth noting if you can't find one.",
+      },
+      {
+        question: "Does AllYonoReward issue the 567 Slots bonus?",
+        answer:
+          "No. We are informational only. Any bonus or spin outcome can only come from 567 Slots itself.",
+      },
+    ],
+  },
+  {
+    slug: "joy-rummy-welcome-bonus-explained",
+    image: "/images/blog/joy-rummy-welcome-bonus-explained.webp",
+    title: "Joy Rummy Welcome Bonus Explained",
+    metaTitle: "Joy Rummy Welcome Bonus Explained",
+    metaDescription:
+      "Joy Rummy's bonus terms haven't been independently verified yet. What a typical rummy-app welcome bonus includes, and what to check.",
+    excerpt:
+      "Joy Rummy's bonus terms aren't yet verified. The standard rummy-app welcome-bonus template this network tends to follow, and what to confirm before trusting any number.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "joy rummy bonus",
+    datePublished: "2026-10-28",
+    dateUpdated: "2026-10-28",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["joy-rummy"],
+    faqs: [
+      {
+        question: "What is Joy Rummy's actual welcome bonus amount?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed Joy Rummy's terms, so no specific figure is stated here.",
+      },
+      {
+        question: "Does a friendly app name like \"Joy\" suggest better bonus terms?",
+        answer:
+          "No. Branding choices don't indicate bonus generosity or transparency. Check the app's own disclosed Terms.",
+      },
+      {
+        question: "What should I check before relying on a Joy Rummy bonus figure I saw elsewhere?",
+        answer:
+          "Confirm the amount, wagering requirement, expiry window, and KYC condition directly inside Joy Rummy's own Bonus Rules section.",
+      },
+      {
+        question: "Does AllYonoReward provide the Joy Rummy bonus?",
+        answer:
+          "No. This site is informational only; any bonus can only be credited by Joy Rummy itself.",
+      },
+    ],
+  },
+  {
+    slug: "inr-rummy-welcome-bonus-explained",
+    image: "/images/blog/inr-rummy-welcome-bonus-explained.webp",
+    title: "INR Rummy Welcome Bonus Explained",
+    metaTitle: "INR Rummy Welcome Bonus Explained",
+    metaDescription:
+      "INR Rummy's bonus terms haven't been independently verified. What a typical rummy-app welcome bonus includes, and what to confirm first.",
+    excerpt:
+      "INR Rummy's bonus terms haven't been independently reviewed. Why rupee-forward branding doesn't guarantee the welcome bonus itself is real cash, and what to check in-app.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "inr rummy bonus",
+    datePublished: "2026-10-29",
+    dateUpdated: "2026-10-29",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["inr-rummy"],
+    faqs: [
+      {
+        question: "What is INR Rummy's actual welcome bonus amount?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed INR Rummy's terms, so no specific figure is stated here.",
+      },
+      {
+        question: "Does the \"INR\" in the name mean the welcome bonus is real cash?",
+        answer:
+          "Not necessarily. Check whether the welcome credit lands as bonus-wallet balance or actual cash inside the app's own wallet screen — the name alone doesn't confirm this.",
+      },
+      {
+        question: "What should I check before trusting an INR Rummy bonus claim?",
+        answer:
+          "The exact amount, cash-vs-bonus-cash split, wagering requirement, expiry window, and KYC condition — all inside the app's own Terms section.",
+      },
+      {
+        question: "Does AllYonoReward issue the INR Rummy bonus?",
+        answer:
+          "No. This site is informational only. Any bonus can only be credited by INR Rummy itself.",
+      },
+    ],
+  },
+  {
+    slug: "teen-patti-dhan-welcome-bonus-explained",
+    image: "/images/blog/teen-patti-dhan-welcome-bonus-explained.webp",
+    title: "Teen Patti Dhan Welcome Bonus Explained",
+    metaTitle: "Teen Patti Dhan Welcome Bonus Explained",
+    metaDescription:
+      "Teen Patti Dhan's bonus terms haven't been independently verified. What this DhanGame-family title typically offers, and what to check.",
+    excerpt:
+      "Teen Patti Dhan's bonus terms haven't been independently verified separately from Dhan Game's general welcome bonus. What to check inside this specific game mode before assuming either bonus applies.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "teen patti dhan bonus",
+    datePublished: "2026-10-30",
+    dateUpdated: "2026-10-30",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["teen-patti-dhan"],
+    faqs: [
+      {
+        question: "Is Teen Patti Dhan's bonus the same as the general Dhan Game welcome bonus?",
+        answer:
+          "Not confirmed either way by this site. It may inherit the account-wide bonus, or it may have separate mode-specific promotions — check both inside the app.",
+      },
+      {
+        question: "Does this post repeat AllYonoReward's existing Dhan Game bonus content?",
+        answer:
+          "No. The existing post covers Dhan Game's general welcome bonus; this one is specifically about the Teen Patti Dhan game mode and whether it carries its own distinct terms.",
+      },
+      {
+        question: "What should I check before assuming a bonus applies to Teen Patti Dhan specifically?",
+        answer:
+          "Open the Teen Patti Dhan mode itself for any mode-specific promotions or leaderboard bonuses, and cross-check the app's general Bonus Terms page for explicit inclusion or exclusion of this mode.",
+      },
+      {
+        question: "Does AllYonoReward issue the Teen Patti Dhan bonus?",
+        answer:
+          "No. This site is informational only. Any bonus can only be credited by the Dhan Game app itself.",
+      },
+    ],
+  },
+  {
+    slug: "rummy-77-welcome-bonus-explained",
+    image: "/images/blog/rummy-77-welcome-bonus-explained.webp",
+    title: "Rummy 77 Welcome Bonus Explained",
+    metaTitle: "Rummy 77 Welcome Bonus Explained",
+    metaDescription:
+      "Rummy 77's bonus terms haven't been independently verified yet. What a typical rummy-app welcome bonus includes, and what to check.",
+    excerpt:
+      "Rummy 77's bonus terms haven't been independently reviewed. Closing out this series: the standard numbered-rummy welcome-bonus template, and why \"77\" isn't the bonus amount.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "rummy 77 bonus",
+    datePublished: "2026-10-31",
+    dateUpdated: "2026-10-31",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["rummy-77"],
+    faqs: [
+      {
+        question: "What is Rummy 77's actual welcome bonus amount?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed Rummy 77's terms, so no specific figure is stated in this post.",
+      },
+      {
+        question: "Does the number \"77\" in the app's name indicate the bonus amount?",
+        answer:
+          "No. As with other numbered apps in this network, the number is a branding choice and does not correspond to a disclosed bonus figure.",
+      },
+      {
+        question: "What should I check before trusting a Rummy 77 bonus claim seen elsewhere?",
+        answer:
+          "Confirm the amount, wagering requirement, expiry window, and KYC condition directly inside Rummy 77's own Bonus Rules or Terms section.",
+      },
+      {
+        question: "Does AllYonoReward issue the Rummy 77 bonus?",
+        answer:
+          "No. This site is informational only; any bonus can only be credited by Rummy 77 itself.",
+      },
+    ],
+  },
 ];

@@ -32,6 +32,21 @@ import RealCashGamesWhatTheClaimMeans from "./real-cash-games-what-the-claim-mea
 import LeaderboardRewardsExplained from "./leaderboard-rewards-explained";
 import HowReferAndEarnRewardsWork from "./how-refer-and-earn-rewards-work";
 
+import Rummy91WelcomeBonusExplained from "./rummy-91-welcome-bonus-explained";
+import RummyVip500BonusExplained from "./rummy-vip-500-bonus-explained";
+import IndClubWelcomeBonusExplained from "./ind-club-welcome-bonus-explained";
+import ClubInrWelcomeBonusExplained from "./club-inr-welcome-bonus-explained";
+import Bingo101WelcomeBonusExplained from "./bingo-101-welcome-bonus-explained";
+import Z101WelcomeBonusExplained from "./101z-welcome-bonus-explained";
+import SpinGoldWelcomeBonusExplained from "./spin-gold-welcome-bonus-explained";
+import YesSpinWelcomeBonusExplained from "./yes-spin-welcome-bonus-explained";
+import BossRummyWelcomeBonusExplained from "./boss-rummy-welcome-bonus-explained";
+import Slots567WelcomeBonusExplained from "./567-slots-welcome-bonus-explained";
+import JoyRummyWelcomeBonusExplained from "./joy-rummy-welcome-bonus-explained";
+import InrRummyWelcomeBonusExplained from "./inr-rummy-welcome-bonus-explained";
+import TeenPattiDhanWelcomeBonusExplained from "./teen-patti-dhan-welcome-bonus-explained";
+import Rummy77WelcomeBonusExplained from "./rummy-77-welcome-bonus-explained";
+
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
 export const BLOG_CONTENT: Record<string, ComponentType> = {
@@ -66,4 +81,19 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "real-cash-games-what-the-claim-means": RealCashGamesWhatTheClaimMeans,
   "leaderboard-rewards-explained": LeaderboardRewardsExplained,
   "how-refer-and-earn-rewards-work": HowReferAndEarnRewardsWork,
+
+  "rummy-91-welcome-bonus-explained": Rummy91WelcomeBonusExplained,
+  "rummy-vip-500-bonus-explained": RummyVip500BonusExplained,
+  "ind-club-welcome-bonus-explained": IndClubWelcomeBonusExplained,
+  "club-inr-welcome-bonus-explained": ClubInrWelcomeBonusExplained,
+  "bingo-101-welcome-bonus-explained": Bingo101WelcomeBonusExplained,
+  "101z-welcome-bonus-explained": Z101WelcomeBonusExplained,
+  "spin-gold-welcome-bonus-explained": SpinGoldWelcomeBonusExplained,
+  "yes-spin-welcome-bonus-explained": YesSpinWelcomeBonusExplained,
+  "boss-rummy-welcome-bonus-explained": BossRummyWelcomeBonusExplained,
+  "567-slots-welcome-bonus-explained": Slots567WelcomeBonusExplained,
+  "joy-rummy-welcome-bonus-explained": JoyRummyWelcomeBonusExplained,
+  "inr-rummy-welcome-bonus-explained": InrRummyWelcomeBonusExplained,
+  "teen-patti-dhan-welcome-bonus-explained": TeenPattiDhanWelcomeBonusExplained,
+  "rummy-77-welcome-bonus-explained": Rummy77WelcomeBonusExplained,
 };
