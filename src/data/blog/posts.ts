@@ -1221,38 +1221,38 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "rummy-vip-500-bonus-explained",
     image: "/images/blog/rummy-vip-500-bonus-explained.webp",
-    title: "Rummy VIP 500 Bonus: What It Actually Means",
-    metaTitle: "Rummy VIP 500 Bonus: What It Actually Means",
+    title: "VIP Rummy Welcome Bonus: What's Actually Confirmed",
+    metaTitle: "VIP Rummy Welcome Bonus: What's Actually Confirmed",
     metaDescription:
-      "Rummy VIP's \"500 bonus\" claim explained — what's disclosed, what's not verified, and how it differs from generic yono vip content.",
+      "VIP Rummy launches 20 October 2026. No welcome bonus has been officially confirmed yet — here's what's verified versus speculated, and what to check before trusting any bonus claim.",
     excerpt:
-      "What \"500\" actually means for Rummy VIP's own welcome-bonus claim — a different question from AllYonoReward's general yono vip content — and why headline numbers and usable value often differ.",
+      "VIP Rummy launches 20 October 2026. No welcome bonus amount has been officially confirmed — here's what's known, what isn't, and how to verify the real figure once it's announced.",
     category: "Rewards & Bonuses",
-    targetKeyword: "rummy vip 500 bonus",
+    targetKeyword: "vip rummy welcome bonus",
     datePublished: "2026-10-19",
-    dateUpdated: "2026-10-19",
+    dateUpdated: "2026-10-20",
     readingTimeMinutes: 4,
-    relatedGameSlugs: ["rummy-vip-500"],
+    relatedGameSlugs: ["vip-rummy"],
     faqs: [
       {
-        question: "Is Rummy VIP's \"500 bonus\" guaranteed cash?",
+        question: "What is VIP Rummy's welcome bonus?",
         answer:
-          "Not based on anything AllYonoReward has verified. Treat it as an unconfirmed headline figure until you've read Rummy VIP's own Bonus Terms page for the actual conditions.",
+          "None has been officially confirmed as of launch (20 October 2026). Treat any specific number you see elsewhere, including a \"500\" figure, as unverified until VIP Rummy itself publishes a bonus structure.",
       },
       {
-        question: "How is this different from AllYonoReward's existing \"yono vip\" posts?",
+        question: "Is the \"500\" bonus figure attached to this app real?",
         answer:
-          "Those cover the general VIP-tier mechanic across multiple apps. This post is specifically about the \"500\" number tied to Rummy VIP's own branding and sign-up claims.",
+          "Not confirmed for VIP Rummy specifically. That figure has circulated in unverified contexts and shouldn't be relied on until VIP Rummy's own Bonus Terms page confirms it.",
       },
       {
-        question: "Why might the usable bonus be less than 500?",
+        question: "When will the real bonus amount be known?",
         answer:
-          "Wagering requirements, expiry windows, minimum-deposit gates, and bonus-cash-vs-real-cash splits are standard across this app category and typically reduce what actually becomes withdrawable.",
+          "Once VIP Rummy publishes its own terms, typically inside the app's wallet or bonus-terms screen. This page will be updated with the confirmed figure as soon as it's verified.",
       },
       {
-        question: "Does AllYonoReward issue or top up the Rummy VIP bonus?",
+        question: "Does AllYonoReward issue or top up the VIP Rummy bonus?",
         answer:
-          "No. We're an independent information site. Only Rummy VIP, the app itself, can credit any bonus to your account.",
+          "No. We're an independent information site. Only VIP Rummy, the app itself, can credit any bonus to your account.",
       },
     ],
   },
