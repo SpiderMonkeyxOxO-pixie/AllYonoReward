@@ -7,8 +7,8 @@ export default function Content() {
         Note for returning readers: this post is specifically about VIP Rummy&rsquo;s own welcome bonus, separate
         from AllYonoReward&rsquo;s existing general posts on &ldquo;yono vip&rdquo; and the{" "}
         <Link href="/blog/yono-vip-games-what-the-label-means">yono vip game family</Link> &mdash; those cover the
-        broader VIP-tier mechanic across multiple apps; this one is specifically about VIP Rummy, which launches 20
-        October 2026.
+        broader VIP-tier mechanic across multiple apps; this one is specifically about VIP Rummy, which launched 20
+        October 2026 (download link on its <Link href="/games/vip-rummy">game page</Link>).
       </p>
 
       <h2>The direct answer</h2>
