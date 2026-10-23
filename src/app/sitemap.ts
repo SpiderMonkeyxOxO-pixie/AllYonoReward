@@ -12,23 +12,29 @@ export async function generateSitemaps() {
   return [{ id: 0 }, { id: 1 }, { id: 2 }, { id: 3 }, { id: 4 }];
 }
 
-const MAIN_PAGES = [
-  "/",
-  "/games",
-  "/promo-codes",
-  "/rewards",
-  "/about-us",
-  "/contact-us",
-  "/legalities",
-  "/privacy-policy",
-  "/terms-and-conditions",
-  "/disclaimer",
-  "/responsible-gaming",
-  "/editorial-policy",
-  "/corrections-policy",
-  "/faq",
-  "/sitemap-page",
-  "/blog",
+// lastModified below is the real git last-commit date of each route's
+// page.tsx source file (not a guess) — previously these 16 top-level pages
+// (including the homepage and the games/promo-codes/rewards hubs, which
+// carry the most internal link equity on the site) had no lastmod at all,
+// unlike every other sitemap group, giving Google's crawler nothing to
+// gauge recrawl freshness from on exactly the pages worth recrawling first.
+const MAIN_PAGES: Array<{ path: string; lastModified: string }> = [
+  { path: "/", lastModified: "2026-10-07" },
+  { path: "/games", lastModified: "2026-07-17" },
+  { path: "/promo-codes", lastModified: "2026-10-04" },
+  { path: "/rewards", lastModified: "2026-07-17" },
+  { path: "/about-us", lastModified: "2026-07-17" },
+  { path: "/contact-us", lastModified: "2026-07-22" },
+  { path: "/legalities", lastModified: "2026-07-17" },
+  { path: "/privacy-policy", lastModified: "2026-07-17" },
+  { path: "/terms-and-conditions", lastModified: "2026-07-17" },
+  { path: "/disclaimer", lastModified: "2026-07-22" },
+  { path: "/responsible-gaming", lastModified: "2026-07-17" },
+  { path: "/editorial-policy", lastModified: "2026-07-17" },
+  { path: "/corrections-policy", lastModified: "2026-07-17" },
+  { path: "/faq", lastModified: "2026-07-17" },
+  { path: "/sitemap-page", lastModified: "2026-07-17" },
+  { path: "/blog", lastModified: "2026-07-17" },
 ];
 
 export default async function sitemap({ id }: { id: Promise<number> }): Promise<MetadataRoute.Sitemap> {
@@ -36,8 +42,9 @@ export default async function sitemap({ id }: { id: Promise<number> }): Promise<
   const resolvedId = Number(await id);
 
   if (resolvedId === 0) {
-    return MAIN_PAGES.map((path) => ({
+    return MAIN_PAGES.map(({ path, lastModified }) => ({
       url: `${base}${path}`,
+      lastModified,
       changeFrequency: path === "/" ? "daily" : "weekly",
       priority: path === "/" ? 1 : 0.7,
     }));
