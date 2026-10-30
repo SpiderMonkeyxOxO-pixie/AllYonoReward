@@ -1712,4 +1712,37 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "spin-rummy-welcome-bonus-explained",
+    image: "/images/blog/spin-rummy-welcome-bonus-explained.webp",
+    title: "Spin Rummy Welcome Bonus Explained",
+    metaTitle: "Spin Rummy Welcome Bonus Explained",
+    metaDescription:
+      "Spin Rummy's bonus terms aren't yet independently verified. What spin-mechanic welcome bonuses usually include across this network, and what to confirm before you deposit.",
+    excerpt:
+      "Spin Rummy launched 30 October 2026, and its bonus terms haven't been independently reviewed. What spin-mechanic welcome bonuses typically include across this network.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "spin rummy bonus",
+    datePublished: "2026-10-30",
+    dateUpdated: "2026-10-30",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["spin-rummy"],
+    faqs: [
+      {
+        question: "What is Spin Rummy's actual welcome bonus?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed Spin Rummy's terms, so this post deliberately avoids stating a specific figure.",
+      },
+      {
+        question: "Are free spins the same as cash?",
+        answer:
+          "Typically not, across this app category — spin outcomes are usually bonus-wallet credit with wagering requirements attached. Confirm Spin Rummy's specific rule in-app.",
+      },
+      {
+        question: "Does AllYonoReward provide the Spin Rummy bonus?",
+        answer:
+          "No. This site is informational only. Spin Rummy, the app itself, is the only source of any bonus or spin outcome.",
+      },
+    ],
+  },
 ];

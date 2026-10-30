@@ -40,6 +40,7 @@ import Bingo101WelcomeBonusExplained from "./bingo-101-welcome-bonus-explained";
 import Z101WelcomeBonusExplained from "./101z-welcome-bonus-explained";
 import SpinGoldWelcomeBonusExplained from "./spin-gold-welcome-bonus-explained";
 import YesSpinWelcomeBonusExplained from "./yes-spin-welcome-bonus-explained";
+import SpinRummyWelcomeBonusExplained from "./spin-rummy-welcome-bonus-explained";
 import BossRummyWelcomeBonusExplained from "./boss-rummy-welcome-bonus-explained";
 import Slots567WelcomeBonusExplained from "./567-slots-welcome-bonus-explained";
 import JoyRummyWelcomeBonusExplained from "./joy-rummy-welcome-bonus-explained";
@@ -90,6 +91,7 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "101z-welcome-bonus-explained": Z101WelcomeBonusExplained,
   "spin-gold-welcome-bonus-explained": SpinGoldWelcomeBonusExplained,
   "yes-spin-welcome-bonus-explained": YesSpinWelcomeBonusExplained,
+  "spin-rummy-welcome-bonus-explained": SpinRummyWelcomeBonusExplained,
   "boss-rummy-welcome-bonus-explained": BossRummyWelcomeBonusExplained,
   "567-slots-welcome-bonus-explained": Slots567WelcomeBonusExplained,
   "joy-rummy-welcome-bonus-explained": JoyRummyWelcomeBonusExplained,
