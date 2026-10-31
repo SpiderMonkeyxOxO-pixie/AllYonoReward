@@ -1745,4 +1745,37 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "jaiho-91-welcome-bonus-explained",
+    image: "/images/blog/jaiho-91-welcome-bonus-explained.webp",
+    title: "Jaiho 91 Welcome Bonus Explained",
+    metaTitle: "Jaiho 91 Welcome Bonus Explained",
+    metaDescription:
+      "Jaiho 91's bonus terms haven't been independently verified. What a typical card-app welcome bonus includes, and what to check first.",
+    excerpt:
+      "Jaiho 91's bonus terms haven't been independently reviewed. What welcome bonuses typically include on this network, and why '91' branding says nothing about the actual terms.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "jaiho 91 bonus",
+    datePublished: "2026-10-31",
+    dateUpdated: "2026-10-31",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["jaiho-91"],
+    faqs: [
+      {
+        question: "What is Jaiho 91's actual welcome bonus?",
+        answer:
+          "Unconfirmed. AllYonoReward hasn't independently reviewed Jaiho 91's terms, so this post deliberately avoids stating a specific figure.",
+      },
+      {
+        question: "Does the number \"91\" in the app's name indicate the bonus amount?",
+        answer:
+          "No. As with other numbered apps in this network, the number is a branding choice and does not correspond to a disclosed bonus figure.",
+      },
+      {
+        question: "Does AllYonoReward provide the Jaiho 91 bonus?",
+        answer:
+          "No. This site is informational only. Jaiho 91, the app itself, is the only source of any bonus or welcome credit.",
+      },
+    ],
+  },
 ];

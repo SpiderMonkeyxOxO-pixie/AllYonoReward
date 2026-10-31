@@ -47,6 +47,7 @@ import JoyRummyWelcomeBonusExplained from "./joy-rummy-welcome-bonus-explained";
 import InrRummyWelcomeBonusExplained from "./inr-rummy-welcome-bonus-explained";
 import TeenPattiDhanWelcomeBonusExplained from "./teen-patti-dhan-welcome-bonus-explained";
 import Rummy77WelcomeBonusExplained from "./rummy-77-welcome-bonus-explained";
+import Jaiho91WelcomeBonusExplained from "./jaiho-91-welcome-bonus-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -98,4 +99,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "inr-rummy-welcome-bonus-explained": InrRummyWelcomeBonusExplained,
   "teen-patti-dhan-welcome-bonus-explained": TeenPattiDhanWelcomeBonusExplained,
   "rummy-77-welcome-bonus-explained": Rummy77WelcomeBonusExplained,
+  "jaiho-91-welcome-bonus-explained": Jaiho91WelcomeBonusExplained,
 };
