@@ -1,0 +1,39 @@
+# AllYonoReward
+
+> AllYonoReward (allyonoreward.com) is an independent, informational directory explaining how reward features, bonuses, and promo codes work across Yono-style games available to users in India. It is not a gambling operator, does not run or host any game, does not credit or process any bonus, and is not affiliated with any app or platform it describes.
+
+Every platform and promo-code entry carries a status label; anything unconfirmed is marked as awaiting verification rather than guessed. Promo codes are shown only when supplied and verified for that day — never invented. Claims of guaranteed bonuses, hacks, or codes that bypass normal eligibility rules are treated as false and labelled as such. Final safety, legality, and account checks always belong to the reader and the platform operator, not this site.
+
+## Understanding rewards and promo codes
+
+- [Yono game rewards explained](https://www.allyonoreward.com/blog/yono-game-rewards-explained): how bonuses and incentives typically work across this app family
+- [How promo codes work](https://www.allyonoreward.com/blog/how-promo-codes-work): eligibility, timing, and why codes change daily
+- [How to redeem a promo code](https://www.allyonoreward.com/blog/how-to-redeem-promo-code): the general redemption flow, step by step
+- [Why a promo code isn't working](https://www.allyonoreward.com/blog/promo-code-not-working): common reasons a valid-looking code fails
+- [Why bonuses cap around ₹500](https://www.allyonoreward.com/blog/why-bonuses-cap-around-500): the typical ceiling and why it exists
+- ["Bonus hack" claims are fake](https://www.allyonoreward.com/blog/bonus-hack-claims-are-fake): why guaranteed-bonus or code-generator claims should not be trusted
+- [Is it safe to play Yono games?](https://www.allyonoreward.com/blog/is-it-safe-to-play-yono-games): what "safe" does and doesn't mean here
+- [Types of Yono games compared](https://www.allyonoreward.com/blog/types-of-yono-games-compared): rummy, slots, arcade, and card-game formats side by side
+
+## Safety and legal context
+
+- [Responsible gaming](https://www.allyonoreward.com/responsible-gaming): age restrictions, warning signs, and where to find support
+- [Legalities overview](https://www.allyonoreward.com/legalities): how online real-money gaming is regulated in India
+- [Editorial policy](https://www.allyonoreward.com/editorial-policy): how listings are verified and labelled
+- [Corrections policy](https://www.allyonoreward.com/corrections-policy): how factual errors get fixed
+
+## Directory
+
+- [Games directory](https://www.allyonoreward.com/games): the full tracked list of Yono-style platforms, each with its own reward/eligibility page
+- [Rewards](https://www.allyonoreward.com/rewards): reward-feature pages per platform
+- [Promo codes](https://www.allyonoreward.com/promo-codes): per-platform code status, shown only when verified for that day
+- [Blog](https://www.allyonoreward.com/blog): full archive of reward, bonus, and platform-safety explainers
+- [FAQ](https://www.allyonoreward.com/faq): common questions about rewards, codes, and this site's scope
+
+## About
+
+- [About this website](https://www.allyonoreward.com/about-us)
+- [Disclaimer](https://www.allyonoreward.com/disclaimer)
+- [Privacy policy](https://www.allyonoreward.com/privacy-policy)
+- [Terms and conditions](https://www.allyonoreward.com/terms-and-conditions)
+- [Contact](https://www.allyonoreward.com/contact-us)

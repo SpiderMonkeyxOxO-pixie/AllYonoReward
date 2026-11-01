@@ -9,6 +9,30 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
         disallow: ["/search", "/api/"],
       },
+      // Explicit allow rules for known AI crawlers, in addition to the
+      // wildcard rule above — makes AI-citation access an unambiguous,
+      // stable signal rather than relying only on the default "*" match.
+      {
+        userAgent: [
+          "GPTBot",
+          "ChatGPT-User",
+          "OAI-SearchBot",
+          "ClaudeBot",
+          "Claude-Web",
+          "Claude-SearchBot",
+          "Claude-User",
+          "Google-Extended",
+          "PerplexityBot",
+          "Perplexity-User",
+          "CCBot",
+          "Amazonbot",
+          "Applebot-Extended",
+          "Bytespider",
+          "Meta-ExternalAgent",
+        ],
+        allow: "/",
+        disallow: ["/search", "/api/"],
+      },
     ],
     // Next's generateSitemaps() convention serves five grouped sitemaps
     // (main pages, games, promo codes, rewards, blog posts) rather than a
