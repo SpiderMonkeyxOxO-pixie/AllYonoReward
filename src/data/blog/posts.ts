@@ -1333,6 +1333,44 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
+    slug: "max-rummy-welcome-bonus-explained",
+    image: "/images/blog/max-rummy-welcome-bonus-explained.webp",
+    title: "Max Rummy Welcome Bonus Explained",
+    metaTitle: "Max Rummy Welcome Bonus Explained",
+    metaDescription:
+      "Max Rummy's bonus terms aren't yet independently verified, and no public promo code is currently listed. What to check before assuming any welcome-bonus figure is real.",
+    excerpt:
+      "Max Rummy currently shows no public promo code and an unverified bonus structure. What a typical Yono-network rummy welcome bonus includes, and what to confirm first.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "max rummy bonus",
+    datePublished: "2026-11-01",
+    dateUpdated: "2026-11-01",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["max-rummy"],
+    faqs: [
+      {
+        question: "What is Max Rummy's confirmed welcome bonus amount?",
+        answer:
+          "Unconfirmed. Max Rummy's own listing currently shows \"No Public Code Available,\" and AllYonoReward has not independently reviewed its terms, so we don't state a specific figure here.",
+      },
+      {
+        question: "Is there a Max Rummy promo code right now?",
+        answer:
+          "Not a publicly listed one as of this review. Check the Max Rummy promo-code page for current status, since platforms add and remove codes on their own schedule.",
+      },
+      {
+        question: "What should I look for in Max Rummy's wallet screen?",
+        answer:
+          "A clear split between bonus-cash and real cash, the wagering requirement attached to any bonus, and the expiry window.",
+      },
+      {
+        question: "Does AllYonoReward issue the Max Rummy bonus?",
+        answer:
+          "No. This site is informational only. Max Rummy, the app itself, is the only source of any bonus credit.",
+      },
+    ],
+  },
+  {
     slug: "bingo-101-welcome-bonus-explained",
     image: "/images/blog/bingo-101-welcome-bonus-explained.webp",
     title: "Bingo 101 Welcome Bonus Explained",
