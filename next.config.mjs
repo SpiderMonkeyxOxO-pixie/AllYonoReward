@@ -24,6 +24,14 @@ const nextConfig = {
         source: "/images/:path*",
         headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
       },
+      {
+        // Content-hashed build output (JS chunks, fonts) — safe to cache for
+        // a year since the filename changes on every new build. Without this,
+        // these were falling back to a 4-hour default, which Lighthouse flags
+        // as an inefficient cache lifetime.
+        source: "/_next/static/:path*",
+        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
+      },
     ];
   },
   async redirects() {

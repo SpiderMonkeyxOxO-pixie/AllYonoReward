@@ -21,6 +21,7 @@ export function BlogCard({ post }: BlogCardProps) {
           aria-hidden="true"
           width={1200}
           height={675}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 400px"
           className="h-full w-full object-cover"
         />
       </Link>
@@ -32,7 +33,7 @@ export function BlogCard({ post }: BlogCardProps) {
           </Link>
         </h3>
         <p className="line-clamp-3 text-xs text-brand-green-dark/80 sm:line-clamp-4 sm:text-sm">{post.excerpt}</p>
-        <div className="mt-auto flex items-center justify-between pt-1 text-[11px] text-brand-green-dark/50 sm:text-xs">
+        <div className="mt-auto flex items-center justify-between pt-1 text-[11px] text-brand-green-dark/70 sm:text-xs">
           <span>{formatDate(post.dateUpdated)}</span>
           <span>{post.readingTimeMinutes} min read</span>
         </div>

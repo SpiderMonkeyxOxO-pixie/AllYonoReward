@@ -18,7 +18,7 @@ export function FAQAccordion({ faqs, headingId }: FAQAccordionProps) {
             <span>{faq.question}</span>
             <span
               aria-hidden="true"
-              className="shrink-0 rounded-full border border-brand-green/20 px-2 py-0.5 text-sm text-brand-green-dark/60 transition-transform group-open:rotate-45"
+              className="shrink-0 rounded-full border border-brand-green/20 px-2 py-0.5 text-sm text-brand-green-dark/70 transition-transform group-open:rotate-45"
             >
               +
             </span>

@@ -193,7 +193,7 @@ export default async function GamePage({ params }: GamePageProps) {
                   />
                   <div className="min-w-0">
                     <p className="text-xs font-semibold text-brand-green-dark sm:text-sm">{reward.title}</p>
-                    <p className="hidden text-xs text-brand-green-dark/60 sm:block">Learn how it works</p>
+                    <p className="hidden text-xs text-brand-green-dark/70 sm:block">Learn how it works</p>
                   </div>
                 </Link>
               ))}
@@ -315,7 +315,7 @@ export default async function GamePage({ params }: GamePageProps) {
               </li>
             </ul>
           </div>
-          <LastUpdated lastReviewed={game.lastReviewed} lastUpdated={game.lastUpdated} className="px-1 text-xs text-brand-green-dark/50" />
+          <LastUpdated lastReviewed={game.lastReviewed} lastUpdated={game.lastUpdated} className="px-1 text-xs text-brand-green-dark/70" />
         </aside>
       </div>
     </div>

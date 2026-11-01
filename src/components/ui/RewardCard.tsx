@@ -14,6 +14,7 @@ export function RewardCard({ reward }: RewardCardProps) {
         alt={`${reward.title} icon`}
         width={56}
         height={56}
+        sizes="56px"
         className="h-11 w-11 rounded-xl2 object-cover shadow-sm sm:h-14 sm:w-14"
       />
       <h3 className="text-sm font-semibold text-brand-green-dark sm:text-base">{reward.title}</h3>

@@ -8,7 +8,7 @@ interface LastUpdatedProps {
 
 export function LastUpdated({ lastReviewed, lastUpdated, className }: LastUpdatedProps) {
   return (
-    <p className={className ?? "text-xs text-brand-green-dark/60"}>
+    <p className={className ?? "text-xs text-brand-green-dark/70"}>
       {lastReviewed && <>Last reviewed: {formatDate(lastReviewed)} · </>}
       Last updated: {formatDate(lastUpdated)}
     </p>

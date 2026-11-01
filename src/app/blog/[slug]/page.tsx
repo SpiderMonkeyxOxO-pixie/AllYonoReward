@@ -77,7 +77,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       <article className="mt-4">
         <p className="eyebrow">{post.category}</p>
         <h1 className="mb-3 mt-1 text-2xl font-bold text-brand-green-dark sm:text-3xl">{post.title}</h1>
-        <div className="mb-6 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-brand-green-dark/50 sm:text-sm">
+        <div className="mb-6 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-brand-green-dark/70 sm:text-sm">
           <LastUpdated lastUpdated={post.dateUpdated} className="" />
           <span>{post.readingTimeMinutes} min read</span>
         </div>

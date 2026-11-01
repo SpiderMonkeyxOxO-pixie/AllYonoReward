@@ -19,11 +19,12 @@ export function GameCard({ game, priority }: GameCardProps) {
           width={56}
           height={56}
           priority={priority}
+          sizes="56px"
           className="h-11 w-11 shrink-0 rounded-xl2 object-cover shadow-sm sm:h-14 sm:w-14"
         />
         <div className="min-w-0">
           <h3 className="truncate text-sm font-semibold text-brand-green-dark sm:text-base">{game.name}</h3>
-          <p className="truncate text-xs text-brand-green-dark/60">{game.category.join(" · ")}</p>
+          <p className="truncate text-xs text-brand-green-dark/70">{game.category.join(" · ")}</p>
         </div>
       </div>
 
@@ -43,7 +44,7 @@ export function GameCard({ game, priority }: GameCardProps) {
           ))}
         </div>
 
-        <p className="mt-auto text-[11px] text-brand-green-dark/50 sm:text-xs">
+        <p className="mt-auto text-[11px] text-brand-green-dark/70 sm:text-xs">
           Last reviewed: {formatDate(game.lastReviewed)}
         </p>
 

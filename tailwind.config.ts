@@ -31,7 +31,10 @@ const config: Config = {
             soft: "#faf1d7",
             DEFAULT: "#d4af37",
             light: "#f0d878",
-            dark: "#a3821f",
+            // Darkened from #a3821f (3.64:1 on white, fails WCAG AA) to clear
+            // the 4.5:1 text-contrast minimum (now ~5:1) while staying the
+            // same gold hue.
+            dark: "#8a6b12",
           },
           emerald: "#10b981",
           purple: "#7c5cff",

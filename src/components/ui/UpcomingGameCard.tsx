@@ -51,6 +51,7 @@ export function UpcomingGameCard({ game, upcoming }: UpcomingGameCardProps) {
           alt={`${game.name} game icon`}
           width={72}
           height={72}
+          sizes="72px"
           className="h-16 w-16 shrink-0 rounded-xl2 object-cover shadow-sm sm:h-[72px] sm:w-[72px]"
         />
         <div className="min-w-0 flex-1">

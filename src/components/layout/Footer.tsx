@@ -49,7 +49,7 @@ export function Footer() {
         <div className="container-page space-y-3 py-6 text-xs leading-relaxed text-white/60">
           <p>{siteDisclaimer}</p>
           <p>{sbiDisclaimer}</p>
-          <p className="pt-2 text-white/40">
+          <p className="pt-2 text-white/60">
             © {new Date().getFullYear()} {siteConfig.name}. All rights reserved. {siteConfig.name} is an independent
             informational resource for {siteConfig.country} audiences and does not process deposits, payouts or
             real-money gameplay.

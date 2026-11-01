@@ -243,7 +243,7 @@ export default async function PromoCodePage({ params }: PromoCodePageProps) {
               </li>
             </ul>
           </div>
-          <LastUpdated lastUpdated={game.lastUpdated} className="px-1 text-xs text-brand-green-dark/50" />
+          <LastUpdated lastUpdated={game.lastUpdated} className="px-1 text-xs text-brand-green-dark/70" />
         </aside>
       </div>
     </div>

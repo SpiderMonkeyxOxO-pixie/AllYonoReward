@@ -23,7 +23,7 @@ export default function FaqPage() {
 
       <Breadcrumbs items={[{ name: "FAQ", path: "/faq" }]} />
       <h1 className="mb-3 mt-4 text-3xl font-bold text-brand-green-dark">Frequently Asked Questions</h1>
-      <LastUpdated lastUpdated={LAST_UPDATED} className="mb-8 text-xs text-brand-green-dark/50" />
+      <LastUpdated lastUpdated={LAST_UPDATED} className="mb-8 text-xs text-brand-green-dark/70" />
 
       <div className="max-w-3xl">
         <FAQAccordion faqs={allFaqs} headingId="faq-heading" />

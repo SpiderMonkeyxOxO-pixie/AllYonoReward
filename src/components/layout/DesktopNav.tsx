@@ -64,7 +64,7 @@ export function DesktopNav({ featuredGames }: DesktopNavProps) {
                         >
                           <span className="font-medium">{link.label}</span>
                           {link.description && (
-                            <span className="block text-xs text-brand-green-dark/60">{link.description}</span>
+                            <span className="block text-xs text-brand-green-dark/70">{link.description}</span>
                           )}
                         </Link>
                       ))}

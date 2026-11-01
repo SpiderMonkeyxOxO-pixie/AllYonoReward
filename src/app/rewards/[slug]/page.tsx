@@ -175,7 +175,7 @@ export default async function RewardFeaturePage({ params }: RewardPageProps) {
               </li>
             </ul>
           </div>
-          <LastUpdated lastUpdated={reward.lastUpdated} className="px-1 text-xs text-brand-green-dark/50" />
+          <LastUpdated lastUpdated={reward.lastUpdated} className="px-1 text-xs text-brand-green-dark/70" />
         </aside>
       </div>
     </div>

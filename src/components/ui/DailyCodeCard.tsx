@@ -30,6 +30,7 @@ export function DailyCodeCard({ game, codes }: DailyCodeCardProps) {
           alt={`${game.name} game icon`}
           width={36}
           height={36}
+          sizes="36px"
           className="h-8 w-8 shrink-0 rounded-lg object-cover sm:h-9 sm:w-9"
         />
         <span className="truncate text-xs font-semibold text-white sm:text-sm">{game.name}</span>
@@ -61,7 +62,7 @@ export function DailyCodeCard({ game, codes }: DailyCodeCardProps) {
       </div>
 
       <div role="tabpanel" aria-labelledby={tabListId} className="min-h-[48px] rounded-xl bg-black/25 p-2 sm:min-h-[52px] sm:p-2.5">
-        <p className="mb-1 text-[10px] font-medium uppercase tracking-wide text-white/40 sm:text-[11px]">{meta.label}</p>
+        <p className="mb-1 text-[10px] font-medium uppercase tracking-wide text-white/60 sm:text-[11px]">{meta.label}</p>
         {slot.code ? (
           <div className="flex items-center justify-between gap-1.5">
             <code className="truncate font-mono text-xs text-emerald-300 sm:text-sm">{slot.code}</code>
