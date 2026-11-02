@@ -16,6 +16,7 @@ import WhyBonusesCapAround500 from "./why-bonuses-cap-around-500";
 import GoldRummyBonusWhatWeKnow from "./gold-rummy-bonus-what-we-know";
 import BonusHackClaimsAreFake from "./bonus-hack-claims-are-fake";
 import MoneyRummyBonusWhatWeKnow from "./money-rummy-bonus-what-we-know";
+import RummyWealthBonusWhatWeKnow from "./rummy-wealth-bonus-what-we-know";
 
 import WhatIsYonoVip from "./what-is-yono-vip";
 import YonoVipGamesWhatTheLabelMeans from "./yono-vip-games-what-the-label-means";
@@ -69,6 +70,7 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "why-bonuses-cap-around-500": WhyBonusesCapAround500,
   "gold-rummy-bonus-what-we-know": GoldRummyBonusWhatWeKnow,
   "money-rummy-bonus-what-we-know": MoneyRummyBonusWhatWeKnow,
+  "rummy-wealth-bonus-what-we-know": RummyWealthBonusWhatWeKnow,
   "bonus-hack-claims-are-fake": BonusHackClaimsAreFake,
   "what-is-yono-vip": WhatIsYonoVip,
   "yono-vip-games-what-the-label-means": YonoVipGamesWhatTheLabelMeans,
