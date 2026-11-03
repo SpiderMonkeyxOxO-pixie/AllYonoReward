@@ -1850,4 +1850,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "jaiho-win-welcome-bonus-explained",
+    image: "/images/blog/jaiho-win-welcome-bonus-explained.webp",
+    title: "Jaiho Win Welcome Bonus Explained",
+    metaTitle: "Jaiho Win Welcome Bonus Explained",
+    metaDescription:
+      "A ₹150 Jaiho Win sign-up figure is listed across the network, but AllYonoReward hasn't independently verified it. What to check before trusting any welcome-bonus figure.",
+    excerpt:
+      "A ₹150 sign-up figure for Jaiho Win circulates across the network, but it's the app's own stated figure, not an AllYonoReward review. What to confirm first.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "jaiho win bonus",
+    datePublished: "2026-11-03",
+    dateUpdated: "2026-11-03",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["jaiho-win"],
+    faqs: [
+      {
+        question: "What is Jaiho Win's confirmed welcome bonus amount?",
+        answer:
+          "A ₹150 sign-up bonus and ₹100 minimum withdrawal appear on the app's own network listing, but AllYonoReward has not independently reviewed these terms, so treat the figure as the operator's own stated claim, not a confirmed fact.",
+      },
+      {
+        question: "Is there a Jaiho Win promo code right now?",
+        answer:
+          "Check the Jaiho Win promo-code page for current status, since platforms add and remove codes on their own schedule.",
+      },
+      {
+        question: "What should I look for in Jaiho Win's wallet screen?",
+        answer:
+          "A clear split between bonus-cash and real cash, the wagering requirement attached to any bonus, and the expiry window.",
+      },
+      {
+        question: "Does AllYonoReward issue the Jaiho Win bonus?",
+        answer:
+          "No. This site is informational only. Jaiho Win, the app itself, is the only source of any bonus credit.",
+      },
+    ],
+  },
 ];
