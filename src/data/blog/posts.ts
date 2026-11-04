@@ -1888,4 +1888,47 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "slot-spin-welcome-bonus-explained",
+    image: "/images/blog/slot-spin-welcome-bonus-explained.webp",
+    title: "Slot Spin Welcome Bonus Explained: ₹185 Sign-Up, ₹100 Minimum Withdrawal",
+    metaTitle: "Slot Spin Welcome Bonus Explained — ₹185 Sign-Up Figure",
+    metaDescription:
+      "Slot Spin lists a ₹185 sign-up bonus and ₹100 minimum withdrawal on its own network listing. Here's what's confirmed, what to check in-app, and how this compares to similar apps.",
+    excerpt:
+      "Slot Spin's own listing shows a ₹185 welcome bonus and ₹100 minimum withdrawal. Here's what that figure actually covers and what to verify before you treat it as guaranteed.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "slot spin welcome bonus",
+    datePublished: "2026-11-04",
+    dateUpdated: "2026-11-04",
+    readingTimeMinutes: 7,
+    relatedGameSlugs: ["slot-spin", "jaiho-win", "win-rummy"],
+    faqs: [
+      {
+        question: "How much is the Slot Spin welcome bonus?",
+        answer:
+          "₹185 appears as the sign-up figure on Slot Spin's own network listing. That's the operator's own stated figure, not an AllYonoReward-verified amount, so confirm it inside the app at registration before relying on it.",
+      },
+      {
+        question: "What is the minimum withdrawal on Slot Spin?",
+        answer:
+          "₹100, per the same listing. As with the bonus figure, treat this as the stated minimum rather than a guarantee, since minimums can change without notice.",
+      },
+      {
+        question: "Is there a Slot Spin promo code right now?",
+        answer:
+          "Check the Slot Spin game page for current promo-code status, since platforms in this category add and remove codes on their own schedule, independent of the welcome-bonus figure.",
+      },
+      {
+        question: "Is the ₹185 Slot Spin bonus withdrawable immediately?",
+        answer:
+          "Unknown without checking in-app. Welcome bonuses in this category commonly land in a separate bonus wallet with a wagering requirement before converting to withdrawable cash — read the app's own Terms & Conditions, not just the sign-up banner.",
+      },
+      {
+        question: "Does AllYonoReward issue the Slot Spin bonus?",
+        answer:
+          "No. AllYonoReward is an independent informational site. Slot Spin, the app itself, is the only source of any bonus credit, and all rewards are issued solely by the platform.",
+      },
+    ],
+  },
 ];
