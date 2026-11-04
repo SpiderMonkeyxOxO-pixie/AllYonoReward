@@ -7,4 +7,11 @@ import type { UpcomingGame } from "@/lib/types";
 // September 9, 2026), Jaiho Play (launched October 15, 2026), VIP Rummy
 // (launched October 20, 2026), and Spin Rummy (launched October 30, 2026)
 // have all moved to regular listings (see games.ts).
-export const upcomingGames: UpcomingGame[] = [];
+export const upcomingGames: UpcomingGame[] = [
+  {
+    slug: "cash-rummy",
+    releaseDateISO: "2026-11-05T08:00:00+05:30",
+    releaseWindowLabel: "8:00 AM IST",
+    highlightTags: ["New"],
+  },
+];
