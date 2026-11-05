@@ -1931,4 +1931,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "cash-rummy-welcome-bonus-explained",
+    image: "/images/blog/cash-rummy-welcome-bonus-explained.webp",
+    title: "Cash Rummy Welcome Bonus Explained — Why It's a Range, Not a Fixed Figure",
+    metaTitle: "Cash Rummy Welcome Bonus Explained — ₹50–500 Range",
+    metaDescription:
+      "Cash Rummy's own listing states a ₹50–500 welcome bonus — a range, not a confirmed number. What that actually means and what to check before trusting it.",
+    excerpt:
+      "Cash Rummy's own listing states a welcome bonus somewhere between ₹50 and ₹500. Here's why that's a range instead of a fixed figure, and what to check before you trust it.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "cash rummy welcome bonus",
+    datePublished: "2026-11-05",
+    dateUpdated: "2026-11-05",
+    readingTimeMinutes: 7,
+    relatedGameSlugs: ["cash-rummy", "jaiho-win", "spin-rummy"],
+    faqs: [
+      {
+        question: "What is Cash Rummy's confirmed welcome bonus amount?",
+        answer:
+          "The app's own listing states a ₹50–500 range, not a fixed figure — not independently reviewed by AllYonoReward.",
+      },
+      {
+        question: "Why does Cash Rummy state a range instead of one number?",
+        answer:
+          "Not confirmed — could reflect tiered bonuses, partial randomization, or an unstandardized early rollout. We haven't tested which applies here.",
+      },
+      {
+        question: "Does the bonus apply to all ten games in the app?",
+        answer:
+          "Not confirmed — Cash Rummy bundles ten games into one install, and nothing in its own listing clarifies whether bonus terms differ by game. Check the in-app terms directly.",
+      },
+      {
+        question: "Does AllYonoReward issue the Cash Rummy bonus?",
+        answer:
+          "No. AllYonoReward is an independent informational site. Cash Rummy, the app itself, is the only source of any bonus credit, and all rewards are issued solely by the platform.",
+      },
+    ],
+  },
 ];
