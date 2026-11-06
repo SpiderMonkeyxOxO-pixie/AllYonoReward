@@ -53,6 +53,7 @@ import Jaiho91WelcomeBonusExplained from "./jaiho-91-welcome-bonus-explained";
 import JaihoWinWelcomeBonusExplained from "./jaiho-win-welcome-bonus-explained";
 import SlotSpinWelcomeBonusExplained from "./slot-spin-welcome-bonus-explained";
 import CashRummyWelcomeBonusExplained from "./cash-rummy-welcome-bonus-explained";
+import MahaGamesWelcomeBonusExplained from "./maha-games-welcome-bonus-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -110,4 +111,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "jaiho-win-welcome-bonus-explained": JaihoWinWelcomeBonusExplained,
   "slot-spin-welcome-bonus-explained": SlotSpinWelcomeBonusExplained,
   "cash-rummy-welcome-bonus-explained": CashRummyWelcomeBonusExplained,
+  "maha-games-welcome-bonus-explained": MahaGamesWelcomeBonusExplained,
 };

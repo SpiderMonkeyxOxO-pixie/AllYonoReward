@@ -1969,4 +1969,47 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "maha-games-welcome-bonus-explained",
+    image: "/images/blog/maha-games-welcome-bonus-explained.webp",
+    title: "Maha Games Welcome Bonus Explained — Three Named Mechanics, No Public Figures",
+    metaTitle: "Maha Games Welcome Bonus Explained — What's Confirmed",
+    metaDescription:
+      "Maha Games names a Welcome Bonus, Invite Reward Chest, and Lucky Wheel — but no figures are published for any of them. Here's what's confirmed and what isn't.",
+    excerpt:
+      "Maha Games lists three reward mechanics but no public figures for any of them. Here's what's confirmed and what isn't.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "maha games welcome bonus",
+    datePublished: "2026-11-06",
+    dateUpdated: "2026-11-06",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["maha-games", "boss-rummy", "neta-vip"],
+    faqs: [
+      {
+        question: "What is Maha Games' welcome bonus amount?",
+        answer:
+          "Not published. Maha Games lists \"Welcome Bonus\" as a feature, but no specific figure, percentage, or minimum deposit has been independently confirmed.",
+      },
+      {
+        question: "What is the Invite Reward Chest?",
+        answer:
+          "A referral-style reward mechanic named on the Maha Games platform. The exact trigger (signup, first deposit, or another action) hasn't been published.",
+      },
+      {
+        question: "What is the Lucky Wheel on Maha Games?",
+        answer:
+          "A spin-based reward feature listed by the platform, commonly tied to daily activity or deposits on similar apps — not confirmed specifically for Maha Games.",
+      },
+      {
+        question: "Is there a working Maha Games promo code right now?",
+        answer:
+          "No publicly verified code is listed at this time. Check the Maha Games promo-code page for current status.",
+      },
+      {
+        question: "Does AllYonoReward issue any of these rewards?",
+        answer:
+          "No. AllYonoReward is an independent informational site. Maha Games is the only source of any bonus, chest, or wheel reward described here.",
+      },
+    ],
+  },
 ];
