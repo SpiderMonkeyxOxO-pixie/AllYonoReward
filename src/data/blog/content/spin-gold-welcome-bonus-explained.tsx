@@ -14,48 +14,48 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        We have not tested a live Spin Gold account or confirmed its actual welcome-bonus figure, spin mechanics, or
-        withdrawal rules. Any specific number attributed to Spin Gold outside of its own in-app Terms page should be
-        treated as unverified. This post intentionally does not invent one. See our{" "}
-        <Link href="/games/spin-gold">Spin Gold game page</Link> for what is publicly observable.
+        No live Spin Gold account has been tested, no welcome-bonus figure confirmed, no spin mechanics or
+        withdrawal rules checked directly &mdash; so nothing specific gets stated here. Any number attached to
+        Spin Gold outside its own in-app Terms page is unverified, and this post isn&rsquo;t going to invent one to
+        fill the gap. The <Link href="/games/spin-gold">Spin Gold game page</Link> has what&rsquo;s actually
+        publicly observable about the listing.
       </p>
 
       <h2>How spin-mechanic welcome bonuses typically work in this network</h2>
       <p>
-        Spin-style apps generally differ from straight rummy apps in how the bonus is delivered: rather than a flat
-        wallet credit, new users are often given a set number of free spins on sign-up, with each spin landing on a
-        randomized reward tier (small cash-equivalent credits, bonus-wallet amounts, or occasionally a &ldquo;better
-        luck next time&rdquo; outcome). Typical conditions layered on top include: a cap on the maximum bonus
-        obtainable from free spins; a wagering requirement before any spin-won bonus-wallet balance becomes
-        withdrawable; an expiry window on unused free spins; and sometimes a minimum deposit required before free
-        spins unlock at all. Referral bonuses in spin-style apps often grant extra free spins rather than direct
-        cash, which is a meaningful difference from the cash-matched referral bonuses common on rummy apps.
+        Spin-mechanic apps deliver their welcome bonus differently than straight rummy apps do &mdash; instead of a
+        flat wallet credit, new users typically get a set number of free spins at sign-up, each one landing on a
+        randomized reward tier that might be a small cash-equivalent credit, bonus-wallet balance, or nothing at
+        all. Conditions that tend to come attached, though none confirmed for Spin Gold specifically: a ceiling on
+        what free spins can earn in total, a wagering requirement before any spin-won balance becomes withdrawable,
+        an expiry window on spins left unused, and sometimes a minimum deposit before the spins unlock. Referral
+        bonuses in this format also tend to pay out in extra spins rather than straight cash, unlike the
+        cash-matched referrals common on rummy apps.
       </p>
 
       <h2>What to check inside Spin Gold before trusting any claim</h2>
       <p>
-        Open the app&rsquo;s Bonus, Rewards, or Spin Rules section and confirm: how many free spins are granted and
-        under what conditions (immediate on sign-up, or gated behind a first deposit); the maximum and minimum
-        payout per spin, if disclosed; whether spin winnings land as cash or bonus-cash; the wagering multiplier
-        attached to any bonus-cash winnings; and the expiry window for unused spins. If Spin Gold doesn&rsquo;t
-        clearly disclose its spin odds or reward tiers anywhere in-app, that absence is itself worth noting &mdash;
-        transparent apps in this category generally do publish at least a basic reward-tier breakdown.
+        The app&rsquo;s Bonus, Rewards, or Spin Rules section is where to check how many free spins come with
+        sign-up and under what conditions, the maximum and minimum payout per spin if that&rsquo;s disclosed,
+        whether winnings land as cash or bonus-cash, the wagering multiplier on any bonus-cash winnings, and how
+        long unused spins stay valid. An app that stays quiet on its spin odds or reward tiers anywhere in-app is
+        itself worth noting &mdash; the more transparent ones in this category usually publish at least a rough
+        breakdown.
       </p>
 
       <h2>A general caution about randomized reward mechanics</h2>
       <p>
-        Spin-based rewards are inherently variable by design &mdash; that&rsquo;s the mechanic, not a flaw. But it
-        also means headline phrases like &ldquo;win up to &#8377;X&rdquo; describe a best-case ceiling, not a
-        typical or guaranteed outcome. Read any &ldquo;up to&rdquo; language in Spin Gold&rsquo;s own marketing with
-        that distinction in mind.
+        Variability is the actual mechanic here, not a shortcoming &mdash; but it does mean a headline like
+        &ldquo;win up to &#8377;X&rdquo; is describing the best possible outcome, not what most spins return. Read
+        Spin Gold&rsquo;s own &ldquo;up to&rdquo; language with that ceiling-not-average distinction in mind before
+        treating it as a realistic expectation.
       </p>
 
       <h2>Responsible play note</h2>
       <p>
-        For players 18 and older only. Randomized reward mechanics can be more engaging &mdash; and more risky to
-        track spending against &mdash; than fixed-stake games; set a budget before you start, and treat any
-        &ldquo;win up to&rdquo; figure as a ceiling, not an expectation. Confirm the legal status of real-money play
-        in your state.
+        Players 18 and older only. Randomized rewards can pull you into spending more than fixed-stake games do, so
+        set a budget going in and read any &ldquo;win up to&rdquo; figure as a ceiling rather than something to
+        expect. Check that real-money play is actually legal in your state before depositing.
       </p>
     </>
   );

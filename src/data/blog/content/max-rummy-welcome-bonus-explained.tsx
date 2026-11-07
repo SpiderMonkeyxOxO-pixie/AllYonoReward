@@ -6,39 +6,39 @@ export default function Content() {
       <p>
         Max Rummy has not yet had its bonus terms independently reviewed by this site. Its own listing currently
         shows &ldquo;No Public Code Available&rdquo; and a &ldquo;Not Yet Verified&rdquo; classification, so there is
-        no confirmed welcome-bonus figure to report. This post sets out honestly what we don&rsquo;t know, and what
-        a welcome bonus at a Yono-network rummy app typically includes, so you can check Max Rummy&rsquo;s own
-        disclosures against a reasonable baseline rather than against a number we&rsquo;d otherwise have to invent.
+        no confirmed welcome-bonus figure to report. Rather than fill that gap with a guess, this post lays out
+        what&rsquo;s actually confirmed and the broader bonus pattern this network&rsquo;s rummy apps tend to
+        follow, as a baseline for reading Max Rummy&rsquo;s own disclosures once they appear.
       </p>
 
       <h2>What&rsquo;s actually disclosed</h2>
       <p>
-        Nothing from AllYonoReward&rsquo;s own testing, because we haven&rsquo;t tested it. We have not opened a
-        live Max Rummy account, screenshotted its wallet balance, or read its Terms and Conditions page directly.
-        Any specific rupee figure attributed to Max Rummy anywhere online, including rumors or forum posts, should
-        be treated as unverified until the app&rsquo;s own in-app terms confirm it. See our{" "}
-        <Link href="/games/max-rummy">Max Rummy game page</Link> for what is publicly observable, including the
-        current promo-code status.
+        This post isn&rsquo;t backed by AllYonoReward&rsquo;s own testing, because that testing hasn&rsquo;t
+        happened &mdash; no live Max Rummy account opened, no wallet balance screenshotted, no Terms and Conditions
+        page read directly. Any rupee figure attached to Max Rummy anywhere online, rumor or forum post included,
+        stays unverified until the app&rsquo;s own in-app terms confirm it. The{" "}
+        <Link href="/games/max-rummy">Max Rummy game page</Link> tracks current promo-code status and whatever
+        else is publicly observable.
       </p>
 
       <h2>What welcome bonuses in this category typically look like</h2>
       <p>
-        Across the broader Yono-network rummy category, a welcome bonus commonly takes one or more of these forms:
-        a fixed or ranged sign-up credit added on registration; a first-deposit match up to a stated percentage; a
-        bonus-wallet balance that requires a wagering multiplier to be cleared before it converts to withdrawable
-        cash; and sometimes a separate refer-and-earn credit layered on top. None of this is confirmed for Max
-        Rummy specifically &mdash; it&rsquo;s the pattern this category tends to follow elsewhere in the network.
+        A welcome bonus in the broader Yono-network rummy category usually shows up as some mix of the following,
+        none of it confirmed for Max Rummy specifically: a sign-up credit that&rsquo;s either a fixed figure or a
+        stated range, a first-deposit match capped at some percentage, bonus-wallet balance held behind a wagering
+        multiplier before it converts to cash you can withdraw, and sometimes a refer-and-earn layer on top.
+        That&rsquo;s the pattern the category tends to follow, not anything Max Rummy itself has disclosed.
       </p>
 
       <h2>What to check inside Max Rummy itself</h2>
       <p>
-        Before assuming any welcome bonus applies to you, open the app and look specifically for: a clearly labeled
-        Terms &amp; Conditions or Bonus Rules section (not just a marketing banner); the split between
-        &ldquo;bonus&rdquo; and &ldquo;cash&rdquo; in your wallet balance; the wagering requirement and its expiry;
-        and whether withdrawal requires KYC/PAN verification regardless of bonus status. Max Rummy&rsquo;s own
-        listing notes that eligibility criteria &mdash; account status, app version, region &mdash; are managed by
-        the platform and not published independently here, so confirm those directly in-app before assuming you
-        qualify for anything.
+        Before assuming a welcome bonus applies to you, the app itself needs checking for a clearly labeled Terms
+        and Conditions or Bonus Rules section, rather than taking the sign-up screen&rsquo;s promotional banner at
+        face value, plus the bonus-versus-cash split in your wallet, the wagering requirement and its expiry, and whether KYC or PAN
+        verification is required for withdrawal regardless of bonus status. Max Rummy&rsquo;s own listing notes
+        that eligibility criteria like account status, app version, and region are set by the platform and
+        aren&rsquo;t published independently here, so that&rsquo;s worth confirming in-app too before assuming you
+        qualify.
       </p>
 
       <h2>Why there's no code listed right now</h2>
@@ -53,9 +53,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For players 18+ only. Cash-stake rummy is subject to Indian state-level legality; verify your own
-        state&rsquo;s rules before depositing. Treat every bonus claim, including anything described as a welcome
-        reward, as a marketing device rather than guaranteed value until you&rsquo;ve confirmed it inside the app.
+        Players 18 and older only. Cash-stake rummy falls under Indian state-level legality, so check your own
+        state&rsquo;s rules before depositing &mdash; and treat any bonus claim, welcome reward included, as
+        marketing rather than confirmed value until you&rsquo;ve seen it inside the app yourself.
       </p>
     </>
   );

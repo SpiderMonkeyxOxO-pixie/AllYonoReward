@@ -11,32 +11,32 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not opened a live Joy Rummy account, tested its sign-up bonus flow, or confirmed its Terms
-        &amp; Conditions directly. Any welcome-bonus figure attributed to Joy Rummy outside its own app disclosure
-        should be treated as an unverified marketing claim until the app&rsquo;s own terms page confirms it. This
-        post does not state a specific rupee amount for that reason. See our{" "}
-        <Link href="/games/joy-rummy">Joy Rummy game page</Link> for what is publicly observable.
+        No live Joy Rummy account has been tested here, no sign-up flow walked through, no Terms and Conditions
+        page read directly, so this post doesn&rsquo;t quote a rupee figure for its welcome bonus. Any number
+        attached to Joy Rummy outside the app&rsquo;s own disclosure is a marketing claim rather than a confirmed
+        one until that disclosure says otherwise. Check the{" "}
+        <Link href="/games/joy-rummy">Joy Rummy game page</Link> for what&rsquo;s actually publicly observable
+        about the listing.
       </p>
 
       <h2>What welcome bonuses typically include at a standard rummy app like this</h2>
       <p>
-        Joy Rummy&rsquo;s naming follows the conventional rummy-app pattern this site has documented across the
-        network repeatedly: a sign-up bonus-wallet credit; a first-deposit match offer, often tiered by deposit
-        size; a wagering or turnover requirement that must be cleared through real cash-table play before any
-        bonus-wallet balance becomes withdrawable; an expiry window (commonly short across this category); and a
-        referral program that credits both the referring user and the new signup once a qualifying deposit or
-        number of hands is completed. These describe the category template, not a confirmed figure for Joy Rummy
-        specifically.
+        Joy Rummy&rsquo;s naming sits squarely in the conventional rummy-app bracket this site keeps seeing across
+        the network, where the usual welcome-offer shape &mdash; none of it confirmed for Joy Rummy specifically
+        &mdash; runs: bonus-wallet credit at sign-up, a first-deposit match that often scales with deposit size, a
+        turnover requirement worked off at the cash tables before that balance can be withdrawn, a tight expiry
+        window, and a referral layer paying both sides once a referred friend&rsquo;s deposit clears. This is the
+        category template, not anything Joy Rummy has stated.
       </p>
 
       <h2>What to check inside Joy Rummy before trusting any bonus claim</h2>
       <p>
-        Open the app&rsquo;s Bonus, Rewards, or Terms section, usually linked from the wallet or profile screen
-        rather than the home page. Confirm: the exact welcome-bonus amount and whether it&rsquo;s cash or
-        bonus-cash; the wagering multiplier and how many hands or how much turnover is required to clear it; the
-        expiry timer on the bonus; and whether PAN/KYC verification is required before your first cash withdrawal,
-        independent of any bonus condition. If any of these aren&rsquo;t clearly answered in Joy Rummy&rsquo;s own
-        terms, treat that as a reason for caution rather than assuming favorable defaults.
+        The Bonus, Rewards, or Terms section &mdash; typically off the wallet or profile screen rather than the
+        home page &mdash; is where the real figures would live. Four things matter: whether the credit is cash or
+        bonus-cash, the wagering multiplier and what it takes in hands or turnover to clear, how long before it
+        expires, and whether PAN or KYC verification gates your first cash-out separately from the bonus itself.
+        Unanswered questions on any of these four are worth treating as a caution flag rather than assuming the
+        generous default.
       </p>
 
       <h2>A note on &ldquo;Joy&rdquo;-style branding</h2>
@@ -49,9 +49,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For players 18 and older. Real-money rummy is subject to state-level legality across India; confirm your own
-        state&rsquo;s rules before depositing. Treat any welcome-bonus figure, however it&rsquo;s presented, as a
-        marketing incentive rather than guaranteed value, and play only within your means.
+        Players should be 18 or older. Real-money rummy falls under state-level legality that varies across India,
+        so check your own state&rsquo;s rules before depositing &mdash; and treat any welcome-bonus figure as a
+        marketing hook rather than a promise, staying within what you can afford either way.
       </p>
     </>
   );

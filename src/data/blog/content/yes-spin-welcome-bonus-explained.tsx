@@ -13,33 +13,31 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not opened a live Yes Spin account, confirmed its spin-reward tiers, or read its Terms
-        &amp; Conditions directly. We&rsquo;re not going to state a bonus amount for Yes Spin because we don&rsquo;t
-        have a verified one. If a number is circulating for Yes Spin anywhere outside its own app terms, treat it
-        as a marketing claim, not a confirmed fact, until the app&rsquo;s own disclosure backs it up. See our{" "}
-        <Link href="/games/yes-spin">Yes Spin game page</Link> for what is publicly observable.
+        This site hasn&rsquo;t opened a live Yes Spin account, confirmed its reward tiers, or read its Terms and
+        Conditions directly, so no bonus amount gets stated here &mdash; there isn&rsquo;t a verified one to
+        report. Any number you&rsquo;ve seen for Yes Spin outside the app&rsquo;s own terms is a marketing claim,
+        not a confirmed fact, until that disclosure backs it up. The{" "}
+        <Link href="/games/yes-spin">Yes Spin game page</Link> tracks what&rsquo;s actually publicly observable.
       </p>
 
       <h2>Category context: what spin-app welcome bonuses typically look like</h2>
       <p>
-        As with other spin-mechanic apps in this network, Yes Spin likely structures its welcome offer around a set
-        number of free spins rather than a flat cash credit. The general pattern across this sub-category includes:
-        a fixed number of free spins granted at sign-up or after a first deposit; randomized reward tiers per spin,
-        usually including both cash-equivalent and bonus-wallet outcomes; a wagering requirement before spin-won
-        bonus balance can be withdrawn; an expiry window on unused spins (commonly short); and referral bonuses that
-        often grant additional spins rather than direct cash. These are category norms, not confirmed Yes Spin
-        specifics.
+        Like other spin-mechanic apps in this network, Yes Spin&rsquo;s welcome offer is probably built around a
+        set number of free spins rather than a flat cash credit, following the sub-category&rsquo;s usual shape
+        &mdash; none of it confirmed for Yes Spin itself: a fixed spin count at sign-up or after a first deposit,
+        randomized reward tiers mixing cash-equivalent and bonus-wallet outcomes, a wagering condition before any
+        spin-won balance can be withdrawn, a short expiry window on unused spins, and referral bonuses that tend to
+        pay in extra spins rather than direct cash.
       </p>
 
       <h2>What to check inside Yes Spin before trusting any figure</h2>
       <p>
-        Look for a Bonus Rules, Spin Terms, or Rewards section inside the app &mdash; check both the home-screen
-        promotional banner and the profile/wallet menu, since spin apps sometimes disclose different information in
-        each. Confirm: the number of free spins and any conditions attached (deposit-gated or immediate); whether
-        spin outcomes land as cash or bonus-cash; the wagering multiplier on any bonus-cash winnings; the expiry
-        timer on unused spins; and the KYC requirement for actual withdrawal. If Yes Spin&rsquo;s own terms
-        don&rsquo;t clearly spell out spin odds or maximum/minimum payouts, note that as a transparency gap rather
-        than assuming the best-case outcome is typical.
+        A Bonus Rules, Spin Terms, or Rewards section inside the app &mdash; check the home-screen banner and the
+        profile/wallet menu both, since they don&rsquo;t always match &mdash; should answer: how many free spins
+        come with sign-up and whether they&rsquo;re deposit-gated, whether outcomes land as cash or bonus-cash, the
+        wagering multiplier on bonus-cash winnings, how long unused spins stay valid, and what KYC step gates an
+        actual withdrawal. Vague answers on spin odds or payout ranges are a transparency gap worth flagging, not a
+        reason to assume the favorable case.
       </p>
 
       <h2>Why &ldquo;Yes&rdquo; branding deserves no special weight</h2>
@@ -52,9 +50,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For adults 18+ only. Spin-based reward mechanics are variable by design; set a spending limit before you
-        start and don&rsquo;t chase a &ldquo;best case&rdquo; outcome you saw in marketing copy. Confirm real-money
-        play is legal in your state before depositing.
+        Adults 18 and older only. Spin-based rewards are variable by design, so set a spending limit up front and
+        don&rsquo;t chase the best-case figure from the marketing. Confirm real-money play is legal in your state
+        before you deposit.
       </p>
     </>
   );

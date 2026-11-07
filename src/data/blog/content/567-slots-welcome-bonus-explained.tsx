@@ -12,32 +12,32 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not tested a live 567 Slots account, confirmed its reel payout structure, or read its
-        Terms &amp; Conditions directly. There is no confirmed search-volume data behind &ldquo;567 slots
-        bonus&rdquo; either, consistent with this being an emerging or lower-profile app name. No specific bonus
-        figure is stated in this post because none has been independently verified. See our{" "}
-        <Link href="/games/567-slots">567 Slots game page</Link> for what is publicly observable.
+        No live 567 Slots account has been tested, no reel payout structure confirmed, no Terms and Conditions page
+        read directly &mdash; and there&rsquo;s no confirmed search-volume signal behind &ldquo;567 slots
+        bonus&rdquo; either, which fits a newer or lower-profile app name. No bonus figure appears in this post
+        because none has been independently verified. The <Link href="/games/567-slots">567 Slots game page</Link>{" "}
+        is where to check what&rsquo;s actually publicly observable.
       </p>
 
       <h2>How slot-style welcome bonuses typically work in this network</h2>
       <p>
-        Slot-reel apps generally structure their welcome offers around free spins on the reels (distinct from the
-        spin-wheel mechanic covered in other posts in this series) plus, sometimes, a flat bonus-wallet credit.
-        Common conditions include: a set number of free reel-spins granted at sign-up; a cap on total winnings
-        obtainable from free spins before further play requires a deposit; a wagering or playthrough requirement on
-        any winnings before they become withdrawable cash; an expiry window on unused free spins or unclaimed
-        bonus-wallet credit; and a minimum-bet threshold per spin that affects how quickly wagering requirements can
-        be cleared. Slot-style games also typically disclose (or should disclose) a return-to-player percentage or
-        similar fairness indicator &mdash; worth checking whether 567 Slots publishes one at all.
+        Reel-based slot apps tend to build their welcome offer around free reel-spins rather than the spin-wheel
+        mechanic seen elsewhere in this series, sometimes adding a flat bonus-wallet credit on top. Conditions that
+        typically come attached, none confirmed for 567 Slots specifically: a set spin count at sign-up, a cap on
+        what those free spins can win before a deposit is required to keep playing, a wagering requirement on any
+        winnings before they&rsquo;re withdrawable, an expiry window on unused spins or credit, and a minimum-bet
+        threshold per spin that shapes how fast wagering requirements clear. Slot games in general should also
+        disclose a return-to-player percentage or similar fairness figure &mdash; worth checking whether 567 Slots
+        publishes one anywhere.
       </p>
 
       <h2>What to check inside 567 Slots before trusting any bonus claim</h2>
       <p>
-        Open the app&rsquo;s Bonus, Promotions, or Terms section and confirm: the number of free spins granted and
-        any conditions attached; whether winnings from free spins are capped; the wagering multiplier required
-        before any winnings convert to withdrawable cash; the expiry window; and whether the app discloses any
-        payout-rate or fairness information. If 567 Slots doesn&rsquo;t publish basic payout-rate information
-        anywhere in-app, treat that as a transparency gap worth factoring into your decision to deposit.
+        The app&rsquo;s Bonus, Promotions, or Terms section should answer how many free spins come with sign-up and
+        under what conditions, whether winnings from those spins are capped, the wagering multiplier required
+        before winnings convert to cash, the expiry window, and whether any payout-rate or fairness data is
+        disclosed at all. Silence on basic payout-rate information in-app is a transparency gap worth weighing
+        before depositing, not a detail to overlook.
       </p>
 
       <h2>A note on the &ldquo;567&rdquo; naming pattern</h2>
@@ -50,11 +50,10 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For adults 18 and older only. Slot-reel mechanics are designed around variable, randomized payouts; set a
-        budget before you start and treat any advertised &ldquo;up to&rdquo; winning figure as a ceiling, not a
-        typical outcome. Confirm the legal status of real-money slot-style play in your state before depositing
-        &mdash; rules vary and some forms of real-money slot play face additional restrictions compared to
-        skill-based card games.
+        Adults 18 and older only. Slot-reel payouts are randomized by design, so set a budget first and read any
+        advertised &ldquo;up to&rdquo; figure as a ceiling, not what typically happens. Real-money slot-style play
+        faces rules that vary by state and sometimes carries tighter restrictions than skill-based card games, so
+        confirm your own state&rsquo;s position before depositing.
       </p>
     </>
   );

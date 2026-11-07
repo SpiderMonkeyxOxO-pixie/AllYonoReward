@@ -12,34 +12,33 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        We have not opened a 101z account or read its Terms &amp; Conditions directly, so this post makes no claim
-        about 101z&rsquo;s specific bonus amount, wagering requirement, or expiry window. If you&rsquo;ve seen a
-        number for 101z quoted elsewhere &mdash; a forum, a social post, a referral link &mdash; treat it the same
-        way you&rsquo;d treat any unverified claim: real until confirmed in the app&rsquo;s own terms, not before.
-        See our <Link href="/games/101z">101z game page</Link> for what is publicly observable.
+        AllYonoReward hasn&rsquo;t opened a live 101z account or read its Terms &amp; Conditions page, so this post
+        doesn&rsquo;t attach a specific bonus amount, wagering figure, or expiry window to 101z. Any number
+        you&rsquo;ve seen quoted for it elsewhere &mdash; a comment thread, a referral post, a screenshot &mdash;
+        carries the same weight as any other unverified claim until the app&rsquo;s own terms back it up. The{" "}
+        <Link href="/games/101z">101z game page</Link> tracks what&rsquo;s actually publicly observable about the
+        listing.
       </p>
 
       <h2>Category context: what a 101-point card game&rsquo;s welcome bonus usually includes</h2>
       <p>
-        The &ldquo;101&rdquo; naming convention across this app family typically signals a points-based rummy or
-        card variant where the losing condition is tied to reaching 101 points, rather than the classic deal-based
-        rummy structure. Within that sub-category, welcome bonuses generally follow the same broad template this
-        site has documented for other numbered-rummy apps: a sign-up bonus-wallet credit; a first-deposit match,
-        often tiered by deposit size; a wagering multiplier that must be cleared through cash-table play before the
-        bonus becomes withdrawable; an expiry window (commonly short, 24&ndash;72 hours is typical across the
-        category); and a referral program offering a credit to both parties once a referred friend completes a
-        qualifying deposit or number of hands. None of these specifics are confirmed for 101z &mdash; they describe
-        the pattern, not 101z&rsquo;s actual disclosure.
+        Points-based rummy apps in this &ldquo;101&rdquo; naming family tend to share a loose bonus template, even
+        though none of it is confirmed for 101z specifically: a sign-up credit landing in the bonus wallet rather
+        than as cash; a first-deposit match scaled to how much you put in; a playthrough or wagering requirement
+        standing between that bonus balance and an actual withdrawal; a fairly tight expiry window, often inside 72
+        hours; and, in some cases, a referral layer that pays out once a friend clears their own first deposit.
+        Treat every item on that list as a category pattern worth checking for &mdash; not as a promise this
+        specific app has made.
       </p>
 
       <h2>What to check inside 101z specifically</h2>
       <p>
-        Look inside the app for a Bonus Rules, Terms, or Rewards tab, usually linked from the profile or wallet icon
-        rather than the home screen. Before assuming any welcome-bonus number applies to your account, confirm: the
-        exact amount and whether it&rsquo;s cash or bonus-cash; the wagering multiplier and over how many hands or
-        how much turnover it must be cleared; the expiry timer; and whether PAN/KYC verification is required before
-        your first cash withdrawal. If any of these four items aren&rsquo;t clearly stated, treat that gap as a
-        signal to proceed cautiously, independent of how attractive the headline number looks.
+        Inside the app, the Bonus Rules or Rewards tab &mdash; typically tucked under the wallet or profile icon
+        rather than sitting on the home screen &mdash; is where to look. Four things are worth nailing down before
+        assuming a number applies to you: whether the credit lands as cash or bonus-cash, the wagering multiplier
+        and what it takes to clear it, how long you have before it expires, and whether PAN or KYC verification
+        stands between you and your first withdrawal. A terms page that&rsquo;s silent on any of those four is
+        itself a signal, independent of how the headline offer reads.
       </p>
 
       <h2>A note on apps with sparse public information</h2>
@@ -52,9 +51,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        This content is intended for players 18 and older. Real-money card games are subject to state-level
-        legality across India; confirm your own state&rsquo;s rules before you deposit. Play only what you can
-        afford to lose.
+        Players should be 18 or older. Real-money card games fall under state-level legality rules that vary across
+        India, so check where you stand before depositing anything &mdash; and keep stakes within what you can
+        actually afford to lose.
       </p>
     </>
   );

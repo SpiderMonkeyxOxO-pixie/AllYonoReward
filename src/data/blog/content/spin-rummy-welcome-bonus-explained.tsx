@@ -14,43 +14,43 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not opened a live Spin Rummy account, confirmed its spin-reward tiers, or read its Terms
-        &amp; Conditions directly. No welcome-bonus figure, spin mechanic, or withdrawal rule has been confirmed.
-        Any specific number attributed to Spin Rummy outside its own in-app Terms page should be treated as
-        unverified &mdash; this post intentionally does not invent one. See our{" "}
-        <Link href="/games/spin-rummy">Spin Rummy game page</Link> for what is publicly observable.
+        No live Spin Rummy account has been opened, no spin-reward tiers confirmed, no Terms and Conditions page
+        read directly here &mdash; so no welcome-bonus figure, spin mechanic, or withdrawal rule gets stated in
+        this post. Treat any number attached to Spin Rummy outside its own in-app Terms page as unverified; nothing
+        here is invented to fill that gap. The <Link href="/games/spin-rummy">Spin Rummy game page</Link> has
+        what&rsquo;s actually publicly observable about the listing.
       </p>
 
       <h2>How spin-mechanic welcome bonuses typically work in this network</h2>
       <p>
-        Spin-style apps generally differ from straight rummy apps in bonus delivery &mdash; rather than a flat
-        wallet credit, new users are often given a set number of free spins on sign-up, each landing on a randomized
-        reward tier. Typical conditions layered on top: a cap on the maximum bonus obtainable from free spins; a
-        wagering requirement before any spin-won balance becomes withdrawable; an expiry window on unused free
-        spins; sometimes a minimum deposit before free spins unlock at all. These are category norms, not confirmed
-        Spin Rummy specifics.
+        Bonus delivery on spin-style apps tends to differ from straight rummy &mdash; new users typically get a set
+        number of free spins at sign-up rather than a flat wallet credit, each spin landing on a randomized tier.
+        The conditions that usually come with that, none confirmed for Spin Rummy specifically: a ceiling on what
+        the free spins can add up to, a wagering requirement before any spin-won balance is withdrawable, an
+        expiry window on spins left unused, and sometimes a minimum deposit before spins unlock at all.
       </p>
 
       <h2>What to check inside Spin Rummy once you&rsquo;re in</h2>
       <p>
-        Look for a Bonus Rules, Spin Terms, or Rewards section inside the app &mdash; check both the home-screen
-        promotional banner and the profile/wallet menu, since spin apps sometimes disclose different information in
-        each. Confirm: how many free spins are granted and under what conditions; the maximum and minimum payout
-        per spin, if disclosed; whether spin winnings land as cash or bonus-cash; the wagering multiplier on
-        bonus-cash winnings; and the expiry window for unused spins.
+        A Bonus Rules, Spin Terms, or Rewards section inside the app is the place to check &mdash; both the
+        home-screen banner and the profile or wallet menu are worth a look, since spin apps don&rsquo;t always
+        disclose the same details in each. Worth confirming: how many free spins come with sign-up and under what
+        conditions, the maximum and minimum per-spin payout if stated, whether winnings land as cash or bonus-cash,
+        the wagering multiplier on bonus-cash winnings, and how long unused spins remain valid.
       </p>
 
       <h2>A general caution about randomized reward mechanics</h2>
       <p>
-        Spin-based rewards are variable by design. Headline phrases like &ldquo;win up to &#8377;X&rdquo; describe a
-        best-case ceiling, not a typical outcome. Evaluate Spin Rummy the same way you&rsquo;d evaluate any other
-        spin-mechanic app: by its actual published terms, not by how the name or branding sounds.
+        The randomized spin mechanic means outcomes vary by design, and a &ldquo;win up to &#8377;X&rdquo; headline
+        is best read as the ceiling case rather than what a typical spin actually pays. Judge Spin Rummy the way
+        you&rsquo;d judge any spin-based app &mdash; against what its own published terms actually say, not against
+        the number in the marketing copy.
       </p>
 
       <h2>Responsible play note</h2>
       <p>
-        For adults 18+ only. Set a budget before you start, and treat any &ldquo;win up to&rdquo; figure as a
-        ceiling, not an expectation. Confirm real-money play is legal in your state before depositing.
+        Adults 18 and older only. Set a budget before you start, treat any &ldquo;win up to&rdquo; figure as a
+        ceiling rather than an expectation, and confirm real-money play is legal in your state before depositing.
       </p>
     </>
   );

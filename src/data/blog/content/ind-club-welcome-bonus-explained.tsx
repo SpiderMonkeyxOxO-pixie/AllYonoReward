@@ -13,36 +13,32 @@ export default function Content() {
 
       <h2>What we can and can&rsquo;t say</h2>
       <p>
-        We can&rsquo;t say what Ind Club&rsquo;s actual welcome bonus amount is, whether it&rsquo;s cash or
-        bonus-cash, what wagering requirement applies, or when it expires. We haven&rsquo;t tested a live Ind Club
-        signup or read its Terms &amp; Conditions page directly, so stating a specific rupee figure here would be
-        fabricating data &mdash; something this site does not do. What we can do is describe the standard template
-        that card-club apps in this network tend to follow, so you can evaluate Ind Club&rsquo;s actual claims
-        against a reasonable baseline. See our <Link href="/games/ind-club">Ind Club game page</Link> for what is
-        publicly observable.
+        What can honestly be said about Ind Club&rsquo;s welcome bonus is limited: no amount, no cash-versus-bonus-cash
+        split, no wagering figure, no expiry date has been confirmed, because no one here has signed up and read its
+        terms directly. Rather than guess, this post instead lays out the standard template that card-club apps in
+        this network tend to follow, so Ind Club&rsquo;s own claims &mdash; whatever they turn out to be &mdash;
+        have something real to be measured against. The <Link href="/games/ind-club">Ind Club game page</Link> is
+        where to check current, publicly observable listing details.
       </p>
 
       <h2>The standard welcome-bonus template for apps like Ind Club</h2>
       <p>
-        Club-style rummy and card apps in this space generally offer new users some combination of: a sign-up
-        credit (often framed as &ldquo;free&rdquo; or &ldquo;instant,&rdquo; usually delivered as bonus-wallet
-        balance rather than cash); a first-deposit match bonus, frequently expressed as a percentage
-        (50&ndash;200% ranges are common across the category, though we&rsquo;re not claiming that range for Ind
-        Club specifically); playthrough requirements before any bonus-wallet balance can be withdrawn; and a KYC
-        step (PAN card, usually) required before the first cash withdrawal regardless of bonus status. Referral
-        bonuses are also common in this app family &mdash; a credit for both the referrer and the new user once the
-        referred player completes a qualifying deposit or number of games.
+        Club-branded card apps in this space tend to lean on a recognizable combination of features for new users,
+        none of it confirmed specifically for Ind Club: a sign-up credit marketed as &ldquo;free&rdquo; or
+        &ldquo;instant&rdquo; but delivered as bonus-wallet balance rather than cash, a first-deposit match often
+        quoted somewhere in the 50&ndash;200% range across the category, a playthrough requirement standing between
+        that bonus and an actual withdrawal, and a PAN-based KYC step gating the first cash-out regardless of bonus
+        status &mdash; plus, frequently, a referral credit for both sides once a referred signup deposits.
       </p>
 
       <h2>What to check inside Ind Club before trusting any number</h2>
       <p>
-        Since AllYonoReward hasn&rsquo;t reviewed Ind Club&rsquo;s own terms, your best source is the app itself.
-        Look for a dedicated &ldquo;Bonus,&rdquo; &ldquo;Rewards,&rdquo; or &ldquo;Terms&rdquo; tab &mdash; usually
-        reachable from the profile or wallet screen. Confirm: (1) whether the welcome credit is cash or bonus-cash,
-        (2) the wagering multiplier attached to it, (3) the expiry window, and (4) whether a minimum deposit is
-        required to unlock it at all. If the app&rsquo;s own terms page is missing, broken, or doesn&rsquo;t clearly
-        answer these four questions, treat that as a caution sign about the app&rsquo;s overall transparency &mdash;
-        not just about the bonus.
+        With no independent review of Ind Club&rsquo;s terms on file here, the app itself is the only reliable
+        source. A &ldquo;Bonus,&rdquo; &ldquo;Rewards,&rdquo; or &ldquo;Terms&rdquo; tab &mdash; usually under the
+        profile or wallet screen &mdash; should answer four things: is the welcome credit cash or bonus-cash, what
+        wagering multiplier is attached, when does it expire, and is a minimum deposit required to unlock it at
+        all. A terms page that&rsquo;s missing, broken, or vague on any of those four says something about the
+        app&rsquo;s transparency generally, not just about this one bonus.
       </p>
 
       <h2>Why this matters more for smaller or newer apps</h2>
@@ -55,9 +51,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        This content is for adults 18 and older. Card-game apps that involve real-money stakes are subject to
-        state-level legality in India; confirm your own state&rsquo;s rules before depositing. Play only with money
-        you can afford to lose, and treat any bonus as a marketing incentive, not guaranteed value.
+        Adults 18 and older only. Real-money card games are governed by state-level legality that varies across
+        India &mdash; check your own state before depositing, stick to money you can afford to lose, and treat any
+        advertised bonus as marketing rather than a guarantee.
       </p>
     </>
   );

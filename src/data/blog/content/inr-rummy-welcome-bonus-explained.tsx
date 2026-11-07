@@ -12,35 +12,33 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not opened a live INR Rummy account, tested its welcome-bonus flow, or confirmed its Terms
-        &amp; Conditions directly. The &ldquo;INR&rdquo; in the app&rsquo;s name signals it markets itself around
-        real Indian-rupee cash play specifically, but that branding choice is not, on its own, evidence of any
-        particular bonus amount or of more transparent terms than other apps in this category. No specific figure
-        is stated here because none has been verified. See our{" "}
-        <Link href="/games/inr-rummy">INR Rummy game page</Link> for what is publicly observable.
+        No account has been opened for INR Rummy here, no welcome-bonus flow walked through, no Terms and
+        Conditions page read directly &mdash; so this post holds off on stating a figure. The &ldquo;INR&rdquo; in
+        its name signals real-rupee cash play as the pitch, but a name choice isn&rsquo;t evidence of a specific
+        bonus amount or of terms more transparent than any other app in the category. The{" "}
+        <Link href="/games/inr-rummy">INR Rummy game page</Link> is where to find what&rsquo;s actually been
+        published about the listing.
       </p>
 
       <h2>What welcome bonuses typically include at a cash-focused rummy app</h2>
       <p>
-        Apps that lean into &ldquo;INR&rdquo; or &ldquo;real cash&rdquo; branding in their name tend to emphasize
-        the real-money nature of their cash tables prominently, but their welcome-bonus structure generally still
-        follows the standard template this site has documented across the network: a sign-up bonus-wallet credit
-        (not necessarily real cash despite the app&rsquo;s cash-forward branding); a first-deposit match, sometimes
-        tiered; a wagering/turnover requirement before bonus-wallet balance converts to withdrawable cash; an
-        expiry window; and a referral program crediting both parties once a referred signup completes a qualifying
-        deposit or number of games. The &ldquo;INR&rdquo; framing in the name doesn&rsquo;t exempt the bonus from
-        the bonus-cash-vs-real-cash distinction common across this category &mdash; if anything, it makes that
-        distinction more important to check carefully, precisely because the branding implies real-money value
-        upfront.
+        Apps that put &ldquo;INR&rdquo; or &ldquo;real cash&rdquo; front and center in their branding tend to lead
+        with the real-money framing, but underneath that, the welcome-bonus structure usually still follows the
+        same shape seen across the network &mdash; none of it confirmed for INR Rummy itself: sign-up credit
+        landing in the bonus wallet rather than as outright cash despite the name, a first-deposit match
+        that&rsquo;s sometimes tiered, a turnover requirement before that balance converts to withdrawable cash, an
+        expiry window, and often a referral payout once a friend&rsquo;s deposit clears. The cash-forward name
+        doesn&rsquo;t exempt it from the usual bonus-cash-versus-real-cash question &mdash; if anything, that&rsquo;s
+        exactly the distinction worth checking first, given what the branding implies.
       </p>
 
       <h2>What to check inside INR Rummy before trusting any figure</h2>
       <p>
-        Open the app&rsquo;s Bonus, Rewards, or Terms section and confirm: whether the welcome bonus actually lands
-        as cash or as bonus-cash, despite the app&rsquo;s rupee-forward branding; the wagering multiplier and
-        turnover requirement; the expiry timer; and the KYC/PAN requirement for withdrawal. Given the app&rsquo;s
-        name specifically emphasizes real cash, it&rsquo;s worth double-checking that the welcome bonus itself
-        isn&rsquo;t simply bonus-wallet credit dressed up in rupee-denominated marketing language.
+        The app&rsquo;s own Bonus, Rewards, or Terms section is where to confirm whether the welcome credit actually
+        lands as real cash or as bonus-cash despite the rupee-forward name, what wagering multiplier and turnover is
+        attached, when it expires, and what KYC or PAN step stands between you and a withdrawal. Because the
+        branding leans so hard on &ldquo;real cash,&rdquo; it&rsquo;s worth specifically ruling out that the bonus
+        is just ordinary bonus-wallet credit wearing rupee-denominated marketing language.
       </p>
 
       <h2>A note on &ldquo;INR&rdquo;-forward branding generally</h2>
@@ -53,9 +51,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For adults 18 and older. Real-money rummy is subject to state-level legality across India; confirm your own
-        state&rsquo;s rules before depositing. Treat any bonus figure as a marketing incentive and play only within
-        your budget.
+        Adults 18 and older. Real-money rummy sits under state-level legality that differs across India &mdash;
+        check your own state&rsquo;s position before depositing, and treat any bonus number as a marketing
+        incentive rather than a budget line you can count on.
       </p>
     </>
   );

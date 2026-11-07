@@ -12,30 +12,30 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not opened a live Jaiho 91 account, confirmed its welcome-bonus tiers, or read its
-        Terms &amp; Conditions directly. We&rsquo;re not going to state a bonus amount for Jaiho 91 because we
-        don&rsquo;t have a verified one. If a number is circulating for Jaiho 91 anywhere outside its own app
-        terms, treat it as a marketing claim, not a confirmed fact, until the app&rsquo;s own disclosure backs it
-        up. See our <Link href="/games/jaiho-91">Jaiho 91 game page</Link> for what is publicly observable.
+        Nobody here has opened a Jaiho 91 account, confirmed its bonus tiers, or gone through its Terms and
+        Conditions directly &mdash; so no figure is stated for it in this post. Whatever number might be
+        circulating for Jaiho 91 outside the app&rsquo;s own terms is a marketing claim until that disclosure backs
+        it up, not a confirmed fact. The <Link href="/games/jaiho-91">Jaiho 91 game page</Link> is the place to
+        check what&rsquo;s actually publicly observable.
       </p>
 
       <h2>Category context: what welcome bonuses typically look like on this network</h2>
       <p>
-        As with other card-format apps in this network, Jaiho 91 likely structures its welcome offer around a
-        sign-up credit, sometimes paired with a first-deposit match. The general pattern across this category
-        includes: a flat or randomized sign-up bonus; a first-deposit match up to a stated percentage; a
-        wagering requirement before bonus balance becomes withdrawable; and an expiry window on unused bonus
-        credit. These are category norms, not confirmed Jaiho 91 specifics.
+        Card-format apps in this network tend to build their welcome offer around a sign-up credit, sometimes
+        layered with a first-deposit match &mdash; a pattern that likely applies to Jaiho 91 too, though none of it
+        is confirmed specifically for it: a flat or randomized bonus on registration, a deposit match capped at
+        some stated percentage, a wagering condition the balance has to clear before it&rsquo;s withdrawable, and
+        an expiry window on whatever&rsquo;s left unused. Read that as what the category tends to do, not as Jaiho
+        91&rsquo;s own stated terms.
       </p>
 
       <h2>What to check inside Jaiho 91 before trusting any figure</h2>
       <p>
-        Look for a Bonus Rules or Terms section inside the app &mdash; check both the home-screen promotional
-        banner and the profile/wallet menu, since apps sometimes disclose different information in each.
-        Confirm: the exact sign-up bonus amount and any conditions attached; whether a first-deposit match
-        applies and at what rate; the wagering multiplier on bonus balance; and the expiry timer on unused bonus
-        credit. If Jaiho 91&rsquo;s own terms don&rsquo;t clearly spell out these figures, note that as a
-        transparency gap rather than assuming the best-case outcome is typical.
+        A Bonus Rules or Terms section inside the app is the place to look &mdash; check both the home-screen
+        banner and the profile or wallet menu, since the two don&rsquo;t always match. Worth confirming: the exact
+        sign-up figure and any strings attached, whether a deposit match applies and at what rate, the wagering
+        multiplier on that balance, and how long unused bonus credit stays valid. Terms that stay vague on any of
+        these points are a transparency gap worth noting, not a reason to assume the generous reading.
       </p>
 
       <h2>Why &ldquo;91&rdquo; branding deserves no special weight</h2>
@@ -48,8 +48,8 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For adults 18+ only. Set a spending limit before you start and don&rsquo;t chase a &ldquo;best
-        case&rdquo; outcome you saw in marketing copy. Confirm real-money play is legal in your state before
+        This is for adults 18 and older only. Set a limit before you start, don&rsquo;t bank on the best-case
+        figure from the marketing copy, and confirm real-money play is actually legal where you live before
         depositing.
       </p>
     </>

@@ -12,35 +12,32 @@ export default function Content() {
 
       <h2>What&rsquo;s disclosed vs. not yet verified</h2>
       <p>
-        AllYonoReward has not opened a live Rummy 77 account, tested its sign-up bonus, or confirmed its Terms &amp;
-        Conditions directly. Any specific rupee figure attributed to Rummy 77 outside of its own in-app disclosure,
-        including the number &ldquo;77&rdquo; itself, should not be assumed to represent an actual bonus amount.
-        This post does not state one. See our <Link href="/games/rummy-77">Rummy 77 game page</Link> for what is
-        publicly observable.
+        This site hasn&rsquo;t opened a Rummy 77 account, tested its sign-up bonus, or confirmed its Terms and
+        Conditions directly &mdash; so no figure gets stated here, and that includes not reading anything into the
+        number &ldquo;77&rdquo; itself, which names the app rather than describing a bonus amount. The{" "}
+        <Link href="/games/rummy-77">Rummy 77 game page</Link> is where to check what&rsquo;s actually publicly
+        observable about the listing.
       </p>
 
       <h2>What welcome bonuses typically include at a numbered-rummy app like this</h2>
       <p>
-        Rummy 77 follows the same numbered-rummy naming convention this site has covered for{" "}
-        <Link href="/blog/rummy-91-welcome-bonus-explained">Rummy 91</Link>,{" "}
-        <Link href="/blog/yono-rummy-51-bonus-explained">Rummy 51</Link>, and others in the network &mdash; and the
-        underlying bonus template tends to be consistent across that naming pattern, even though the specific
-        numbers in each app&rsquo;s name don&rsquo;t correspond to bonus amounts. Typically expect: a sign-up
-        bonus-wallet credit; a first-deposit match, often tiered by deposit size; a wagering or turnover requirement
-        that must be cleared in real cash-table play before any bonus-wallet balance becomes withdrawable cash; an
-        expiry window (commonly short &mdash; 24 to 72 hours is a pattern seen across this category, not a
-        confirmed figure for Rummy 77 specifically); and a referral program crediting both the referring user and
-        the new signup once a qualifying deposit or number of hands is completed.
+        Rummy 77 sits in the same numbered-rummy naming family this site has already covered for{" "}
+        <Link href="/blog/rummy-91-welcome-bonus-explained">Rummy 91</Link> and{" "}
+        <Link href="/blog/yono-rummy-51-bonus-explained">Rummy 51</Link> &mdash; a naming pattern where the bonus
+        template tends to repeat even though the number in the name never corresponds to an actual bonus figure.
+        Expect, as a category norm rather than a confirmed Rummy 77 fact: bonus-wallet credit on sign-up, a
+        first-deposit match scaled to deposit size, a turnover requirement standing between that balance and a
+        real withdrawal, a short expiry window, and sometimes a referral credit once a friend&rsquo;s deposit
+        clears.
       </p>
 
       <h2>What to check inside Rummy 77 before trusting any bonus claim</h2>
       <p>
-        Open the app&rsquo;s Bonus, Rewards, or Terms section &mdash; usually accessible from the wallet or profile
-        screen rather than the home screen banner. Confirm: the exact bonus amount and whether it lands as cash or
-        bonus-cash; the wagering multiplier and the number of hands or turnover required to clear it; the expiry
-        timer; and whether PAN/KYC verification is required before your first cash withdrawal, separate from any
-        bonus-specific condition. If Rummy 77&rsquo;s own terms don&rsquo;t clearly answer all four points,
-        that&rsquo;s a reason to proceed cautiously rather than assume the best case.
+        Check the Bonus, Rewards, or Terms section inside the app &mdash; usually off the wallet or profile screen,
+        not the home banner. Worth nailing down: whether the bonus lands as cash or bonus-cash, the wagering
+        multiplier and how much turnover or how many hands clears it, the expiry timer, and whether PAN or KYC
+        verification is a separate gate before your first cash-out. Vague answers on any of those four points are
+        reason enough to go slow rather than assume the best case.
       </p>
 
       <h2>A closing note on numbered-rummy app names across this series</h2>
@@ -53,9 +50,9 @@ export default function Content() {
 
       <h2>Responsible play note</h2>
       <p>
-        For players 18 and older. Real-money rummy is subject to state-level legality across India; confirm your
-        own state&rsquo;s rules before depositing. Treat every welcome-bonus figure as a marketing incentive, not a
-        guarantee, and play only within your means.
+        Players should be 18 or older. Real-money rummy is governed by state-level legality that varies across
+        India, so confirm your own state&rsquo;s position before depositing, and treat any welcome-bonus figure as
+        marketing rather than a guarantee &mdash; play only within what you can afford.
       </p>
     </>
   );
