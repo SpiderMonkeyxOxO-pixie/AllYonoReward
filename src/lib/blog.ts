@@ -36,10 +36,18 @@ export function getBlogPostsForGame(gameSlug: string): BlogPost[] {
 }
 
 export function getRelatedBlogPosts(post: BlogPost, limit = 3): BlogPost[] {
-  const sameCategory = getAllBlogPosts().filter(
-    (p) => p.slug !== post.slug && p.category === post.category
-  );
-  if (sameCategory.length >= limit) return sameCategory.slice(0, limit);
+  const fullCategory = getAllBlogPosts().filter((p) => p.category === post.category);
+  const sameCategory = fullCategory.filter((p) => p.slug !== post.slug);
+
+  if (sameCategory.length >= limit) {
+    // Rotate the starting point per post instead of always taking the newest
+    // `limit` posts in the category — otherwise every post in a large
+    // category (e.g. 36 welcome-bonus posts) links to the same 3 newest
+    // posts, starving the rest of any in-content inbound link.
+    const selfIndex = fullCategory.findIndex((p) => p.slug === post.slug);
+    const start = selfIndex >= 0 ? (selfIndex * limit) % sameCategory.length : 0;
+    return [...sameCategory.slice(start), ...sameCategory.slice(0, start)].slice(0, limit);
+  }
 
   const rest = getAllBlogPosts().filter(
     (p) => p.slug !== post.slug && !sameCategory.find((s) => s.slug === p.slug)
