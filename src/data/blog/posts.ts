@@ -317,7 +317,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: "What welcome bonus has Dhan Game announced?",
         answer:
-          "Dhan Game announced a welcome bonus range of ₹50 to ₹500 for new accounts ahead of its July 23, 2026 launch. As with most Yono-style platforms, a range like this typically means the exact amount depends on factors the platform controls internally, not every user receiving the top figure by default.",
+          "Dhan Game's pre-launch material put the figure somewhere between ₹50 and ₹500 for new accounts ahead of its July 23, 2026 launch, without confirming one guaranteed number. Where a given account lands in that range usually comes down to checks the platform runs internally at signup, not a flat payout to everyone.",
       },
       {
         question: "How much extra can the 2nd and 3rd deposits get?",
