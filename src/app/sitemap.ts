@@ -53,12 +53,16 @@ export default async function sitemap({ id }: { id: Promise<number> }): Promise<
   if (resolvedId === 1) {
     // Supporting directory reference, not the domain's primary mission — see
     // /rewards below, which now carries the higher priority.
-    return getAllGames().map((game) => ({
-      url: `${base}/games/${game.slug}`,
-      lastModified: game.lastUpdated || undefined,
-      changeFrequency: "weekly",
-      priority: 0.6,
-    }));
+    // "yono-arcade" excluded: redirects to allyonoarcade.com (next.config.mjs),
+    // so it shouldn't be submitted for crawling here.
+    return getAllGames()
+      .filter((game) => game.slug !== "yono-arcade")
+      .map((game) => ({
+        url: `${base}/games/${game.slug}`,
+        lastModified: game.lastUpdated || undefined,
+        changeFrequency: "weekly",
+        priority: 0.6,
+      }));
   }
 
   if (resolvedId === 2) {

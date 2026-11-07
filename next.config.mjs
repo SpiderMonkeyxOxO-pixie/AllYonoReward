@@ -35,7 +35,16 @@ const nextConfig = {
     ];
   },
   async redirects() {
-    return [];
+    return [
+      {
+        // Direct entity-ownership conflict with AllYonoArcade.com, which this
+        // portfolio also owns and is the confirmed Yono Arcade specialist —
+        // per the governance spec's §2.2 cross-domain finding (2026-11-07).
+        source: "/games/yono-arcade",
+        destination: "https://allyonoarcade.com/",
+        permanent: true,
+      },
+    ];
   },
 };
 
