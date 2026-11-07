@@ -2012,4 +2012,47 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "vip-rummy-welcome-bonus-explained",
+    image: "/images/blog/vip-rummy-welcome-bonus-explained.webp",
+    title: "VIP Rummy Welcome Bonus Explained — No Figure Announced Yet",
+    metaTitle: "VIP Rummy Welcome Bonus Explained — What's Confirmed So Far",
+    metaDescription:
+      "VIP Rummy launched October 20, 2026 with no welcome bonus announced. Here's exactly what's confirmed, what isn't, and what to check before trusting any number you see elsewhere.",
+    excerpt:
+      "VIP Rummy is live, but no welcome bonus has been announced. Here's what's actually confirmed and what to watch for.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "vip rummy welcome bonus",
+    datePublished: "2026-11-07",
+    dateUpdated: "2026-11-07",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["vip-rummy", "jaiho-play", "money-rummy"],
+    faqs: [
+      {
+        question: "What is VIP Rummy's welcome bonus amount?",
+        answer:
+          "None has been announced. VIP Rummy launched on 20 October 2026 without publishing a welcome-bonus figure, percentage, or minimum-deposit requirement anywhere AllYonoReward has found.",
+      },
+      {
+        question: "Does VIP Rummy have any bonus at all?",
+        answer:
+          "Not confirmed either way. No bonus mechanic has been named by the platform yet, which is different from a platform naming a bonus but not publishing the figure.",
+      },
+      {
+        question: "Is there a working VIP Rummy promo code right now?",
+        answer:
+          "No. The same gap applies to promo codes as to the welcome bonus — nothing public has been verified as of this review.",
+      },
+      {
+        question: "When will VIP Rummy announce a bonus?",
+        answer:
+          "There's no published timeline. This page will be updated if and when VIP Rummy's own app, site, or terms publish a specific figure.",
+      },
+      {
+        question: "Should I expect a bonus similar to other Yono-network rummy apps?",
+        answer:
+          "That's a pattern across some other apps in this category, not a VIP Rummy confirmation. Treat any bonus claim you see outside VIP Rummy's own channels as unverified until the platform itself publishes it.",
+      },
+    ],
+  },
 ];
