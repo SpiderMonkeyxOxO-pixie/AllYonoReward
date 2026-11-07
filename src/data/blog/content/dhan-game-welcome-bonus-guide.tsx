@@ -21,12 +21,13 @@ export default function Content() {
 
       <h2>The announced welcome bonus: ₹50 to ₹500</h2>
       <p>
-        New Dhan Game accounts are expected to receive a welcome bonus somewhere in the ₹50 to ₹500 range. As with
-        most Yono-style platforms, a range like this usually means the exact amount depends on factors the platform
-        controls internally — account verification status, device, or a degree of built-in variation — rather than
-        every new user receiving the top figure by default. Our{" "}
-        <Link href="/rewards/welcome-bonus">welcome bonus</Link> reward-feature page covers how this reward type
-        generally works across the category, including why headline ranges rarely mean everyone gets the maximum.
+        Dhan Game's pre-launch material put the new-account welcome bonus somewhere between ₹50 and ₹500, without
+        naming a single guaranteed figure. That's a wide spread, and it's worth asking why: apps in this category
+        rarely hand every signup the top end of a stated range. More often, where an individual account lands within
+        that band gets decided by things the platform checks internally at signup — how the account was verified,
+        which device it was created on, or simply a built-in randomized variation. See our{" "}
+        <Link href="/rewards/welcome-bonus">welcome bonus</Link> reward-feature page for a broader look at why
+        advertised ranges like this one rarely mean a flat payout for everyone.
       </p>
 
       <h2>First, second and third deposit rewards, up to +200% extra</h2>
