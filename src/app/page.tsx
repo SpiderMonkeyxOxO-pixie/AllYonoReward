@@ -34,7 +34,17 @@ const HOMEPAGE_DESCRIPTION =
 // discussing a named platform (how its reward system works), distinct from
 // that platform's own download/APK/login authority, which stays with its
 // entity specialist domain elsewhere in the network.
-const REWARD_EXAMPLE_SLUGS = ["yono-game-rewards-explained", "win-rummy-bonus-explained", "dhan-game-welcome-bonus-guide"];
+const REWARD_EXAMPLE_SLUGS = [
+  "yono-game-rewards-explained",
+  "win-rummy-bonus-explained",
+  "dhan-game-welcome-bonus-guide",
+  "vip-rummy-welcome-bonus-explained",
+  "cash-rummy-welcome-bonus-explained",
+  "spin-rummy-welcome-bonus-explained",
+  "jaiho-play-welcome-bonus-explained",
+  "101z-welcome-bonus-explained",
+  "max-rummy-welcome-bonus-explained",
+];
 
 export const metadata: Metadata = buildMetadata({
   title: "Yono Game Rewards Explained",

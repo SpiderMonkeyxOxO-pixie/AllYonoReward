@@ -683,6 +683,39 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
+    slug: "yono-777-bonus-what-we-know",
+    image: "/images/games/yono-777.webp",
+    title: "Yono 777's Welcome Bonus: What's Confirmed So Far",
+    metaTitle: "Yono 777 Bonus: What's Confirmed So Far",
+    metaDescription:
+      "Yono 777 names a welcome bonus, first-deposit bonus and login gift among its features, but no figure has been independently confirmed yet. Here's what's actually known.",
+    excerpt:
+      "Yono 777's feature list names a welcome bonus and login gift, but no specific figure has actually been confirmed — here's what's really known.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono 777 welcome bonus",
+    datePublished: "2026-11-08",
+    dateUpdated: "2026-11-08",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["yono-777"],
+    faqs: [
+      {
+        question: "Has Yono 777 announced a specific welcome bonus figure?",
+        answer:
+          "No. Yono 777's feature list names a welcome bonus, first-deposit bonus and login gift, but no specific amount has been publicly confirmed or independently verified as of this writing.",
+      },
+      {
+        question: "Does Yono 777 have a promo code?",
+        answer:
+          "No public promo code is currently listed for Yono 777. Check the Yono 777 game guide for current status.",
+      },
+      {
+        question: "Will this page be updated once a bonus is confirmed?",
+        answer:
+          "Yes — the moment a real bonus figure is confirmed inside the app itself, this page and the game guide will both be updated.",
+      },
+    ],
+  },
+  {
     slug: "what-is-yono-vip",
     image: "/images/blog/what-is-yono-vip.webp",
     title: "What Is Yono VIP? Meaning, Status and What to Check",
