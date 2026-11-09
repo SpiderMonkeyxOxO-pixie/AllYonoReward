@@ -684,7 +684,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "yono-777-bonus-what-we-know",
-    image: "/images/games/yono-777.webp",
+    image: "/images/blog/yono-777-bonus-what-we-know.jpg",
     title: "Yono 777's Welcome Bonus: What's Confirmed So Far",
     metaTitle: "Yono 777 Bonus: What's Confirmed So Far",
     metaDescription:
@@ -693,8 +693,8 @@ export const blogPosts: BlogPost[] = [
       "Yono 777's feature list names a welcome bonus and login gift, but no specific figure has actually been confirmed — here's what's really known.",
     category: "Rewards & Bonuses",
     targetKeyword: "yono 777 welcome bonus",
-    datePublished: "2026-11-08",
-    dateUpdated: "2026-11-08",
+    datePublished: "2026-11-09",
+    dateUpdated: "2026-11-09",
     readingTimeMinutes: 4,
     relatedGameSlugs: ["yono-777"],
     faqs: [
