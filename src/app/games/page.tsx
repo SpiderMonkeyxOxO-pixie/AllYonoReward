@@ -17,11 +17,17 @@ interface GamesPageProps {
 
 export async function generateMetadata({ searchParams }: GamesPageProps): Promise<Metadata> {
   const sp = await searchParams;
-  const hasFilters = Boolean(sp.q || sp.category || sp.feature || sp.page);
+  // Only real filters (search/category/feature) produce thin/duplicate variants worth
+  // hiding from search. Plain pagination (?page=2, ?page=3) is distinct, real content —
+  // noindexing it AND canonicalizing it back to page 1 (the old behavior) told Google
+  // the games on those pages don't exist anywhere indexable, which is why most of this
+  // directory beyond the first page was never discovered.
+  const hasFilters = Boolean(sp.q || sp.category || sp.feature);
+  const page = Math.max(1, parseInt(sp.page ?? "1", 10) || 1);
   return buildMetadata({
     title: `All Yono Games: Browse ${GAME_COUNT} Game Guides`,
     description: `Browse the full directory of ${GAME_COUNT} Yono Game guides. Filter by category or reward feature, then sort A–Z, by popularity or recently updated status.`,
-    path: "/games",
+    path: page > 1 ? `/games?page=${page}` : "/games",
     noindex: hasFilters,
   });
 }

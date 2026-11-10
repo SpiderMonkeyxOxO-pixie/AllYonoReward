@@ -27,11 +27,16 @@ interface PromoCodesPageProps {
 
 export async function generateMetadata({ searchParams }: PromoCodesPageProps): Promise<Metadata> {
   const sp = await searchParams;
-  const hasFilters = Boolean(sp.q || sp.status || sp.page);
+  // Only real filters (search/status) produce thin/duplicate variants worth hiding from
+  // search. Plain pagination (?page=2, ?page=3) is distinct, real content — noindexing it
+  // AND canonicalizing it back to page 1 (the old behavior) told Google the promo-code
+  // pages on those pages don't exist anywhere indexable.
+  const hasFilters = Boolean(sp.q || sp.status);
+  const page = Math.max(1, parseInt(sp.page ?? "1", 10) || 1);
   return buildMetadata({
     title: `Yono Game Promo Codes: ${GAME_COUNT} Code Pages`,
     description: `Browse promo-code status pages for all ${GAME_COUNT} Yono games in this directory. Check current status, eligibility notes and how promo codes generally work.`,
-    path: "/promo-codes",
+    path: page > 1 ? `/promo-codes?page=${page}` : "/promo-codes",
     noindex: hasFilters,
   });
 }
