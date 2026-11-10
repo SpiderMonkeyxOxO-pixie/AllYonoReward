@@ -717,7 +717,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "yono-arcade-bonus-what-we-know",
-    image: "/images/games/yono-arcade.webp",
+    image: "/images/blog/yono-arcade-bonus-what-we-know.jpg",
     title: "Yono Arcade's Welcome Bonus: What's Confirmed So Far",
     metaTitle: "Yono Arcade Bonus: What's Confirmed So Far",
     metaDescription:
@@ -750,7 +750,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "yono-games-bonus-what-we-know",
-    image: "/images/games/yono-games.webp",
+    image: "/images/blog/yono-games-bonus-what-we-know.jpg",
     title: "Yono Games's Welcome Bonus: What's Confirmed So Far",
     metaTitle: "Yono Games Bonus: What's Confirmed So Far",
     metaDescription:
