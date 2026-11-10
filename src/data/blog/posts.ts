@@ -716,6 +716,72 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
+    slug: "yono-arcade-bonus-what-we-know",
+    image: "/images/games/yono-arcade.webp",
+    title: "Yono Arcade's Welcome Bonus: What's Confirmed So Far",
+    metaTitle: "Yono Arcade Bonus: What's Confirmed So Far",
+    metaDescription:
+      "Yono Arcade names Cards, an Invite Reward Chest and Lucky Spin among its features, but no bonus figure has been independently confirmed yet. Here's what's actually known.",
+    excerpt:
+      "Yono Arcade's feature list names Cards, Invite Reward Chest and Lucky Spin, but no specific figure has actually been confirmed — here's what's really known.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono arcade welcome bonus",
+    datePublished: "2026-11-10",
+    dateUpdated: "2026-11-10",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["yono-arcade"],
+    faqs: [
+      {
+        question: "Has Yono Arcade announced a specific welcome bonus figure?",
+        answer:
+          "No. Yono Arcade's feature list names Cards, an Invite Reward Chest and Lucky Spin, but no specific amount has been publicly confirmed or independently verified as of this writing.",
+      },
+      {
+        question: "Does Yono Arcade have a promo code?",
+        answer:
+          "No public promo code is currently listed for Yono Arcade. Check the Yono Arcade game guide for current status.",
+      },
+      {
+        question: "Will this page be updated once a bonus is confirmed?",
+        answer:
+          "Yes — the moment a real bonus figure is confirmed inside the app itself, this page and the game guide will both be updated.",
+      },
+    ],
+  },
+  {
+    slug: "yono-games-bonus-what-we-know",
+    image: "/images/games/yono-games.webp",
+    title: "Yono Games's Welcome Bonus: What's Confirmed So Far",
+    metaTitle: "Yono Games Bonus: What's Confirmed So Far",
+    metaDescription:
+      "Yono Games names Events, a Leaderboard and a Lucky Wheel among its features, but no bonus figure has been independently confirmed yet. Here's what's actually known.",
+    excerpt:
+      "Yono Games's feature list names Events, Leaderboard and Lucky Wheel, but no specific figure has actually been confirmed — here's what's really known.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "yono games welcome bonus",
+    datePublished: "2026-11-10",
+    dateUpdated: "2026-11-10",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["yono-games"],
+    faqs: [
+      {
+        question: "Has Yono Games announced a specific welcome bonus figure?",
+        answer:
+          "No. Yono Games's feature list names Events, a Leaderboard and a Lucky Wheel, but no specific amount has been publicly confirmed or independently verified as of this writing.",
+      },
+      {
+        question: "Does Yono Games have a promo code?",
+        answer:
+          "No public promo code is currently listed for Yono Games. Check the Yono Games game guide for current status.",
+      },
+      {
+        question: "Will this page be updated once a bonus is confirmed?",
+        answer:
+          "Yes — the moment a real bonus figure is confirmed inside the app itself, this page and the game guide will both be updated.",
+      },
+    ],
+  },
+  {
     slug: "what-is-yono-vip",
     image: "/images/blog/what-is-yono-vip.webp",
     title: "What Is Yono VIP? Meaning, Status and What to Check",

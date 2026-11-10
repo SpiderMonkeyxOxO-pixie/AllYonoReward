@@ -17,6 +17,8 @@ import GoldRummyBonusWhatWeKnow from "./gold-rummy-bonus-what-we-know";
 import BonusHackClaimsAreFake from "./bonus-hack-claims-are-fake";
 import MoneyRummyBonusWhatWeKnow from "./money-rummy-bonus-what-we-know";
 import Yono777BonusWhatWeKnow from "./yono-777-bonus-what-we-know";
+import YonoArcadeBonusWhatWeKnow from "./yono-arcade-bonus-what-we-know";
+import YonoGamesBonusWhatWeKnow from "./yono-games-bonus-what-we-know";
 import RummyWealthBonusWhatWeKnow from "./rummy-wealth-bonus-what-we-know";
 
 import WhatIsYonoVip from "./what-is-yono-vip";
@@ -77,6 +79,8 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "gold-rummy-bonus-what-we-know": GoldRummyBonusWhatWeKnow,
   "money-rummy-bonus-what-we-know": MoneyRummyBonusWhatWeKnow,
   "yono-777-bonus-what-we-know": Yono777BonusWhatWeKnow,
+  "yono-arcade-bonus-what-we-know": YonoArcadeBonusWhatWeKnow,
+  "yono-games-bonus-what-we-know": YonoGamesBonusWhatWeKnow,
   "rummy-wealth-bonus-what-we-know": RummyWealthBonusWhatWeKnow,
   "bonus-hack-claims-are-fake": BonusHackClaimsAreFake,
   "what-is-yono-vip": WhatIsYonoVip,

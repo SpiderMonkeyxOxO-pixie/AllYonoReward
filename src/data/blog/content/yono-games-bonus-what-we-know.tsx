@@ -1,0 +1,60 @@
+import Link from "next/link";
+
+export default function Content() {
+  return (
+    <>
+      <p>
+        Yono Games is listed in our Card Game category with a promo-code page and a working
+        download link, and its own feature list names Events, a Leaderboard and a Lucky Wheel among
+        what the app offers &mdash; but no welcome-bonus figure for any of them has actually been
+        confirmed. Worth separating what the app says it has from what&rsquo;s been independently
+        checked.
+      </p>
+
+      <h2>What&apos;s confirmed right now</h2>
+      <p>
+        What&rsquo;s actually verifiable is limited: an active listing on the{" "}
+        <Link href="/games/yono-games">Yono Games game guide</Link>, a working download link, and
+        no publicly listed promo code as of this writing. The app&rsquo;s feature list names
+        Events, Leaderboard and Lucky Wheel as reward mechanics it offers, but none come with a
+        figure this site has independently checked. Treat any specific amount you&rsquo;ve seen
+        elsewhere as unverified until it shows up on the game guide&rsquo;s own promo-code tracker.
+      </p>
+
+      <h2>Why that matters for a card-game app</h2>
+      <p>
+        Card-game apps in this network commonly list reward mechanics &mdash; leaderboards,
+        wheels, event pushes &mdash; before any specific figure becomes checkable from the outside
+        &mdash; the <Link href="/rewards/welcome-bonus">welcome bonus</Link> page covers why an
+        advertised feature and a verified figure aren&rsquo;t the same thing. Yono Games sits in
+        that same early stage: the reward types are named, but the amounts behind them aren&rsquo;t
+        yet something this directory can confirm.
+      </p>
+
+      <h2>What to check once Yono Games does confirm a bonus</h2>
+      <ul>
+        <li>
+          Whether the figure appears on the app&rsquo;s own registration, wallet or rewards screen
+          rather than somewhere third-party.
+        </li>
+        <li>
+          Whether it&rsquo;s a fixed amount or a range, and what eligibility conditions apply
+          &mdash; covered in more depth on the <Link href="/rewards">rewards and incentives</Link>{" "}
+          pages.
+        </li>
+        <li>
+          The <Link href="/games/yono-games">Yono Games game guide</Link> directly, since
+          that&rsquo;s where a confirmed promo code or bonus figure would land first.
+        </li>
+      </ul>
+
+      <p>
+        This page gets updated the moment Yono Games confirms a real bonus figure or promo code.
+        Until then, check the <Link href="/games/yono-games">game guide</Link> for current status,
+        or see{" "}
+        <Link href="/blog/yono-arcade-bonus-what-we-know">Yono Arcade&rsquo;s bonus status</Link>{" "}
+        for another platform in this same early, unconfirmed stage.
+      </p>
+    </>
+  );
+}
