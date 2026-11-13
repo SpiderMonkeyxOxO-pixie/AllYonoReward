@@ -2200,7 +2200,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "hindi-777-welcome-bonus-explained",
-    image: "/images/games/hindi-777.webp",
+    image: "/images/blog/hindi-777-welcome-bonus-explained.webp",
     title: "Hindi 777 Welcome Bonus Explained",
     metaTitle: "Hindi 777 Welcome Bonus Explained",
     metaDescription:
