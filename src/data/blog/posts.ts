@@ -2198,4 +2198,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "hindi-777-welcome-bonus-explained",
+    image: "/images/games/hindi-777.webp",
+    title: "Hindi 777 Welcome Bonus Explained",
+    metaTitle: "Hindi 777 Welcome Bonus Explained",
+    metaDescription:
+      "Hindi 777's bonus terms aren't yet independently verified. How its Invite Reward Chest and Lucky Spin features typically work, and what to check first.",
+    excerpt:
+      "Hindi 777's bonus terms aren't yet verified. How its invite-chest and lucky-spin rewards typically work, and what transparency to look for before you deposit.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "hindi 777 bonus",
+    datePublished: "2026-11-13",
+    dateUpdated: "2026-11-13",
+    readingTimeMinutes: 4,
+    relatedGameSlugs: ["hindi-777"],
+    faqs: [
+      {
+        question: "What is Hindi 777's actual welcome bonus?",
+        answer:
+          "Unverified. AllYonoReward has not independently reviewed Hindi 777's terms, so no figure is stated here. The game page currently lists no public promo code.",
+      },
+      {
+        question: "What does the Invite Reward Chest actually give you?",
+        answer:
+          "Not independently confirmed. Chest-style rewards in this network typically unlock in stages based on invites or activity, but the exact contents and conditions are set by Hindi 777 itself.",
+      },
+      {
+        question: "Does \"Hindi\" mean the app is Hindi-language only?",
+        answer:
+          "No reason to assume so — it's a brand-name choice. Confirm language options directly inside Hindi 777.",
+      },
+      {
+        question: "Does AllYonoReward issue the Hindi 777 bonus?",
+        answer:
+          "No. We are informational only. Any bonus, chest reward, or spin outcome can only come from Hindi 777 itself.",
+      },
+    ],
+  },
 ];
