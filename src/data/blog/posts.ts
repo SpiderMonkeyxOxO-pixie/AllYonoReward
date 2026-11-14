@@ -53,43 +53,43 @@ export const blogPosts: BlogPost[] = [
     slug: "jeet-spin-bonus",
 
     image: "/images/blog/jeet-spin-bonus.jpg",
-    title: "Jeet Spin Bonus: Welcome Reward, Deposit Match & What to Expect",
-    metaTitle: "Jeet Spin Bonus — Welcome Reward & Deposit Match Details",
+    title: "Jeet Spin Bonus: No Public Code Confirmed Yet (Checked 14 Nov 2026)",
+    metaTitle: "Jeet Spin Bonus — Still No Public Code, What's Verified",
     metaDescription:
-      "What to expect from Jeet Spin's bonus structure — welcome reward, deposit match, and referral program. Updated for the 30 Sep 2026 launch.",
+      "Six weeks after launch, Jeet Spin still has no publicly confirmed bonus or promo code. Here's exactly what's verified — the Lucky Spin feature, download link, and status.",
     excerpt:
-      "Jeet Spin is now live at jeetspin12.com. Here's what patterns across similar apps suggest about its bonus structure and what to verify in the app.",
+      "Jeet Spin launched 30 Sep 2026. As of our most recent check, no bonus or promo code has been confirmed — here's what's actually verified instead.",
     category: "Rewards & Bonuses",
     targetKeyword: "jeet spin bonus",
     datePublished: "2026-09-29",
-    dateUpdated: "2026-09-30",
+    dateUpdated: "2026-11-14",
     readingTimeMinutes: 5,
     relatedGameSlugs: ["jeet-spin"],
     faqs: [
       {
         question: "What is Jeet Spin's welcome bonus?",
         answer:
-          "No welcome bonus has been officially confirmed. Based on patterns across similar apps, a sign-up reward in the ₹50–₹500 range is typical, but nothing is verified for Jeet Spin specifically.",
+          "Not confirmed, six weeks after launch. No welcome bonus amount has been publicly verified for Jeet Spin — treat any figure you see elsewhere as unconfirmed until it's shown in the app itself.",
       },
       {
-        question: "Does Jeet Spin offer a deposit match bonus?",
+        question: "Does Jeet Spin have a promo code?",
         answer:
-          "Not confirmed. Similar apps in this network commonly offer a first-deposit match of 100–200%, but the exact terms for Jeet Spin will only be known after launch.",
+          "No public code is currently listed. If and when one is confirmed, it will be updated on this page and the Jeet Spin game page.",
       },
       {
         question: "Is there a Jeet Spin referral bonus?",
         answer:
-          "Referral programs with per-invite rewards are standard across this network, but no Jeet Spin referral program has been confirmed yet.",
+          "Not confirmed. No Jeet Spin referral program has been independently verified by this site.",
       },
       {
-        question: "When will Jeet Spin bonuses be available?",
+        question: "Why doesn't this page list a bonus amount?",
         answer:
-          "Jeet Spin launches on 30 September 2026. Bonus details will be reviewed and updated on this page once the app is live.",
+          "Because none has been confirmed. Jeet Spin launched 30 September 2026; as of our most recent check, no bonus, deposit match, or referral terms have been publicly verified.",
       },
       {
-        question: "Are Jeet Spin bonuses the same as other spin app bonuses?",
+        question: "What does Jeet Spin actually offer?",
         answer:
-          "No. Each app in the Yono network has its own bonus structure, amounts and terms. Bonuses from other spin apps do not transfer to Jeet Spin.",
+          "Its one listed feature is Lucky Spin, filed under the Spin category. Download routes to jeetspin12.com — Jeet Spin's own site, not hosted here.",
       },
     ],
   },
