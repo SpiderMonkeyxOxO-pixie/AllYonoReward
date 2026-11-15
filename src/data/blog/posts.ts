@@ -2236,4 +2236,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "free-cash-feature-explained",
+    image: "/images/blog/free-cash-feature-explained.webp",
+    title: "Free Cash Explained: What the \"Free Cash\" Label Actually Means",
+    metaTitle: "Free Cash Explained: What the Label Actually Means",
+    metaDescription:
+      "\"Free Cash\" is a reward label used across more than a dozen apps in this network. Here's what the term usually covers, why \"free\" rarely means withdrawable, and what to check before you count it.",
+    excerpt:
+      "\"Free Cash\" sounds like it means exactly what it says. Across this network, it usually doesn't — here's what the label actually tends to cover.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "free cash bonus",
+    datePublished: "2026-11-15",
+    dateUpdated: "2026-11-15",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["jaiho-rummy", "spin-winner", "yn-777"],
+    faqs: [
+      {
+        question: "Is Free Cash the same as real, withdrawable money?",
+        answer:
+          "Not necessarily. Across this network, \"Free Cash\" usually refers to a promotional credit that lands in a separate bonus balance with conditions — such as a minimum deposit or wagering requirement — before any of it becomes withdrawable cash.",
+      },
+      {
+        question: "Which apps in this network list a Free Cash feature?",
+        answer:
+          "Several, including Jaiho Rummy, Spin Winner, YN 777, Rumble Rummy, 777 Game, Boss Rummy, Max Rummy, Rummy 77, Slot Spin, Yono Rummy, Gogo Rummy, Ind Club, and Jaiho Win. The exact terms — amount, conditions, expiry — are set independently by each platform and haven't been uniformly verified across all of them.",
+      },
+      {
+        question: "Does AllYonoReward confirm the Free Cash amount for any specific app?",
+        answer:
+          "Only where independently verified and stated on that app's own game guide or bonus post. Listing \"Free Cash\" as a feature tag means the platform names this mechanic — it does not mean AllYonoReward has confirmed a figure, and it isn't a safety or legitimacy endorsement.",
+      },
+      {
+        question: "Does AllYonoReward issue or credit any Free Cash reward?",
+        answer:
+          "No. AllYonoReward is an independent informational site. Free Cash, like every other reward type covered here, is issued solely by the platform itself — not by this site.",
+      },
+    ],
+  },
 ];

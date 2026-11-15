@@ -60,6 +60,7 @@ import MahaGamesWelcomeBonusExplained from "./maha-games-welcome-bonus-explained
 import VipRummyWelcomeBonusExplained from "./vip-rummy-welcome-bonus-explained";
 import Rummy123Bonus from "./123-rummy-bonus";
 import Hindi777WelcomeBonusExplained from "./hindi-777-welcome-bonus-explained";
+import FreeCashFeatureExplained from "./free-cash-feature-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -124,4 +125,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "vip-rummy-welcome-bonus-explained": VipRummyWelcomeBonusExplained,
   "123-rummy-bonus": Rummy123Bonus,
   "hindi-777-welcome-bonus-explained": Hindi777WelcomeBonusExplained,
+  "free-cash-feature-explained": FreeCashFeatureExplained,
 };
