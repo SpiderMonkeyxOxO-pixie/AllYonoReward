@@ -2274,4 +2274,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "rewards-today-feature-explained",
+    image: "/images/blog/rewards-today-feature-explained.webp",
+    title: "Rewards Today Explained: What the Label Actually Shows You",
+    metaTitle: "Rewards Today Explained: What the Label Actually Shows",
+    metaDescription:
+      "\"Rewards Today\" is a feature label used across 13 apps in this network. Here's what the dashboard view actually shows, why it repeats across unrelated game types, and what to check before you count it.",
+    excerpt:
+      "\"Rewards Today\" sounds like a daily guaranteed reward. Across this network, it's really a summary view — here's what the label actually shows you.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "rewards today feature",
+    datePublished: "2026-11-17",
+    dateUpdated: "2026-11-17",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["jaiho-arcade", "bingo-101", "yn-777"],
+    faqs: [
+      {
+        question: "Does Rewards Today show guaranteed rewards?",
+        answer:
+          "No — it reflects what a platform currently displays as available, not a guarantee of value or availability.",
+      },
+      {
+        question: "Why do I see different items each day?",
+        answer:
+          "The underlying features (login gifts, events, tasks) change daily based on each platform's own schedule.",
+      },
+      {
+        question: "Which apps in this network list a Rewards Today feature?",
+        answer:
+          "13 apps, including 789 Jackpot, Bingo 101, Gogo Rummy, Ind Rummy, Jaiho Arcade, Jaiho Win, MBM Bet, OK Rummy, Rummy 77, Slots Winner, Spin Gold, YN 777, and Yono Slots. The exact items shown and their conditions are set independently by each platform and haven't been uniformly verified across all of them.",
+      },
+      {
+        question: "Does AllYonoReward issue or credit any Rewards Today item?",
+        answer:
+          "No. AllYonoReward is an independent informational site. Rewards Today, like every other reward type covered here, is issued solely by the platform itself — not by this site.",
+      },
+    ],
+  },
 ];
