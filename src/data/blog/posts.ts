@@ -2285,8 +2285,8 @@ export const blogPosts: BlogPost[] = [
       "\"Rewards Today\" sounds like a daily guaranteed reward. Across this network, it's really a summary view — here's what the label actually shows you.",
     category: "Rewards & Bonuses",
     targetKeyword: "rewards today feature",
-    datePublished: "2026-11-17",
-    dateUpdated: "2026-11-17",
+    datePublished: "2026-11-16",
+    dateUpdated: "2026-11-16",
     readingTimeMinutes: 6,
     relatedGameSlugs: ["jaiho-arcade", "bingo-101", "yn-777"],
     faqs: [
