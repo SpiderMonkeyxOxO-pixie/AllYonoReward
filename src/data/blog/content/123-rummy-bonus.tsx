@@ -4,43 +4,46 @@ export default function Content() {
   return (
     <>
       <p>
-        123 Rummy is a new real-money rummy platform scheduled to launch on 16 November 2026 at 8:00 AM IST as the
-        newest entry in the Yono network. No download link is live yet. This page covers what patterns across
-        similar apps suggest about its bonus structure and what to verify once it launches.
+        123 Rummy launched on 16 November 2026 at 8:00 AM IST as the newest real-money rummy platform on the Yono
+        network. The app is now live and downloadable. No welcome bonus amount or promo code has been
+        independently confirmed yet — this page covers what's actually verified so far and what to check once
+        you're in the app.
       </p>
 
       <h2>When does 123 Rummy launch?</h2>
       <p>
-        123 Rummy is scheduled to launch on 16 November 2026 at 8:00 AM IST. No download link has been published.
-        Check the <Link href="/games">games directory</Link> for the latest listing status once it goes live.
+        123 Rummy launched on 16 November 2026 at 8:00 AM IST. Download it directly from the operator's own link:{" "}
+        <a href="https://www.123rummy2.com/?code=HT9PS5WTMED&t=1794797556" rel="nofollow noopener" target="_blank">
+          123rummy2.com
+        </a>
+        . See our <Link href="/games/123-rummy">123 Rummy game page</Link> for current status.
       </p>
 
-      <h2>Expected welcome bonus: ₹50 to ₹500</h2>
+      <h2>Welcome bonus: not yet confirmed</h2>
       <p>
-        No welcome bonus amount has been confirmed for 123 Rummy. Based on how similar rummy-category apps in this
-        network handle launches, a sign-up reward somewhere in the ₹50 to ₹500 range is typical for new accounts.
-        As with most apps in this space, a range like this usually means the exact amount depends on factors the
-        platform controls internally rather than every new user receiving the top figure by default.
+        No welcome bonus amount has been independently confirmed for 123 Rummy. Based on how similar rummy-category
+        apps in this network handle launches, a sign-up reward is typical for new accounts, but the exact figure
+        for 123 Rummy specifically has not been verified. Treat any bonus amount you see advertised elsewhere as
+        unconfirmed until you see it stated inside the app itself.
       </p>
       <p>
         Our <Link href="/rewards/welcome-bonus">welcome bonus</Link> page explains how this reward type generally
-        works across the category, including why headline ranges rarely mean everyone gets the maximum.
+        works across the category, including why headline figures rarely mean every user gets the same amount.
       </p>
 
-      <h2>Expected deposit-match bonus</h2>
+      <h2>Deposit-match bonus: not yet confirmed</h2>
       <p>
         Similar apps commonly offer a first-deposit match, sometimes extending across the first two or three
-        deposits. No deposit-match terms have been announced for 123 Rummy specifically. Once the app is live, the
-        exact thresholds and conditions will be reviewed. See our{" "}
+        deposits. No deposit-match terms have been confirmed for 123 Rummy specifically. See our{" "}
         <Link href="/rewards/first-deposit-bonus">first deposit bonus</Link> page for how deposit-match rewards
         typically work, including the minimum-deposit and wagering conditions that usually come attached.
       </p>
 
-      <h2>Expected referral program</h2>
+      <h2>Referral program: not yet confirmed</h2>
       <p>
         Referral programs with per-invite rewards are standard across the Yono network. A 123 Rummy referral
-        program is expected but not confirmed. Typically, both the inviter and the invited user receive a reward
-        once the new account completes a qualifying action such as registration or a first deposit.
+        program is expected but has not been confirmed. Typically, both the inviter and the invited user receive a
+        reward once the new account completes a qualifying action such as registration or a first deposit.
       </p>
 
       <h2>123 Rummy bonus vs other rummy apps</h2>
@@ -54,7 +57,7 @@ export default function Content() {
           </tr>
         </thead>
         <tbody>
-          <tr><td>123 Rummy</td><td>Rummy</td><td>Launches 16 Nov 2026</td><td>Not yet confirmed</td></tr>
+          <tr><td>123 Rummy</td><td>Rummy</td><td>Live (since 16 Nov 2026)</td><td>Not yet confirmed</td></tr>
           <tr><td>Win Rummy</td><td>Rummy</td><td>Live</td><td>Check game page</td></tr>
           <tr><td>Max Rummy</td><td>Rummy</td><td>Live</td><td>Check game page</td></tr>
           <tr><td>Boss Rummy</td><td>Rummy</td><td>Live</td><td>Check game page</td></tr>
@@ -67,7 +70,7 @@ export default function Content() {
         another.
       </p>
 
-      <h2>What to check once 123 Rummy is live</h2>
+      <h2>What to check now that 123 Rummy is live</h2>
       <ul>
         <li>
           Verify the actual welcome bonus amount in-app — do not rely on pre-launch promotional figures.
@@ -97,8 +100,8 @@ export default function Content() {
       </p>
 
       <p>
-        This page will be updated with verified bonus details, promo codes and a hands-on review once 123 Rummy
-        launches. In the meantime, browse <Link href="/games">all games</Link> in the directory or the full{" "}
+        This page will be updated with verified bonus details and promo codes as they're confirmed. In the
+        meantime, browse <Link href="/games">all games</Link> in the directory or the full{" "}
         <Link href="/rewards">rewards and incentives</Link> list to see how similar bonus structures work on other
         platforms.
       </p>

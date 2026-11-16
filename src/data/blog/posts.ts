@@ -9,28 +9,28 @@ export const blogPosts: BlogPost[] = [
     slug: "123-rummy-bonus",
 
     image: "/images/blog/123-rummy-bonus.jpg",
-    title: "123 Rummy Bonus: Welcome Reward & What to Expect Before Launch",
-    metaTitle: "123 Rummy Bonus — Welcome Reward & Launch-Day Details",
+    title: "123 Rummy Bonus: Welcome Reward & What's Confirmed Since Launch",
+    metaTitle: "123 Rummy Bonus — Welcome Reward & Live Launch-Day Details",
     metaDescription:
-      "What to expect from 123 Rummy's bonus structure ahead of its 16 Nov 2026 launch — welcome reward, deposit match, and what's confirmed so far.",
+      "123 Rummy launched 16 Nov 2026. Here's what's confirmed about its bonus structure so far, the live download link, and what's still unverified.",
     excerpt:
-      "123 Rummy launches 16 November 2026. Here's what patterns across similar apps suggest about its bonus structure, and what's still unconfirmed.",
+      "123 Rummy launched 16 November 2026 and is now live. Here's the confirmed download link, and what's still unverified about its bonus structure.",
     category: "Rewards & Bonuses",
     targetKeyword: "123 rummy bonus",
     datePublished: "2026-11-11",
-    dateUpdated: "2026-11-11",
+    dateUpdated: "2026-11-16",
     readingTimeMinutes: 5,
     relatedGameSlugs: ["123-rummy"],
     faqs: [
       {
         question: "What is 123 Rummy's welcome bonus?",
         answer:
-          "No welcome bonus has been officially confirmed. Based on patterns across similar rummy apps in this network, a sign-up reward somewhere in the ₹50–₹500 range is typical, but nothing is verified for 123 Rummy specifically.",
+          "No welcome bonus amount has been independently confirmed. Based on patterns across similar rummy apps in this network, a sign-up reward is typical, but nothing is verified for 123 Rummy specifically yet.",
       },
       {
         question: "Does 123 Rummy offer a deposit match bonus?",
         answer:
-          "Not confirmed. Similar apps in this network commonly offer a first-deposit match, but the exact terms for 123 Rummy will only be known after launch.",
+          "Not confirmed. Similar apps in this network commonly offer a first-deposit match, but the exact terms for 123 Rummy have not been verified.",
       },
       {
         question: "Is there a 123 Rummy referral bonus?",
@@ -40,12 +40,12 @@ export const blogPosts: BlogPost[] = [
       {
         question: "When does 123 Rummy launch?",
         answer:
-          "123 Rummy is scheduled to launch on 16 November 2026 at 8:00 AM IST. Bonus details will be reviewed and this page updated once the app is live.",
+          "123 Rummy launched on 16 November 2026 at 8:00 AM IST and is now live.",
       },
       {
         question: "Where can I download 123 Rummy?",
         answer:
-          "No download link has been published yet. It will be added here once 123 Rummy officially launches.",
+          "123 Rummy is live. The download link is on its game page — see our 123 Rummy game page for the current link and status.",
       },
     ],
   },
