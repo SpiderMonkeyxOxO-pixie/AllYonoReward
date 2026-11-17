@@ -2312,4 +2312,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "how-vip-tiers-and-cashback-rewards-work",
+    image: "/images/blog/how-vip-tiers-and-cashback-rewards-work.webp",
+    title: "How VIP Tiers and Cashback Rewards Work",
+    metaTitle: "How VIP Tiers and Cashback Rewards Work (Explained)",
+    metaDescription:
+      "How VIP tiers are typically earned and what cashback usually means vs a one-time bonus — explained generically, with what to check first. 18+ info only.",
+    excerpt:
+      "How VIP tiers are typically earned and what cashback usually means in this category, compared with a one-time bonus — explained generically.",
+    category: "Guides",
+    targetKeyword: "vip tiers and cashback rewards",
+    datePublished: "2026-11-17",
+    dateUpdated: "2026-11-17",
+    readingTimeMinutes: 5,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "What is a VIP tier in a gaming app?",
+        answer:
+          "A status level typically reached through account activity, such as deposits, wagering volume or play frequency over a stated period. Benefits and thresholds are set independently by each platform.",
+      },
+      {
+        question: "What does cashback usually mean, and how is it different from a bonus?",
+        answer:
+          "Cashback is typically a partial return of net losses or wagering, calculated on a recurring cycle. A bonus is usually a one-time credit tied to a single action, like a first deposit.",
+      },
+      {
+        question: "Is cashback the same as withdrawable cash?",
+        answer:
+          "Not always. Some platforms pay cashback as a credit with its own usage condition rather than as directly withdrawable funds. Check the specific platform's own terms.",
+      },
+      {
+        question: "Can a VIP tier be lost?",
+        answer:
+          "This depends on the platform. Some tiers reset if activity drops below a threshold in the next period; others are permanent once reached.",
+      },
+    ],
+  },
 ];

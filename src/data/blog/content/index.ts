@@ -62,6 +62,7 @@ import Rummy123Bonus from "./123-rummy-bonus";
 import Hindi777WelcomeBonusExplained from "./hindi-777-welcome-bonus-explained";
 import FreeCashFeatureExplained from "./free-cash-feature-explained";
 import RewardsTodayFeatureExplained from "./rewards-today-feature-explained";
+import HowVipTiersAndCashbackRewardsWork from "./how-vip-tiers-and-cashback-rewards-work";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -128,4 +129,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "hindi-777-welcome-bonus-explained": Hindi777WelcomeBonusExplained,
   "free-cash-feature-explained": FreeCashFeatureExplained,
   "rewards-today-feature-explained": RewardsTodayFeatureExplained,
+  "how-vip-tiers-and-cashback-rewards-work": HowVipTiersAndCashbackRewardsWork,
 };
