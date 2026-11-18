@@ -2350,4 +2350,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "wagering-and-turnover-requirements-explained",
+    image: "/images/blog/wagering-and-turnover-requirements-explained.webp",
+    title: "Wagering and Turnover Requirements Explained",
+    metaTitle: "Wagering and Turnover Requirements Explained (Playthrough)",
+    metaDescription:
+      "What a wagering, turnover or playthrough requirement actually means, how the multiplier is usually calculated, and why the headline bonus figure and the usable figure often differ. 18+ info only.",
+    excerpt:
+      "A wagering requirement turns a bonus figure into a target you have to clear before any of it is withdrawable. Here's how the multiplier usually works, and what to check before trusting a claim.",
+    category: "Guides",
+    targetKeyword: "wagering requirement meaning",
+    datePublished: "2026-11-18",
+    dateUpdated: "2026-11-18",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: [],
+    faqs: [
+      {
+        question: "What does a wagering requirement actually mean?",
+        answer:
+          "It's a multiplier applied to a bonus amount (sometimes to deposit-plus-bonus) that must be wagered through play before the bonus, or winnings from it, become withdrawable. It's also called a turnover or playthrough requirement — same mechanic, different name.",
+      },
+      {
+        question: "How is the wagering target usually calculated?",
+        answer:
+          "Most commonly, bonus amount × the stated multiplier. Some platforms instead calculate it on (deposit + bonus) × multiplier, which produces a much larger target for the same bonus. Which basis applies isn't always disclosed clearly before signup — check the platform's own terms, not just the marketing claim.",
+      },
+      {
+        question: "Why do wagering requirements expire?",
+        answer:
+          "Platforms set a time window — commonly days to a few weeks — to clear the requirement. If it isn't met in time, the bonus and sometimes any winnings generated from it can be forfeited. The exact window is set independently by each platform.",
+      },
+      {
+        question: "If a platform advertises 'no wagering requirement,' is that always true?",
+        answer:
+          "Not necessarily. Some offers marketed as having no wagering requirement attach a similar condition elsewhere — a withdrawal cap, a minimum-play rule, or a requirement on winnings rather than on the bonus itself. Read the full terms, not just the headline claim.",
+      },
+    ],
+  },
 ];
