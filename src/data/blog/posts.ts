@@ -2388,4 +2388,42 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "deposit-match-bonus-explained",
+    image: "/images/blog/deposit-match-bonus-explained.webp",
+    title: "Deposit Match Bonuses Explained: How the Percentage and Cap Actually Work",
+    metaTitle: "Deposit Match Bonuses Explained (Percentage & Cap)",
+    metaDescription:
+      "How a deposit match bonus's percentage and cap interact, why it's often reserved for a 2nd or 3rd deposit rather than the first, and what to check before trusting a claim. 18+ info only.",
+    excerpt:
+      "A deposit match bonus isn't the same as a one-time welcome bonus — here's how the matched percentage and the cap actually interact, and why it's often saved for a later deposit.",
+    category: "Guides",
+    targetKeyword: "deposit match bonus",
+    datePublished: "2026-11-19",
+    dateUpdated: "2026-11-19",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["win-rummy", "dhan-game"],
+    faqs: [
+      {
+        question: "What is a deposit match bonus?",
+        answer:
+          "Extra credit calculated as a percentage of a deposit — such as 100% or up to 200% — up to a stated cap. It's distinct from a one-time welcome bonus, which is typically a fixed amount tied to signing up rather than scaled to deposit size.",
+      },
+      {
+        question: "How do the match percentage and the cap work together?",
+        answer:
+          "The percentage applies to the deposit amount only up to the cap. Below the cap, a larger deposit produces a larger matched bonus; above it, the cap — not the percentage — decides the maximum payout, no matter how much more is deposited.",
+      },
+      {
+        question: "Why is a deposit match bonus often offered on the 2nd or 3rd deposit instead of the first?",
+        answer:
+          "A first deposit is commonly covered by a separate, one-time welcome bonus. Platforms often use a deposit match instead to encourage an account that has already signed up to deposit again — Dhan Game's announced structure, for example, pairs a standalone welcome bonus with deposit-match rewards of up to +200% specifically on the 2nd and 3rd deposit.",
+      },
+      {
+        question: "Is a deposit match bonus the same as a reload bonus or add-cash bonus?",
+        answer:
+          "Yes — \"deposit match bonus,\" \"reload bonus\" and \"add-cash bonus\" describe the same underlying mechanic under different names used by different platforms.",
+      },
+    ],
+  },
 ];
