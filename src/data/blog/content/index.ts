@@ -65,6 +65,7 @@ import RewardsTodayFeatureExplained from "./rewards-today-feature-explained";
 import HowVipTiersAndCashbackRewardsWork from "./how-vip-tiers-and-cashback-rewards-work";
 import WageringAndTurnoverRequirementsExplained from "./wagering-and-turnover-requirements-explained";
 import DepositMatchBonusExplained from "./deposit-match-bonus-explained";
+import DailyLoginBonusAndStreaksExplained from "./daily-login-bonus-and-streaks-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -134,4 +135,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "how-vip-tiers-and-cashback-rewards-work": HowVipTiersAndCashbackRewardsWork,
   "wagering-and-turnover-requirements-explained": WageringAndTurnoverRequirementsExplained,
   "deposit-match-bonus-explained": DepositMatchBonusExplained,
+  "daily-login-bonus-and-streaks-explained": DailyLoginBonusAndStreaksExplained,
 };
