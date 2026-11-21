@@ -2446,4 +2446,26 @@ export const blogPosts: BlogPost[] = [
       { question: "Do login streak rewards always get bigger the longer the streak runs?", answer: "Typically, yes — later days in a streak cycle (commonly day 7 or day 30) usually carry a larger reward than earlier days, as an incentive to keep the streak going. The exact value curve and cycle length are set independently by each platform and aren't guaranteed to follow any fixed pattern." },
     ],
   },
+  {
+    slug: "tournament-entry-fees-vs-prize-pool-explained",
+    image: "/images/blog/tournament-entry-fees-vs-prize-pool-explained.webp",
+    title: "Tournament Entry Fees vs. Prize Pools: How the Math Actually Works",
+    metaTitle: "Tournament Entry Fees vs. Prize Pools (How It Works)",
+    metaDescription:
+      "How tournament entry fees get pooled into a prize, contribution-based pools vs. platform-guaranteed prizes, and where rake is deducted. 18+ info only.",
+    excerpt:
+      "Tournament entry fees work differently from a welcome bonus — here's how they're pooled into a prize, and why a platform-guaranteed prize isn't the same thing as a contribution-based pool.",
+    category: "Guides",
+    targetKeyword: "tournament entry fee vs prize pool",
+    datePublished: "2026-11-21",
+    dateUpdated: "2026-11-21",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: [],
+    faqs: [
+      { question: "Is a tournament entry fee the same thing as a bonus?", answer: "No. An entry fee is money paid to join a tournament or cash-game contest; a bonus — such as a welcome or deposit bonus — is typically a one-time promotional credit tied to a single signup action. The two are structurally different reward mechanics with different rules." },
+      { question: "How is a tournament prize pool usually calculated?", answer: "Two common models exist. In a contribution-based pool, total payout equals the sum of all entry fees collected, minus a platform rake or fee deducted before distribution. In a platform-guaranteed prize, the payout is set independently of how many entries come in — the platform pays the stated amount even if entries fall short, or keeps the surplus if entries exceed it. Which model applies isn't always stated clearly upfront." },
+      { question: "Where does the rake or platform fee usually get deducted?", answer: "Typically before the prize pool is distributed to winners — the rake is subtracted from the total collected entry fees first, and the remainder, not the full amount collected, is what gets paid out. The exact percentage is set independently by each platform and isn't confirmed here for any specific app." },
+      { question: "Is this the same as a leaderboard reward?", answer: "No. A leaderboard ranks players against each other and typically resets on a cycle, with no entry-fee pooling or prize-pool math involved. A tournament entry-fee structure is a separate mechanic built around money paid in and money paid out." },
+    ],
+  },
 ];

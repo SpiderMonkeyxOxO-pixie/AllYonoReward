@@ -66,6 +66,7 @@ import HowVipTiersAndCashbackRewardsWork from "./how-vip-tiers-and-cashback-rewa
 import WageringAndTurnoverRequirementsExplained from "./wagering-and-turnover-requirements-explained";
 import DepositMatchBonusExplained from "./deposit-match-bonus-explained";
 import DailyLoginBonusAndStreaksExplained from "./daily-login-bonus-and-streaks-explained";
+import TournamentEntryFeesVsPrizePoolExplained from "./tournament-entry-fees-vs-prize-pool-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -136,4 +137,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "wagering-and-turnover-requirements-explained": WageringAndTurnoverRequirementsExplained,
   "deposit-match-bonus-explained": DepositMatchBonusExplained,
   "daily-login-bonus-and-streaks-explained": DailyLoginBonusAndStreaksExplained,
+  "tournament-entry-fees-vs-prize-pool-explained": TournamentEntryFeesVsPrizePoolExplained,
 };
