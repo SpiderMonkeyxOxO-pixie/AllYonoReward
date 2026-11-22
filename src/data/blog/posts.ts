@@ -6,6 +6,45 @@ import type { BlogPost } from "@/lib/types";
 // here, and a matching content component.
 export const blogPosts: BlogPost[] = [
   {
+    slug: "rush-gala-countdown",
+
+    image: "/images/blog/rush-gala-countdown.jpg",
+    title: "Rush Gala Launch Countdown: What's Confirmed So Far",
+    metaTitle: "Rush Gala Launch Countdown — What's Confirmed So Far",
+    metaDescription:
+      "Rush Gala launches 23 Nov 2026 at 8:00 AM IST. Here's exactly what's confirmed ahead of launch — and what isn't, stated plainly.",
+    excerpt:
+      "Rush Gala launches 23 November 2026 at 8:00 AM IST. No download link, bonus or promo code is confirmed yet — here's what we actually know.",
+    category: "Guides",
+    targetKeyword: "rush gala launch",
+    datePublished: "2026-11-22",
+    dateUpdated: "2026-11-22",
+    readingTimeMinutes: 3,
+    relatedGameSlugs: ["rush-gala"],
+    faqs: [
+      {
+        question: "When does Rush Gala launch?",
+        answer:
+          "Rush Gala is scheduled to launch on 23 November 2026 at 8:00 AM IST. This is the date currently tracked on this site and may change if the platform announces otherwise.",
+      },
+      {
+        question: "Is there a Rush Gala download link yet?",
+        answer:
+          "No. No official download link has been published. This page will be updated once a verified link is available after launch.",
+      },
+      {
+        question: "What welcome bonus does Rush Gala offer?",
+        answer:
+          "No welcome bonus amount has been announced for Rush Gala at this time. This page will be updated once bonus details are confirmed.",
+      },
+      {
+        question: "Is there a Rush Gala promo code?",
+        answer:
+          "No publicly verified promo code exists for Rush Gala yet. Any code advertised elsewhere before launch should be treated as unverified.",
+      },
+    ],
+  },
+  {
     slug: "123-rummy-bonus",
 
     image: "/images/blog/123-rummy-bonus.jpg",
