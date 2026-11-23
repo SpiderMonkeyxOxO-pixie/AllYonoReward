@@ -9,38 +9,38 @@ export const blogPosts: BlogPost[] = [
     slug: "rush-gala-countdown",
 
     image: "/images/blog/rush-gala-countdown.jpg",
-    title: "Rush Gala Launch Countdown: What's Confirmed So Far",
-    metaTitle: "Rush Gala Launch Countdown — What's Confirmed So Far",
+    title: "Rush Gala Bonus: ₹50-500 Welcome Range, Live Download Link",
+    metaTitle: "Rush Gala Bonus — ₹50-500 Welcome Range & Live Launch Details",
     metaDescription:
-      "Rush Gala launches 23 Nov 2026 at 8:00 AM IST. Here's exactly what's confirmed ahead of launch — and what isn't, stated plainly.",
+      "Rush Gala launched 23 Nov 2026. The operator's listing states a ₹50-500 welcome bonus range. Here's the live download link and what's confirmed so far.",
     excerpt:
-      "Rush Gala launches 23 November 2026 at 8:00 AM IST. No download link, bonus or promo code is confirmed yet — here's what we actually know.",
+      "Rush Gala launched 23 November 2026 with a ₹50-500 welcome bonus range per the operator's listing. Here's the live download link and what's confirmed.",
     category: "Guides",
-    targetKeyword: "rush gala launch",
-    datePublished: "2026-11-22",
-    dateUpdated: "2026-11-22",
-    readingTimeMinutes: 3,
+    targetKeyword: "rush gala bonus",
+    datePublished: "2026-11-23",
+    dateUpdated: "2026-11-23",
+    readingTimeMinutes: 5,
     relatedGameSlugs: ["rush-gala"],
     faqs: [
       {
-        question: "When does Rush Gala launch?",
+        question: "When did Rush Gala launch?",
         answer:
-          "Rush Gala is scheduled to launch on 23 November 2026 at 8:00 AM IST. This is the date currently tracked on this site and may change if the platform announces otherwise.",
+          "Rush Gala launched on 23 November 2026 at 8:00 AM IST and is downloadable now.",
       },
       {
-        question: "Is there a Rush Gala download link yet?",
+        question: "Is there a Rush Gala download link?",
         answer:
-          "No. No official download link has been published. This page will be updated once a verified link is available after launch.",
+          "Yes. Rush Gala is live and the download button on its game page links to the platform's own referral link.",
       },
       {
         question: "What welcome bonus does Rush Gala offer?",
         answer:
-          "No welcome bonus amount has been announced for Rush Gala at this time. This page will be updated once bonus details are confirmed.",
+          "The operator's own listing states a range between ₹50 and ₹500, randomly assigned at signup rather than a fixed figure. This has not been independently verified by AllYonoReward.",
       },
       {
         question: "Is there a Rush Gala promo code?",
         answer:
-          "No publicly verified promo code exists for Rush Gala yet. Any code advertised elsewhere before launch should be treated as unverified.",
+          "No publicly verified promo code exists for Rush Gala at this time. Any code advertised elsewhere should be treated as unverified until confirmed.",
       },
     ],
   },
