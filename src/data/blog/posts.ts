@@ -2507,4 +2507,27 @@ export const blogPosts: BlogPost[] = [
       { question: "Is this the same as a leaderboard reward?", answer: "No. A leaderboard ranks players against each other and typically resets on a cycle, with no entry-fee pooling or prize-pool math involved. A tournament entry-fee structure is a separate mechanic built around money paid in and money paid out." },
     ],
   },
+  {
+    slug: "bonus-withdrawal-rules-and-kyc-explained",
+    image: "/images/blog/bonus-withdrawal-rules-and-kyc-explained.jpg",
+    title: "Bonus Withdrawal Rules Explained: Minimum Amounts, KYC and Processing Delays",
+    metaTitle: "Bonus Withdrawal Rules Explained: KYC & Minimum Amounts",
+    metaDescription:
+      "Why a credited bonus isn't instant cash: minimum withdrawal amounts, KYC checks, processing windows, and why payouts get delayed. 18+ info only.",
+    excerpt:
+      "A credited bonus and a withdrawable one aren't the same thing — here's how minimum withdrawal thresholds, KYC checks and processing windows usually work, and why a payout can stall.",
+    category: "Guides",
+    targetKeyword: "bonus withdrawal rules",
+    datePublished: "2026-11-24",
+    dateUpdated: "2026-11-24",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: [],
+    faqs: [
+      { question: "What's the difference between a credited bonus and a withdrawable one?", answer: "A credited bonus sits in your account balance, but it typically isn't withdrawable until any attached wagering requirement is cleared, the amount meets the platform's minimum withdrawal threshold, and (often) identity verification is complete. Being credited and being withdrawable are two separate states." },
+      { question: "What is a minimum withdrawal amount?", answer: "The smallest sum a platform will pay out in a single request. A request below that threshold is commonly held, reduced, or declined, regardless of how the balance was earned. The exact figure is set independently by each platform." },
+      { question: "Does KYC apply to everyone, or only to withdrawals?", answer: "It varies by platform. Some require identity verification at signup; others only trigger it specifically before releasing a first withdrawal. Check which model a given platform uses rather than assuming it matches another app you've used." },
+      { question: "Why would a withdrawal be delayed or rejected?", answer: "Common reasons include an unmet wagering requirement on the balance, a request below the stated minimum, incomplete or pending KYC verification, or the platform's own processing window simply not having elapsed yet. None of these require a payment or fee from you to resolve." },
+      { question: "Does clearing a wagering requirement guarantee my withdrawal goes through immediately?", answer: "No. Clearing a wagering requirement only removes that specific condition — the withdrawal can still be subject to a minimum-amount check, KYC verification, and the platform's stated processing window afterward." },
+    ],
+  },
 ];
