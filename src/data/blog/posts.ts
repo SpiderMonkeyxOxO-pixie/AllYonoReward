@@ -2530,4 +2530,27 @@ export const blogPosts: BlogPost[] = [
       { question: "Does clearing a wagering requirement guarantee my withdrawal goes through immediately?", answer: "No. Clearing a wagering requirement only removes that specific condition — the withdrawal can still be subject to a minimum-amount check, KYC verification, and the platform's stated processing window afterward." },
     ],
   },
+  {
+    slug: "bonus-forfeiture-rules-explained",
+    image: "/images/blog/bonus-forfeiture-rules-explained.jpg",
+    title: "Why a Credited Bonus Can Still Be Forfeited: Cancellation Rules Explained",
+    metaTitle: "Bonus Forfeiture Rules Explained: Why Bonuses Get Cancelled",
+    metaDescription:
+      "A bonus sitting in your balance isn't guaranteed to stay there. Here's how self-referral, multiple accounts, and bonus-excluded games can get a bonus forfeited. 18+ info only.",
+    excerpt:
+      "A credited bonus isn't final — most platforms reserve the right to forfeit it later over multiple accounts, self-referral, or bot play, a different mechanic from simple expiry.",
+    category: "Guides",
+    targetKeyword: "bonus forfeiture rules",
+    datePublished: "2026-11-25",
+    dateUpdated: "2026-11-25",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: [],
+    faqs: [
+      { question: "What does it mean for a bonus to be \"forfeited\"?", answer: "It means a platform cancels or reverses a bonus — and sometimes winnings traced back to it — after determining an eligibility condition was broken, rather than because it simply expired." },
+      { question: "Can a bonus be cancelled after it's already been credited to my balance?", answer: "Yes. Being credited isn't the same as being final. Most platforms' terms reserve the right to void a bonus retroactively if a violation is found later, including after wagering or at withdrawal." },
+      { question: "Is bonus forfeiture the same as a bonus just expiring?", answer: "No. Expiry is time-based — the clock runs out. Forfeiture is a policy-violation finding, such as multiple accounts or bot play, and can happen regardless of how much time is left." },
+      { question: "What's the most commonly cited forfeiture trigger?", answer: "Multiple accounts tied to one person — often detected through device, IP, or payment-detail overlap — is one of the most frequently cited reasons across bonus terms in this category, though the exact detection method isn't confirmed for any specific platform." },
+      { question: "Can a forfeiture happen after I've already submitted a withdrawal request?", answer: "Yes. A withdrawal request is often exactly when a platform runs its closest account review, so a forfeiture finding at that stage is common rather than unusual." },
+    ],
+  },
 ];

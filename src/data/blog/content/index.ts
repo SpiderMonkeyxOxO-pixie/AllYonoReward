@@ -69,6 +69,7 @@ import DailyLoginBonusAndStreaksExplained from "./daily-login-bonus-and-streaks-
 import TournamentEntryFeesVsPrizePoolExplained from "./tournament-entry-fees-vs-prize-pool-explained";
 import RushGalaCountdown from "./rush-gala-countdown";
 import BonusWithdrawalRulesAndKycExplained from "./bonus-withdrawal-rules-and-kyc-explained";
+import BonusForfeitureRulesExplained from "./bonus-forfeiture-rules-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -142,4 +143,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "tournament-entry-fees-vs-prize-pool-explained": TournamentEntryFeesVsPrizePoolExplained,
   "rush-gala-countdown": RushGalaCountdown,
   "bonus-withdrawal-rules-and-kyc-explained": BonusWithdrawalRulesAndKycExplained,
+  "bonus-forfeiture-rules-explained": BonusForfeitureRulesExplained,
 };
