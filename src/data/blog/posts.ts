@@ -6,6 +6,50 @@ import type { BlogPost } from "@/lib/types";
 // here, and a matching content component.
 export const blogPosts: BlogPost[] = [
   {
+    slug: "invite-reward-chest-explained",
+
+    image: "/images/blog/invite-reward-chest-explained.webp",
+    title: "Invite Reward Chest Explained: What the Milestone-Based Referral Reward Actually Means",
+    metaTitle: "Invite Reward Chest Explained: Chest vs Refer and Earn",
+    metaDescription:
+      "\"Invite Reward Chest\" is a referral feature used across 14 apps in this network. Here's how the milestone-based chest differs from a flat refer-and-earn payout, and why progress can reset to zero. 18+ info only.",
+    excerpt:
+      "A chest unlocks at a cumulative invite milestone, not per invite like a flat refer-and-earn payout — and unmet progress can reset to zero. Here's how the mechanic actually works.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "invite reward chest",
+    datePublished: "2026-11-26",
+    dateUpdated: "2026-11-26",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["hindi-777", "maha-games", "yono-arcade"],
+    faqs: [
+      {
+        question: "What is an Invite Reward Chest?",
+        answer:
+          "A referral feature where a reward unlocks after a cumulative number of qualifying invited users join and complete the platform's required steps, rather than paying out per individual invite.",
+      },
+      {
+        question: "How is an Invite Reward Chest different from a regular refer-and-earn reward?",
+        answer:
+          "Refer and earn can pay per qualifying invite as each one clears conditions. A chest instead tracks progress toward a single target and releases its reward only once that target is reached.",
+      },
+      {
+        question: "When is an Invite Reward Chest reward actually released?",
+        answer:
+          "Typically after invited users complete the platform's required registration or activity steps and the chest's invite target is met — exact timing varies by platform.",
+      },
+      {
+        question: "What happens if I don't reach the chest's invite target in time?",
+        answer:
+          "Progress toward a chest may reset after a stated period if the target isn't completed, rather than simply pausing where it was left off.",
+      },
+      {
+        question: "Can I invite the same person twice to fill a chest faster?",
+        answer:
+          "Most platforms restrict chest progress to unique, genuine new users — self-referrals and duplicate accounts are commonly excluded by policy.",
+      },
+    ],
+  },
+  {
     slug: "rush-gala-countdown",
 
     image: "/images/blog/rush-gala-countdown.jpg",
