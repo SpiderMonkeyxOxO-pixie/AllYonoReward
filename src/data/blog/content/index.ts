@@ -68,6 +68,7 @@ import DepositMatchBonusExplained from "./deposit-match-bonus-explained";
 import DailyLoginBonusAndStreaksExplained from "./daily-login-bonus-and-streaks-explained";
 import TournamentEntryFeesVsPrizePoolExplained from "./tournament-entry-fees-vs-prize-pool-explained";
 import RushGalaCountdown from "./rush-gala-countdown";
+import SpinDostCountdown from "./spin-dost-countdown";
 import BonusWithdrawalRulesAndKycExplained from "./bonus-withdrawal-rules-and-kyc-explained";
 import BonusForfeitureRulesExplained from "./bonus-forfeiture-rules-explained";
 import InviteRewardChestExplained from "./invite-reward-chest-explained";
@@ -148,4 +149,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "bonus-forfeiture-rules-explained": BonusForfeitureRulesExplained,
   "invite-reward-chest-explained": InviteRewardChestExplained,
   "cards-feature-explained": CardsFeatureExplained,
+  "spin-dost-countdown": SpinDostCountdown,
 };

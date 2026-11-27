@@ -2641,4 +2641,43 @@ export const blogPosts: BlogPost[] = [
       { question: "Can a forfeiture happen after I've already submitted a withdrawal request?", answer: "Yes. A withdrawal request is often exactly when a platform runs its closest account review, so a forfeiture finding at that stage is common rather than unusual." },
     ],
   },
+  {
+    slug: "spin-dost-countdown",
+
+    image: "/images/blog/spin-dost-countdown.jpg",
+    title: "Spin Dost Launch Countdown: What's Confirmed So Far",
+    metaTitle: "Spin Dost Launch Countdown — What's Confirmed So Far",
+    metaDescription:
+      "Spin Dost launches 1 Dec 2026 at 8:00 AM IST. Here's exactly what's confirmed ahead of launch — and what isn't, stated plainly.",
+    excerpt:
+      "Spin Dost launches 1 December 2026 at 8:00 AM IST. No download link, bonus or promo code is confirmed yet — here's what we actually know.",
+    category: "Guides",
+    targetKeyword: "spin dost app",
+    datePublished: "2026-11-27",
+    dateUpdated: "2026-11-27",
+    readingTimeMinutes: 3,
+    relatedGameSlugs: ["spin-dost"],
+    faqs: [
+      {
+        question: "When does Spin Dost launch?",
+        answer:
+          "Spin Dost is scheduled to launch on 1 December 2026 at 8:00 AM IST. This is the date currently tracked on this site and may change if the platform announces otherwise.",
+      },
+      {
+        question: "Is there a Spin Dost download link yet?",
+        answer:
+          "No. No official download link has been published. This page will be updated once a verified link is available after launch.",
+      },
+      {
+        question: "What welcome bonus does Spin Dost offer?",
+        answer:
+          "No welcome bonus amount has been announced for Spin Dost at this time. This page will be updated once bonus details are confirmed.",
+      },
+      {
+        question: "Is there a Spin Dost promo code?",
+        answer:
+          "No publicly verified promo code exists for Spin Dost yet. Any code advertised elsewhere before launch should be treated as unverified.",
+      },
+    ],
+  },
 ];
