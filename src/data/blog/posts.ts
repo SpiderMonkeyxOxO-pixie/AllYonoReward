@@ -6,6 +6,50 @@ import type { BlogPost } from "@/lib/types";
 // here, and a matching content component.
 export const blogPosts: BlogPost[] = [
   {
+    slug: "cards-feature-explained",
+
+    image: "/images/blog/cards-feature-explained.webp",
+    title: "Cards Feature Explained: How This Network's 7- to 30-Day Reward Layout Actually Works",
+    metaTitle: "Cards Feature Explained: Reward Layout, Not a Card Game",
+    metaDescription:
+      "\"Cards\" is a reward-feature tag used on 16 apps in this network — tied with Lucky Spin for the most of any tag, yet it's never had its own explainer until now. Here's how the 7- to 30-day layout works, and why it isn't a card game. 18+ info only.",
+    excerpt:
+      "Cards appears on 16 apps in this network — tied for the most of any reward-feature tag — and it's never had an explainer of its own. Here's how the layout, cycle and reset rules actually work.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "cards reward feature",
+    datePublished: "2026-11-27",
+    dateUpdated: "2026-11-27",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["yono-arcade", "club-inr", "money-rummy"],
+    faqs: [
+      {
+        question: "What is the Cards reward feature?",
+        answer:
+          "A card-style reward layout displayed over a set activity period, commonly 7 to 30 days. Individual cards unlock through daily activity, logins, or specific in-app actions the platform defines, and may reveal platform credits or other in-app benefits once unlocked.",
+      },
+      {
+        question: "Is the Cards reward feature the same thing as a card game?",
+        answer:
+          "No. In this directory, Cards appears as a feature tag across five different game categories — Card Game, Rummy, Slots, Spin Games and Arcade — which shows it describes a reward-UI layout, not a genre. A slots app and a rummy app can both carry the Cards tag.",
+      },
+      {
+        question: "What happens if I miss a day during a Cards cycle?",
+        answer:
+          "Missed days may affect progress depending on platform rules, and unclaimed card rewards commonly expire once the stated 7- to 30-day cycle ends. Exact reset behavior is set by each platform individually.",
+      },
+      {
+        question: "Why do Cards cycle lengths and rewards differ between apps?",
+        answer:
+          "Card layouts, reward values and cycle lengths are configured independently by each platform and may change without notice, which is why a 7-day cycle on one app and a 30-day cycle on another can both be labeled \"Cards.\"",
+      },
+      {
+        question: "Which other features does Cards usually appear alongside?",
+        answer:
+          "Across the 16 apps that carry it, Cards clusters into a small number of repeating combinations rather than appearing alone — most commonly alongside Invite Reward Chest and Lucky Spin, or Leaderboard and Refer and Earn, or Lucky Wheel and First Deposit Bonus.",
+      },
+    ],
+  },
+  {
     slug: "invite-reward-chest-explained",
 
     image: "/images/blog/invite-reward-chest-explained.webp",

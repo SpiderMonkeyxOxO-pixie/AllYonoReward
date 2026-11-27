@@ -71,6 +71,7 @@ import RushGalaCountdown from "./rush-gala-countdown";
 import BonusWithdrawalRulesAndKycExplained from "./bonus-withdrawal-rules-and-kyc-explained";
 import BonusForfeitureRulesExplained from "./bonus-forfeiture-rules-explained";
 import InviteRewardChestExplained from "./invite-reward-chest-explained";
+import CardsFeatureExplained from "./cards-feature-explained";
 
 // Maps a blog post slug (see src/data/blog/posts.ts) to its body content
 // component. Add a new entry here whenever a new post is added.
@@ -146,4 +147,5 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "bonus-withdrawal-rules-and-kyc-explained": BonusWithdrawalRulesAndKycExplained,
   "bonus-forfeiture-rules-explained": BonusForfeitureRulesExplained,
   "invite-reward-chest-explained": InviteRewardChestExplained,
+  "cards-feature-explained": CardsFeatureExplained,
 };
