@@ -50,6 +50,50 @@ export const blogPosts: BlogPost[] = [
     ],
   },
   {
+    slug: "events-feature-explained",
+
+    image: "/images/blog/events-feature-explained.webp",
+    title: "Events Feature Explained: What the Limited-Time Activity Tag Actually Covers",
+    metaTitle: "Events Feature Explained: Tournaments, Campaigns, Not One Mechanic",
+    metaDescription:
+      "\"Events\" is a feature tag on 13 apps in this network — tournaments, seasonal campaigns and point-based challenges all share the label, with no dedicated explainer until now. 18+ info only.",
+    excerpt:
+      "Events appears on 13 apps in this network, but it isn't one mechanic — it's whatever limited-time tournament, campaign or challenge the platform is currently running. Here's what sits underneath the tag.",
+    category: "Rewards & Bonuses",
+    targetKeyword: "events reward feature",
+    datePublished: "2026-11-28",
+    dateUpdated: "2026-11-28",
+    readingTimeMinutes: 6,
+    relatedGameSlugs: ["bingo-101", "jaiho-arcade", "game-rummy"],
+    faqs: [
+      {
+        question: "What is the Events reward feature?",
+        answer:
+          "A feature tag covering limited-time activities a platform runs — tournaments, seasonal campaigns, or point-based challenges — each governed by its own rules rather than a single fixed program. Participation and rewards follow that specific event's terms, not a standing Events policy.",
+      },
+      {
+        question: "Does the Events feature work the same way on every app?",
+        answer:
+          "No. Event structure, duration and rewards are designed independently by each platform for each campaign. A weekend tournament on one app and a month-long challenge on another can both be labeled \"Events\" with nothing else in common.",
+      },
+      {
+        question: "Can I join an event after it has already started, or claim a reward after it closes?",
+        answer:
+          "Generally no. Events are time-limited and typically cannot be joined after they close, and each event has its own defined start and end date — rewards are generally not available once that window ends.",
+      },
+      {
+        question: "Which other reward-feature tags does Events usually appear alongside?",
+        answer:
+          "Across the 13 apps that carry it, Events splits into three repeating clusters rather than appearing alone: most commonly with Leaderboard and Lucky Wheel, or with Login Gift and Rewards Today, or with Refer and Earn and Invite Reward Chest.",
+      },
+      {
+        question: "How do I know when a new event starts on a given app?",
+        answer:
+          "Event schedules are announced within each platform's own app or official channels — this directory only summarizes publicly observable information and does not track internal event calendars.",
+      },
+    ],
+  },
+  {
     slug: "invite-reward-chest-explained",
 
     image: "/images/blog/invite-reward-chest-explained.webp",

@@ -35,6 +35,7 @@ import NewYonoGamesCheckRewardsFirst from "./new-yono-games-check-rewards-first"
 import RealCashGamesWhatTheClaimMeans from "./real-cash-games-what-the-claim-means";
 import LeaderboardRewardsExplained from "./leaderboard-rewards-explained";
 import HowReferAndEarnRewardsWork from "./how-refer-and-earn-rewards-work";
+import EventsFeatureExplained from "./events-feature-explained";
 
 import Rummy91WelcomeBonusExplained from "./rummy-91-welcome-bonus-explained";
 import RummyVip500BonusExplained from "./rummy-vip-500-bonus-explained";
@@ -149,5 +150,6 @@ export const BLOG_CONTENT: Record<string, ComponentType> = {
   "bonus-forfeiture-rules-explained": BonusForfeitureRulesExplained,
   "invite-reward-chest-explained": InviteRewardChestExplained,
   "cards-feature-explained": CardsFeatureExplained,
+  "events-feature-explained": EventsFeatureExplained,
   "spin-dost-countdown": SpinDostCountdown,
 };
